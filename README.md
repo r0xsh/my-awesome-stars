@@ -1035,6 +1035,7 @@
 
 ## Kotlin 
 
+- [ng-galien/idea-plpgdebugger](https://github.com/ng-galien/idea-plpgdebugger) - A plugin to debug PL/pg in Intellij
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [fingerprintjs/fingerprintjs-android](https://github.com/fingerprintjs/fingerprintjs-android) - Swiss army knife for identifying and fingerprinting Android devices.
@@ -1533,7 +1534,7 @@
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure-by-design applications that can Trust Data-in-Motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — 
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design 
 - [JuxhinDB/twistrs](https://github.com/JuxhinDB/twistrs) - A domain name permutation and enumeration library powered by Rust.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [stalwartlabs/jmap-server](https://github.com/stalwartlabs/jmap-server) - Stalwart JMAP server
