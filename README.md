@@ -364,7 +364,7 @@
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
-- [bareos/bareos](https://github.com/bareos/bareos) - Main repository with the code for the libraries and daemons
+- [bareos/bareos](https://github.com/bareos/bareos) - Bareos is a cross-network Open Source backup solution (licensed under AGPLv3) which preserves, archives, and recovers data from all major operating systems.
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1928,7 +1928,7 @@
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps for web. Open base map altenative.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Automated data exploratory analysis and visualization tools.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
