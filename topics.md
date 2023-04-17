@@ -342,6 +342,7 @@
 
 ## api 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
@@ -934,6 +935,7 @@
 
 ## design 
 
+- [still-scene/t3](https://github.com/still-scene/t3) - Tooll 3 is an open source software to create realtime motion graphics.
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, flexible Hugo theme
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
@@ -1128,6 +1130,7 @@
 
 ## elixir 
 
+- [ueberauth/guardian](https://github.com/ueberauth/guardian) - Elixir Authentication
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang with Zero dependencies
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
@@ -1521,6 +1524,7 @@
 
 ## graphql 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -2254,6 +2258,7 @@
 
 ## linux 
 
+- [archcraft-os/archcraft-wayland-special](https://github.com/archcraft-os/archcraft-wayland-special) - Archcraft Wayland Special Edition
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -2716,6 +2721,8 @@
 
 ## others 
 
+- [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
+- [reduf/search](https://github.com/reduf/search) - GUI built on ripgrep for recursive file content searching.
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -3806,6 +3813,7 @@
 
 ## rest-api 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
