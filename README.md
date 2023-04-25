@@ -102,7 +102,7 @@
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
-- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [espressif/esp-skainet](https://github.com/espressif/esp-skainet) - Espressif intelligent voice assistant
 - [kspalaiologos/qbdiff](https://github.com/kspalaiologos/qbdiff) - building and applying patches to binary files
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -1537,6 +1537,7 @@
 
 ## Ruby 
 
+- [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
@@ -1989,7 +1990,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
-- [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Type-safe APIs with Protobuf and TypeScript.
+- [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [xcarpentier/rn-tourguide](https://github.com/xcarpentier/rn-tourguide) - 🚩Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)
