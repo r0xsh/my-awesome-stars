@@ -498,7 +498,7 @@
 ## bash 
 
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [bram-dingelstad/neh](https://github.com/bram-dingelstad/neh) - The super small and simple nginx microservice/api maker!
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -970,7 +970,7 @@
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
@@ -1397,7 +1397,7 @@
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [dennis-tra/image-stego](https://github.com/dennis-tra/image-stego) - 🏞 Steganography-based image integrity - Merkle tree nodes embedded into image chunks so that each chunk's integrity can be verified on its own.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -2055,7 +2055,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [Water-Melon/Melang](https://github.com/Water-Melon/Melang) - A script language of preemptive scheduling coroutine in single thread
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [hackolade/OpenAPI](https://github.com/hackolade/OpenAPI) - Hackolade plugin for OpenAPI 3 API documentation
 - [tboox/tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
@@ -2204,7 +2204,7 @@
 - [Water-Melon/Melang](https://github.com/Water-Melon/Melang) - A script language of preemptive scheduling coroutine in single thread
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [pfusik/cito](https://github.com/pfusik/cito) - Ć programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [lf-lang/lingua-franca](https://github.com/lf-lang/lingua-franca) - Intuitive concurrent programming in any language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -2292,7 +2292,7 @@
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [spacejam/rio](https://github.com/spacejam/rio) - pure rust io_uring library, built on libc, thread & async friendly, misuse resistant
@@ -2412,7 +2412,7 @@
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
@@ -4190,7 +4190,7 @@
 - [SixArm/unix-shell-script-tactics](https://github.com/SixArm/unix-shell-script-tactics) - Unix shell script tactics - best practices style guide
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [Snawoot/hisilicon-dvr-telnet](https://github.com/Snawoot/hisilicon-dvr-telnet) - PoC materials for article https://habr.com/en/post/486856/
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -4235,7 +4235,7 @@
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
 - [directus/v8-archive](https://github.com/directus/v8-archive) - Directus Database API — Wraps Custom SQL Databases with a REST/GraphQL API
@@ -4329,7 +4329,7 @@
 - [Julien-R44/cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
