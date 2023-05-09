@@ -151,6 +151,7 @@
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
 - [kubo/funchook](https://github.com/kubo/funchook) - Hook function calls by inserting jump instructions at runtime
 - [Zeex/subhook](https://github.com/Zeex/subhook) - Simple hooking library for C/C++ (x86 only, 32/64-bit, no dependencies)
+- [learn-more/findpattern-bench](https://github.com/learn-more/findpattern-bench) - Simple benchmark for findpattern implementations.
 - [tandasat/MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg) - The research UEFI hypervisor that supports booting an operating system.
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
@@ -322,7 +323,6 @@
 - [geohot/solidity](https://github.com/geohot/solidity) - 
 - [NMan1/Rainbow-Six-Cheat](https://github.com/NMan1/Rainbow-Six-Cheat) - Features a kernel driver - fully functional login loader with a MySQL database - HWID checker - licensing system - r6 cheat features - menu
 - [xvladqt/nh21](https://github.com/xvladqt/nh21) - NanoHack 2.1 source
-- [learn-more/findpattern-bench](https://github.com/learn-more/findpattern-bench) - Simple benchmark for findpattern implementations.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [ValveSoftware/ToGL](https://github.com/ValveSoftware/ToGL) - Direct3D to OpenGL abstraction layer
 - [nullworks/cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
@@ -455,6 +455,7 @@
 
 ## Dart 
 
+- [davquar/halfdot](https://github.com/davquar/halfdot) - Minimalistic Umami client for Android
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [hamaluik/timecop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and the gets the job done without being fancy.
 - [simc/auto_size_text](https://github.com/simc/auto_size_text) - Flutter widget that automatically resizes text to fit perfectly within its bounds.
@@ -754,6 +755,7 @@
 
 ## HTML 
 
+- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [LAION-AI/laion-datasets](https://github.com/LAION-AI/laion-datasets) - Description and pointers of laion datasets
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
@@ -1072,6 +1074,7 @@
 
 ## Kotlin 
 
+- [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [ng-galien/idea-plpgdebugger](https://github.com/ng-galien/idea-plpgdebugger) - A plugin to debug PL/pg in Intellij
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
@@ -1571,6 +1574,8 @@
 
 ## Rust 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
