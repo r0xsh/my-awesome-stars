@@ -100,6 +100,7 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [espressif/esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [reduf/search](https://github.com/reduf/search) - GUI built on ripgrep for recursive file content searching.
 - [abler98/h3-php](https://github.com/abler98/h3-php) - PHP extension with H3 library bindings
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -269,6 +270,7 @@
 
 ## C++ 
 
+- [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
@@ -1404,6 +1406,7 @@
 - [boramalper/pydis](https://github.com/boramalper/pydis) - A redis clone in Python 3 to disprove some falsehoods about performance.
 - [iceychris/LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [serramatutu/py-saga](https://github.com/serramatutu/py-saga) - py-saga is an asynchronous open-source python implementation of the saga pattern
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -1574,6 +1577,7 @@
 
 ## Rust 
 
+- [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
@@ -1584,7 +1588,6 @@
 - [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists
 - [nicolas-siplis/IronBoy](https://github.com/nicolas-siplis/IronBoy) - A Gameboy emulator written in Rust as both a learning exercise and a love letter to the console that got me into gaming.
 - [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
-- [reduf/search](https://github.com/reduf/search) - GUI built on ripgrep for recursive file content searching.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [fxdave/vonal-rust](https://github.com/fxdave/vonal-rust) - vonal-rust
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
@@ -1897,7 +1900,6 @@
 - [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS:GO, Dota 2, Artifact, Underlords and TF2 protobufs.
 - [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home server setup built on top of Ubuntu, Docker, Home Assistant, Servarr, etc
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [levyitay/AddSecurityExceptionAndroid](https://github.com/levyitay/AddSecurityExceptionAndroid) - 
 - [maxbbraun/pisight](https://github.com/maxbbraun/pisight) - Apple iSight with a Raspberry Pi inside
 - [microsoft/mindaro](https://github.com/microsoft/mindaro) - Bridge to Kubernetes - for Visual Studio and Visual Studio Code
