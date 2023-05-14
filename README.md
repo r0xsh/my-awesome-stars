@@ -480,6 +480,7 @@
 
 ## Elixir 
 
+- [Perhap/perhap](https://github.com/Perhap/perhap) - Perhap is an purely functional event store and service framework inspired by domain driven design and reactive architectures.
 - [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
 - [ArangoDB-Community/arangox](https://github.com/ArangoDB-Community/arangox) - ArangoDB 3.4+ driver for Elixir with connection pooling, support for VelocyStream, active failover, transactions and streamed cursors.
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
