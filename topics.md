@@ -2778,6 +2778,7 @@
 
 ## others 
 
+- [Perhap/perhap](https://github.com/Perhap/perhap) - Perhap is an purely functional event store and service framework inspired by domain driven design and reactive architectures.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
 - [davquar/halfdot](https://github.com/davquar/halfdot) - Minimalistic Umami client for Android
