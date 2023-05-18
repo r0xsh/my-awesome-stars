@@ -96,6 +96,7 @@
 
 ## C 
 
+- [robdelacruz/lkwebserver](https://github.com/robdelacruz/lkwebserver) - Little Kitten Webserver
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -481,6 +482,7 @@
 
 ## Elixir 
 
+- [ueberauth/ueberauth](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications
 - [Perhap/perhap](https://github.com/Perhap/perhap) - Perhap is an purely functional event store and service framework inspired by domain driven design and reactive architectures.
 - [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
 - [ArangoDB-Community/arangox](https://github.com/ArangoDB-Community/arangox) - ArangoDB 3.4+ driver for Elixir with connection pooling, support for VelocyStream, active failover, transactions and streamed cursors.
@@ -531,6 +533,7 @@
 
 ## Go 
 
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) - A neovim plugin for interfacing with the freedesktop dark mode standard
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
