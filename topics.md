@@ -1675,7 +1675,6 @@
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -2842,6 +2841,7 @@
 
 ## others 
 
+- [aarthificial/motion-canvas](https://github.com/aarthificial/motion-canvas) - Web-based tool for creating animations programmatically
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [R0bk/Transpector](https://github.com/R0bk/Transpector) - Visual Transformer Mechanistic Analysis Tool
