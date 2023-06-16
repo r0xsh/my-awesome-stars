@@ -469,6 +469,7 @@
 
 ## awesome-list 
 
+- [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [Aquila-Network/awesome-aquila-network](https://github.com/Aquila-Network/awesome-aquila-network) - Everyting you need to know about Aquila Network Neural Search Ecosystem. Official repositories, client libraries, ecosystem projects, boilerplate, tutorials, learning and more..
