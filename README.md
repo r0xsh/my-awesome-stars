@@ -275,6 +275,7 @@
 
 ## C++ 
 
+- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - a
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -1635,6 +1636,7 @@
 
 ## Rust 
 
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [oscarmcm/calio](https://github.com/oscarmcm/calio) - Tiny CLI tool that helps to visualize iCal file content in the terminal.
 - [Nachasic/sgvtex](https://github.com/Nachasic/sgvtex) - A tool to convert LaTeX to SVG, written in Rust
@@ -2056,6 +2058,7 @@
 
 ## TypeScript 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSYWIG editor with AI-powered autocompletions
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
