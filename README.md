@@ -560,6 +560,7 @@
 
 ## Go 
 
+- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Real-Time and Scalable Usage Metering
 - [tzapio/tzap](https://github.com/tzapio/tzap) - 
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -818,7 +819,6 @@
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a
 - [borilla/z80-nops-static](https://github.com/borilla/z80-nops-static) - HTML page showing Z80 instructions and timing for Amstrad CPC
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
@@ -855,7 +855,7 @@
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [Cero-Studio/ReactNativeWheelPicker](https://github.com/Cero-Studio/ReactNativeWheelPicker) - 
-- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
+- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [oblador/react-native-store-review](https://github.com/oblador/react-native-store-review) - Rate on App/Play Store directly in your React Native app
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
@@ -1024,6 +1024,7 @@
 - [ammonb/stereogram-raycaster](https://github.com/ammonb/stereogram-raycaster) - A raycaster that renders to random dot  stereogram
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 - [generativefm/generative.fm](https://github.com/generativefm/generative.fm) - A platform for playing generative music in the browser.
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [pdffillerjs/pdffiller](https://github.com/pdffillerjs/pdffiller) - Take an existing PDF Form and data and PDF Filler will create a new PDF with all given fields populated.
 - [GSA/pdf-filler](https://github.com/GSA/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empowers web developers to use browser-based forms and modern web standards to facilitate the collection 
 - [watson/bonjour](https://github.com/watson/bonjour) - A Bonjour/Zeroconf protocol implementation in JavaScript
@@ -1661,6 +1662,7 @@
 
 ## Rust 
 
+- [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
