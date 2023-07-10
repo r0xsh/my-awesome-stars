@@ -1752,6 +1752,7 @@
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [amoffat/supertag](https://github.com/amoffat/supertag) - A tag-based filesystem
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [nilsmartel/awaitchange](https://github.com/nilsmartel/awaitchange) - Useful when one only wants to perform commands on filechanges
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -2241,7 +2242,6 @@
 ## Vim Script 
 
 - [nerdypepper/dotfiles](https://github.com/nerdypepper/dotfiles) - files that define my GNU/Linux box.
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [dylanaraps/dotfiles](https://github.com/dylanaraps/dotfiles) - 🍙 dotfiles
 - [cassidoo/vim-up](https://github.com/cassidoo/vim-up) - A bunch of vim shortcuts, colors, and bundles to make your life easier
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
