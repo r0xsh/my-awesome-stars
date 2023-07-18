@@ -800,6 +800,7 @@
 
 ## HTML 
 
+- [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
