@@ -185,7 +185,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [hapostgres/pg_auto_failover](https://github.com/hapostgres/pg_auto_failover) - Postgres extension and service for automated failover and high-availability
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, e
+- [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, explo
 - [derekp7/snebu](https://github.com/derekp7/snebu) - Simple Network Encrypting Backup Utility
 - [WireGuard/wireguard-monolithic-historical](https://github.com/WireGuard/wireguard-monolithic-historical) - Historical monolithic WireGuard repository, split into wireguard-tools, wireguard-linux, and wireguard-linux-compat.
 - [hexagonal-sun/bic](https://github.com/hexagonal-sun/bic) - A C interpreter and API explorer.
@@ -428,7 +428,7 @@
 
 ## CMake 
 
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Next-generation HTML renderer for apps and games
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
 
 ## CSS 
 
@@ -472,7 +472,6 @@
 ## Dart 
 
 - [davquar/halfdot](https://github.com/davquar/halfdot) - Minimalistic Umami client for Android
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [hamaluik/timecop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and the gets the job done without being fancy.
 - [simc/auto_size_text](https://github.com/simc/auto_size_text) - Flutter widget that automatically resizes text to fit perfectly within its bounds.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -560,6 +559,8 @@
 
 ## Go 
 
+- [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
+- [leighmacdonald/bd](https://github.com/leighmacdonald/bd) - 
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Real-Time, Accurate Usage Metering for Billing, Chargeback and Infrastructure.
@@ -1669,6 +1670,7 @@
 
 ## Rust 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -1682,7 +1684,7 @@
 - [oscarmcm/calio](https://github.com/oscarmcm/calio) - Tiny CLI tool that helps to visualize iCal file content in the terminal.
 - [Nachasic/sgvtex](https://github.com/Nachasic/sgvtex) - A tool to convert LaTeX to SVG, written in Rust
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
@@ -2144,6 +2146,7 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
