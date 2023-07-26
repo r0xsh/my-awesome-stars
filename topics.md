@@ -526,6 +526,7 @@
 
 ## bash 
 
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [golivecosmos/pluto](https://github.com/golivecosmos/pluto) - This is a library of scripts that come in handy when working with media files
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
@@ -2959,6 +2960,7 @@
 
 ## others 
 
+- [alantech/marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) - Javascript stream parser for UN/EDIFACT documents.
 - [estratocloud/edifact](https://github.com/estratocloud/edifact) - Parser and Serializer for UN/EDIFACT messages in PHP
@@ -4516,6 +4518,7 @@
 
 ## shell 
 
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [SixArm/unix-shell-script-tactics](https://github.com/SixArm/unix-shell-script-tactics) - Unix shell script tactics - best practices style guide
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
