@@ -1318,7 +1318,7 @@
 ## PHP 
 
 - [estratocloud/edifact](https://github.com/estratocloud/edifact) - Parser and Serializer for UN/EDIFACT messages in PHP
-- [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [waterholeforum/waterhole](https://github.com/waterholeforum/waterhole) - Waterhole starter project.
 - [tarlepp/symfony-flex-backend](https://github.com/tarlepp/symfony-flex-backend) - Symfony Flex REST API template project
 - [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP wrapper for the Meilisearch API
@@ -1475,7 +1475,7 @@
 - [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer
 - [clarkerubber/irwin](https://github.com/clarkerubber/irwin) - irwin - the protector of lichess from all chess players villainous
 - [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, Falcon and alike). Haystack offers production-ready tools to quickly build complex q
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
 - [sqall01/chasr-server](https://github.com/sqall01/chasr-server) - End-To-End Encrypted GPS Tracking Service
 - [gympohnpimol/Last-Mile-Logistics](https://github.com/gympohnpimol/Last-Mile-Logistics) - 
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
@@ -1541,7 +1541,7 @@
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [inetprocess/gitlab-release](https://github.com/inetprocess/gitlab-release) - Tool to create gitlab revisions with file upload.Useful for CI publish tasks.
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
