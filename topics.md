@@ -578,6 +578,7 @@
 
 ## c 
 
+- [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -1503,7 +1504,7 @@
 
 ## go 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
@@ -1574,7 +1575,7 @@
 
 ## golang 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
@@ -2544,6 +2545,7 @@
 
 ## machine-learning 
 
+- [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The vector database optimized for documents and video search
@@ -2753,6 +2755,7 @@
 
 ## neovim 
 
+- [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) - Heuristic buffer auto-close
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
@@ -2804,6 +2807,7 @@
 
 ## nlp 
 
+- [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models on any computer with 512MB of RAM
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -2966,6 +2970,7 @@
 
 ## others 
 
+- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [amandaghassaei/VortexShedding](https://github.com/amandaghassaei/VortexShedding) - A realtime fluid flow simulation on the GPU using WebGL
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
@@ -2982,7 +2987,6 @@
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
-- [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) - Heuristic buffer auto-close
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer's Handbook
 - [shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized) - Apple's SFMono font nerd-font patched and ligaturized
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol
