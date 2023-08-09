@@ -540,7 +540,7 @@
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [erlymon/erlymon](https://github.com/erlymon/erlymon) - Open Source GPS Tracking System
 - [2600hz/kazoo](https://github.com/2600hz/kazoo) - The core of an open-source, distributed, highly scalable platform designed to provide robust telecom services
-- [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
+- [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!
 - [kvakvs/E4VM](https://github.com/kvakvs/E4VM) - A small portable virtual machine that would run Erlang on embedded systems
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [erlanglab/erlangpl](https://github.com/erlanglab/erlangpl) - Tool for developers working with systems running on the Erlang VM (BEAM). It helps with performance analysis.
