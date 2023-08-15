@@ -856,7 +856,6 @@
 ## Java 
 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-- [alan-eu/react-native-fast-shadow](https://github.com/alan-eu/react-native-fast-shadow) - Fast and high quality Android shadows for React Native
 - [apache/incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
@@ -2244,7 +2243,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
