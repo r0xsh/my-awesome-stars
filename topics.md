@@ -86,6 +86,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -646,6 +647,7 @@
 
 ## cli 
 
+- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [oscarmcm/calio](https://github.com/oscarmcm/calio) - Tiny CLI tool that helps to visualize iCal file content in the terminal.
@@ -1287,7 +1289,7 @@
 
 ## express 
 
-- [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
+- [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 
@@ -1462,6 +1464,10 @@
 ## games 
 
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
+
+## gis 
+
+- [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 
 ## git 
 
@@ -2083,7 +2089,7 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
-- [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
+- [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
 - [marcocesarato/react-native-big-list](https://github.com/marcocesarato/react-native-big-list) - This is a high performance list view for React Native with support for complex layouts using a similar FlatList usage to make easy the replacement. This list implementation for big list rendering on R
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [dashborg/hibiki](https://github.com/dashborg/hibiki) - Hibiki HTML
@@ -2788,7 +2794,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
+- [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
@@ -2844,7 +2850,7 @@
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
-- [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
+- [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
@@ -2966,6 +2972,7 @@
 
 ## others 
 
+- [thatguy-za/esp32-cam-doorbell](https://github.com/thatguy-za/esp32-cam-doorbell) - 
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor your favorite icon packs, wallpapers and themes with a few clicks.
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
@@ -4757,7 +4764,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
-- [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
+- [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - Connect, gRPC, and gRPC-Web support for Protobuf and TypeScript.
 - [dashborg/hibiki](https://github.com/dashborg/hibiki) - Hibiki HTML
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
