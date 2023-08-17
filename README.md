@@ -856,6 +856,7 @@
 ## Java 
 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [alan-eu/react-native-fast-shadow](https://github.com/alan-eu/react-native-fast-shadow) - Fast and high quality Android shadows for React Native
 - [apache/incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
@@ -1609,7 +1610,7 @@
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [bbc/brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-- [dthpham/butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
+- [dthpham/sminterpolate](https://github.com/dthpham/sminterpolate) - Make motion interpolated and fluid slow motion videos from the command line.
 - [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [minimaxir/person-blocker](https://github.com/minimaxir/person-blocker) - Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
