@@ -37,6 +37,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
@@ -435,6 +436,7 @@
 
 ## CSS 
 
+- [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor your favorite icon packs, wallpapers and themes with a few clicks.
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [runarsf/ffprofile](https://github.com/runarsf/ffprofile) - 🔥🦊🍱
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
@@ -815,7 +817,6 @@
 - [raphaelchang/microphone-array-board](https://github.com/raphaelchang/microphone-array-board) - Microphone array PCB for sound processing projects
 - [chriszarate/supergenpass](https://github.com/chriszarate/supergenpass) - A free bookmarklet password generator.
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [siegerts/hugo-theme-basic](https://github.com/siegerts/hugo-theme-basic) - Basic site theme styled with minimal tachyons, syntax highlighting, and blog series configuration. 📦
 - [fabiang/true-combat](https://github.com/fabiang/true-combat) - Enemy Territory + True Combat:Elite
 - [slowernews/slowernews](https://github.com/slowernews/slowernews) - Don't  spend a shit-ton of time filtering trivia.
@@ -947,7 +948,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [maputnik/editor](https://github.com/maputnik/editor) - An open source visual editor for the 'Mapbox Style Specification'
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [fwextensions/quick-score](https://github.com/fwextensions/quick-score) - A JavaScript string-scoring and fuzzy-matching library based on the Quicksilver algorithm, designed for smart auto-complete.
 - [jes/nightdrive](https://github.com/jes/nightdrive) - Night-time driving simulation
 - [UXPin/adele](https://github.com/UXPin/adele) - Adele - Design Systems Repository
@@ -1139,6 +1140,10 @@
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [commaai/comma2k19](https://github.com/commaai/comma2k19) - A driving dataset for the development and validation of fused pose estimators and mapping algorithms
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
+
+## Just 
+
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
 ## Kotlin 
 
@@ -1441,7 +1446,7 @@
 
 ## Python 
 
-- [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor your favorite icon packs, wallpapers and themes with a few clicks.
+- [dusanx/saf](https://github.com/dusanx/saf) - Rsync-based time machine for Linux, written in Python, for local and remote backups.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
 - [alantech/marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
 - [easy-graph/Easy-Graph](https://github.com/easy-graph/Easy-Graph) - EasyGraph is an open source graph processing library, which covers advanced graph processing methods in structural hole spanners detection, graph embedding and several classic methods.
@@ -2123,6 +2128,7 @@
 
 ## TypeScript 
 
+- [poozlehq/poozle](https://github.com/poozlehq/poozle) - Open Source Plaid for LLMs
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
