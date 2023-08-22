@@ -2460,6 +2460,7 @@
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
 - [archcraft-os/archcraft-wayland-special](https://github.com/archcraft-os/archcraft-wayland-special) - Archcraft Wayland Special Edition
+- [fxdave/vonal-rust](https://github.com/fxdave/vonal-rust) - Modern customizable global menu with unlimiting plugin system written in Rust
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -3047,7 +3048,6 @@
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [fxdave/vonal-rust](https://github.com/fxdave/vonal-rust) - vonal-rust
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
