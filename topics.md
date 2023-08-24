@@ -2344,7 +2344,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [markhilton/larakube](https://github.com/markhilton/larakube) - Laravel app deployment for auto scaled Kubernetes cluster
-- [cookeem/kubeadm-ha](https://github.com/cookeem/kubeadm-ha) - Kubernetes high availiability deploy based on kubeadm, loadbalancer included (English/中文 for v1.15 - v1.20+)
+- [cookeem/kubeadm-ha](https://github.com/cookeem/kubeadm-ha) - 通过kubeadm安装kubernetes高可用集群，使用docker容器运行时，适用v1.24.x以上版本
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
