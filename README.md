@@ -1463,7 +1463,7 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The vector database optimized for documents and video search
 - [lettersoup/Sofia-Sans](https://github.com/lettersoup/Sofia-Sans) - 
 - [pyrustic/jesth](https://github.com/pyrustic/jesth) - Next-level human-readable data serialization format
-- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for building simpler and faster AI-powered applications
+- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Data platform for building AI apps
 - [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - a load testing tool extended from locust
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
