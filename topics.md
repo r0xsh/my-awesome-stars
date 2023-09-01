@@ -558,7 +558,7 @@
 ## bitcoin 
 
 - [lbryio/lbrycrd](https://github.com/lbryio/lbrycrd) - The blockchain that provides the digital content namespace for the LBRY protocol
-- [AleoHQ/wagyu](https://github.com/AleoHQ/wagyu) - A Rust library for generating cryptocurrency wallets
+- [howardwu/wagyu](https://github.com/howardwu/wagyu) - A Rust library for generating cryptocurrency wallets
 - [stacks-network/stacks-blockchain](https://github.com/stacks-network/stacks-blockchain) - The Stacks blockchain implementation
 
 ## blockchain 
@@ -1290,7 +1290,7 @@
 
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Connect any data source, combine them in real-time and instantly get low-latency Data APIs. All with just a simple configuration!
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
-- [AleoHQ/wagyu](https://github.com/AleoHQ/wagyu) - A Rust library for generating cryptocurrency wallets
+- [howardwu/wagyu](https://github.com/howardwu/wagyu) - A Rust library for generating cryptocurrency wallets
 
 ## express 
 
@@ -2677,7 +2677,7 @@
 
 ## monero 
 
-- [AleoHQ/wagyu](https://github.com/AleoHQ/wagyu) - A Rust library for generating cryptocurrency wallets
+- [howardwu/wagyu](https://github.com/howardwu/wagyu) - A Rust library for generating cryptocurrency wallets
 
 ## mongodb 
 
