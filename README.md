@@ -1334,6 +1334,7 @@
 
 ## PHP 
 
+- [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) - 🚚 Fleetbase: Open Source Modular Logistics Platform. Built on Adaptable Extensions to Manage and Orchestrate Logistics Operations.
 - [estratocloud/edifact](https://github.com/estratocloud/edifact) - Parser and Serializer for UN/EDIFACT messages in PHP
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [waterholeforum/waterhole](https://github.com/waterholeforum/waterhole) - Waterhole starter project.
@@ -1793,7 +1794,7 @@
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [amoffat/supertag](https://github.com/amoffat/supertag) - A tag-based filesystem
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for 15+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for 15+ languages 📚 Generate proper code documentation with a single keypress. ⚡️🔥
 - [nilsmartel/awaitchange](https://github.com/nilsmartel/awaitchange) - Useful when one only wants to perform commands on filechanges
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
