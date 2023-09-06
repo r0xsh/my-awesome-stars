@@ -1246,6 +1246,7 @@
 
 ## Others 
 
+- [maplibre/awesome-maplibre](https://github.com/maplibre/awesome-maplibre) - A collection of awesome things that use or support MapLibre!
 - [thatguy-za/esp32-cam-doorbell](https://github.com/thatguy-za/esp32-cam-doorbell) - 
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [Ottercast/OtterCastAudioV2](https://github.com/Ottercast/OtterCastAudioV2) - OtterCast is an open-source audio streaming device running Linux. Based on a Sochip S3 SoC, featuring a Webinterface, shairport-sync, snapcast, Spotify Connect and pulseaudio sink/source.
@@ -2132,6 +2133,7 @@
 
 ## TypeScript 
 
+- [measuredco/puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
