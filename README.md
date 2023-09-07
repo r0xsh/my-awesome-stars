@@ -278,6 +278,7 @@
 
 ## C++ 
 
+- [maplibre/maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
 - [raspofabs/dodbooksourcecode](https://github.com/raspofabs/dodbooksourcecode) - Source code to the data-oriented design book
@@ -856,6 +857,7 @@
 
 ## Java 
 
+- [maplibre/maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android) - MapLibre Native for Android Plugins
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [alan-eu/react-native-fast-shadow](https://github.com/alan-eu/react-native-fast-shadow) - Fast and high quality Android shadows for React Native
 - [apache/incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
@@ -1246,6 +1248,7 @@
 
 ## Others 
 
+- [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [maplibre/awesome-maplibre](https://github.com/maplibre/awesome-maplibre) - A collection of awesome things that use or support MapLibre!
 - [thatguy-za/esp32-cam-doorbell](https://github.com/thatguy-za/esp32-cam-doorbell) - 
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -1727,7 +1730,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [krojew/springtime](https://github.com/krojew/springtime) - A framework for advanced Rust applications.
-- [getdozer/dozer](https://github.com/getdozer/dozer) - Connect any data source, combine them in real-time and instantly get low-latency Data APIs. All with just a simple configuration!
+- [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data platform for building, deploying and maintaining data products.
 - [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists
 - [Chiplis/IronBoy](https://github.com/Chiplis/IronBoy) - A Gameboy emulator written in Rust as both a learning exercise and a love letter to the console that got me into gaming.
 - [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
