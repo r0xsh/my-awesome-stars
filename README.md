@@ -99,6 +99,7 @@
 
 ## C 
 
+- [xr0-org/xr0](https://github.com/xr0-org/xr0) - The Xr0 Semantic Abstractor for C
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -564,6 +565,8 @@
 
 ## Go 
 
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
@@ -1454,6 +1457,7 @@
 
 ## Python 
 
+- [ARPSyndicate/puncia](https://github.com/ARPSyndicate/puncia) - The Panthera(P.)uncia of Cybersecurity - Subdomain & Exploit Hunter powered by AI
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - 
 - [seaglass-project/seaglass](https://github.com/seaglass-project/seaglass) - 
 - [dusanx/saf](https://github.com/dusanx/saf) - Rsync-based time machine for Linux, written in Python, for local and remote backups.
