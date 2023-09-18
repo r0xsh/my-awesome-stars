@@ -3156,7 +3156,7 @@
 - [Blogger-Peer-Review/quotebacks](https://github.com/Blogger-Peer-Review/quotebacks) - Quote the web
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
-- [adamfuhrer/glitch-image](https://github.com/adamfuhrer/glitch-image) - 🖼 Generate and save unique glitchy images
+- [adamfuhrer/glitch-image](https://github.com/adamfuhrer/glitch-image) - generate and save unique glitchy images
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [davidcole1340/opus-php](https://github.com/davidcole1340/opus-php) - libopus bindings for PHP
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
