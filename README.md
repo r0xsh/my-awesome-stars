@@ -969,7 +969,7 @@
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [pelias/api](https://github.com/pelias/api) - HTTP API for Pelias Geocoder
 - [Blogger-Peer-Review/quotebacks](https://github.com/Blogger-Peer-Review/quotebacks) - Quote the web
-- [adamfuhrer/glitch-image](https://github.com/adamfuhrer/glitch-image) - 🖼 Generate and save unique glitchy images
+- [adamfuhrer/glitch-image](https://github.com/adamfuhrer/glitch-image) - generate and save unique glitchy images
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [yuhanliu0121/crocodile-delivery](https://github.com/yuhanliu0121/crocodile-delivery) - 小鳄鱼跑腿——基于微信小程序的外卖软件
