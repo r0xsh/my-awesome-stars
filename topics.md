@@ -279,7 +279,7 @@
 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -748,7 +748,7 @@
 
 ## computer-vision 
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [megvii-research/ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -1239,7 +1239,7 @@
 - [mirego/accent](https://github.com/mirego/accent) - The first developer-oriented translation tool. True asynchronous flow between translators and your team.
 - [cocoa-xu/evision](https://github.com/cocoa-xu/evision) - Evision: An OpenCV-Erlang/Elixir binding
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [beam-community/stripity-stripe](https://github.com/beam-community/stripity-stripe) - An Elixir Library for Stripe
 - [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
 - [nerves-project/nerves](https://github.com/nerves-project/nerves) - Craft and deploy bulletproof embedded software in Elixir
@@ -1601,7 +1601,7 @@
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
-- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Accurate and real-time usage metering for AI, DevOps, billing and analytics.
+- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Real-time usage metering for engineers to power the next generation of AI and DevOps companies billing and product use-cases.
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -3140,7 +3140,6 @@
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [milgra/sov](https://github.com/milgra/sov) - An overlay that shows schemas for all workspaces to make navigation in sway easier.
 - [milgra/wcp](https://github.com/milgra/wcp) - Script-driven control panel/system menu for wayland-based window managers.
-- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
 - [Cero-Studio/ReactNativeWheelPicker](https://github.com/Cero-Studio/ReactNativeWheelPicker) - 
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [fwextensions/quick-score](https://github.com/fwextensions/quick-score) - A JavaScript string-scoring and fuzzy-matching library based on the Quicksilver algorithm, designed for smart auto-complete.
@@ -3872,7 +3871,7 @@
 ## postgresql 
 
 - [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [apache/incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
 - [ash-project/ash_postgres](https://github.com/ash-project/ash_postgres) - A postgresql datalayer for the Ash Framework
@@ -3956,7 +3955,7 @@
 - [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - a load testing tool extended from locust
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
@@ -4255,7 +4254,7 @@
 
 ## robotics 
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 
@@ -4294,7 +4293,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data platform for building, deploying and maintaining data products.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -4303,6 +4302,7 @@
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design 
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
@@ -4675,7 +4675,7 @@
 
 ## statistics 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
@@ -4995,7 +4995,7 @@
 
 ## website 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 
 ## windows 
