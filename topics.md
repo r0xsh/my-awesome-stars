@@ -1167,7 +1167,7 @@
 - [FusionAuth/fusionauth-containers](https://github.com/FusionAuth/fusionauth-containers) - Container definitions for docker, kubernetes, helm, and whatever containers come next!
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
+- [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [luangjokaj/wordpressify](https://github.com/luangjokaj/wordpressify) - 🎈 Automate your WordPress development workflow.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -3157,7 +3157,7 @@
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [LAION-AI/laion-datasets](https://github.com/LAION-AI/laion-datasets) - Description and pointers of laion datasets
 - [apple/VideoFlashingReduction](https://github.com/apple/VideoFlashingReduction) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [xonixx/intellij-awk](https://github.com/xonixx/intellij-awk) - The missing IntelliJ IDEA language support plugin for AWK
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation
@@ -3289,7 +3289,7 @@
 - [raphaelchang/microphone-array-board](https://github.com/raphaelchang/microphone-array-board) - Microphone array PCB for sound processing projects
 - [raikm/nevo](https://github.com/raikm/nevo) - The dashboard should be a solution to overview important information and control tasks quickly.
 - [Hypfer/esp8266-vindriktning-particle-sensor](https://github.com/Hypfer/esp8266-vindriktning-particle-sensor) - Wifi MQTT Data Logging via an esp8266 for the Ikea VINDRIKTNING PM2.5 air quality sensor
-- [physwizz/A105FN](https://github.com/physwizz/A105FN) - 
+- [physwizz/A105FN-permissive](https://github.com/physwizz/A105FN-permissive) - 
 - [riebschlager/neobrush](https://github.com/riebschlager/neobrush) - A crazy new paintbrush to tickle your brainballs.
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
