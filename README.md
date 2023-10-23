@@ -882,6 +882,7 @@
 
 ## Java 
 
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source AI solver. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and othe
 - [maplibre/maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android) - MapLibre Native for Android Plugins
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
