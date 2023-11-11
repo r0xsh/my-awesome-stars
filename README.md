@@ -46,6 +46,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
+- [MoonScript](#moonscript)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -1049,7 +1050,7 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
 - [samyk/crak](https://github.com/samyk/crak) - Crash Royale Attack Kit
-- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [logux/docs](https://github.com/logux/docs) - Guide, recipes, and protocol specifications for Logux
@@ -1266,6 +1267,10 @@
 
 - [apple/VideoFlashingReduction](https://github.com/apple/VideoFlashingReduction) - 
 
+## MoonScript 
+
+- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - notion.so client for neovim
+
 ## Nim 
 
 - [nim-lang/nimforum](https://github.com/nim-lang/nimforum) - Lightweight alternative to Discourse written in Nim
@@ -1291,6 +1296,7 @@
 
 ## Others 
 
+- [nyoom-engineering/oxocarbon](https://github.com/nyoom-engineering/oxocarbon) - High contrast accessible colorscheme inspired by IBM Carbon
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [heronarts/LXStudio](https://github.com/heronarts/LXStudio) - LXStudio Digital Lighting Workstation
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
@@ -2322,7 +2328,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - A logical fallacy lookup tool
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 184 TypeScript projects for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 184 TypeScript projects (plus 145+ examples) for general purpose, functional, data driven development
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
