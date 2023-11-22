@@ -243,6 +243,7 @@
 
 ## ai 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source AI solver. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and othe
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
@@ -562,6 +563,7 @@
 
 ## bash 
 
+- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [golivecosmos/pluto](https://github.com/golivecosmos/pluto) - This is a library of scripts that come in handy when working with media files
@@ -683,6 +685,7 @@
 
 ## cli 
 
+- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
@@ -1256,6 +1259,7 @@
 
 ## education 
 
+- [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
@@ -1283,6 +1287,8 @@
 
 ## elixir 
 
+- [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
+- [doorgan/channel_handler](https://github.com/doorgan/channel_handler) - A declarative DSL to work with Phoenix Channels
 - [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir
@@ -1546,6 +1552,7 @@
 
 ## git 
 
+- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1588,6 +1595,8 @@
 
 ## go 
 
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Client-side observability using Wasm
 - [srevinsaju/togomak](https://github.com/srevinsaju/togomak) - A declarative pipeline orchestrator with the magic of HCL as a configuration language, inspired from Terraform's architecture.
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go
@@ -1662,6 +1671,7 @@
 
 ## golang 
 
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) - lunar.dev: Ground Control for 3rd Party APIs
 - [srevinsaju/togomak](https://github.com/srevinsaju/togomak) - A declarative pipeline orchestrator with the magic of HCL as a configuration language, inspired from Terraform's architecture.
@@ -1821,7 +1831,6 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
@@ -1857,7 +1866,6 @@
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [spatie/icalendar-generator](https://github.com/spatie/icalendar-generator) - Generate calendars in the iCalendar format
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -2025,6 +2033,7 @@
 
 ## home-assistant 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -2198,6 +2207,8 @@
 
 ## javascript 
 
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications. 0 external dependencies.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Client-side observability using Wasm
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
@@ -2471,7 +2482,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [markhilton/larakube](https://github.com/markhilton/larakube) - Laravel app deployment for auto scaled Kubernetes cluster
-- [cookeem/kubeadm-ha](https://github.com/cookeem/kubeadm-ha) - 通过kubeadm安装kubernetes高可用集群，使用docker容器运行时，适用v1.24.x以上版本
+- [cookeem/kubeadm-ha](https://github.com/cookeem/kubeadm-ha) - 通过kubeadm安装kubernetes高可用集群，使用docker/containerd容器运行时，适用v1.24.x以上版本
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -2666,6 +2677,7 @@
 
 ## lua 
 
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by `Cargo`.
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
@@ -2895,7 +2907,9 @@
 
 ## neovim 
 
+- [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - notion.so client for neovim
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by `Cargo`.
 - [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) - Heuristic buffer auto-close
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -3118,6 +3132,8 @@
 
 ## others 
 
+- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+- [FrancescoZ/live-map-app](https://github.com/FrancescoZ/live-map-app) - 
 - [eriklupander/tradfri-go](https://github.com/eriklupander/tradfri-go) - Go client for talking to the Ikea trådfri gateway
 - [agentcasa/doda](https://github.com/agentcasa/doda) - Doda Offers Developer Assistance
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
@@ -3135,7 +3151,6 @@
 - [nyoom-engineering/oxocarbon](https://github.com/nyoom-engineering/oxocarbon) - High contrast accessible colorscheme inspired by IBM Carbon
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
-- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by `Cargo`.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
@@ -3921,6 +3936,7 @@
 
 ## package-manager 
 
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by `Cargo`.
 - [flox/flox](https://github.com/flox/flox) - Harness the power of Nix
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
@@ -4016,6 +4032,7 @@
 
 ## postgresql 
 
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [eugene-khyst/postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the reposi
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
@@ -4278,6 +4295,8 @@
 
 ## react 
 
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications. 0 external dependencies.
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
@@ -4358,6 +4377,7 @@
 
 ## reactjs 
 
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications. 0 external dependencies.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Client-side observability using Wasm
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
@@ -4876,6 +4896,7 @@
 
 ## svelte 
 
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
@@ -4914,6 +4935,7 @@
 
 ## tensorflow 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble's Private Detector - a pretrained model for detecting lewd images
 - [clarkerubber/irwin](https://github.com/clarkerubber/irwin) - irwin - the protector of lichess from all chess players villainous
@@ -4999,6 +5021,8 @@
 
 ## typescript 
 
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications. 0 external dependencies.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
