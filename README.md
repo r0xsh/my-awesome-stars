@@ -402,7 +402,7 @@
 - [983/Fluid-Simulation](https://github.com/983/Fluid-Simulation) - Fluid Simulation on CPU and GPU in C++ with OpenGL
 - [tpisto/pdf-fill-form](https://github.com/tpisto/pdf-fill-form) - Fill PDF forms and return either filled PDF or PDF created from rendered page images.
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [slowmoVideo/slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Official slowmoVideo repository
 - [OpenImageDenoise/oidn](https://github.com/OpenImageDenoise/oidn) - Intel® Open Image Denoise library
@@ -446,6 +446,7 @@
 
 ## CSS 
 
+- [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [runarsf/ffprofile](https://github.com/runarsf/ffprofile) - 🔥🦊🍱
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
