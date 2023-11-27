@@ -3388,7 +3388,7 @@
 - [boblemaire/IoTaWatt](https://github.com/boblemaire/IoTaWatt) - IoTaWatt Open WiFi Electric Energy Monitor
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
-- [churichard/notabase](https://github.com/churichard/notabase) - A second brain for all your knowledge, thoughts, and ideas.
+- [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [bishoph/sopare](https://github.com/bishoph/sopare) - Real time sound pattern recognition in Python for Raspberry/Banana Pi.
