@@ -404,7 +404,7 @@
 - [983/Fluid-Simulation](https://github.com/983/Fluid-Simulation) - Fluid Simulation on CPU and GPU in C++ with OpenGL
 - [tpisto/pdf-fill-form](https://github.com/tpisto/pdf-fill-form) - Fill PDF forms and return either filled PDF or PDF created from rendered page images.
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [slowmoVideo/slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Official slowmoVideo repository
 - [OpenImageDenoise/oidn](https://github.com/OpenImageDenoise/oidn) - Intel® Open Image Denoise library
@@ -1240,6 +1240,7 @@
 
 ## Lua 
 
+- [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by `Cargo`.
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
@@ -1284,7 +1285,6 @@
 - [bitpoke/stack](https://github.com/bitpoke/stack) - Open-Source WordPress Infrastructure on Kubernetes
 - [susam/gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [alexcrichton/rust-ffi-examples](https://github.com/alexcrichton/rust-ffi-examples) - FFI examples written in Rust
 
@@ -1382,6 +1382,7 @@
 - [cyberglot/awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 - [luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy) - 📕  Curated list of technical case studies on WebGL and creative development
 - [clearlinux/distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [da-x/alacritmux](https://github.com/da-x/alacritmux) - Experimental features combining Alacritty and Tmux
 - [cncf/artwork](https://github.com/cncf/artwork) - 🎨 CNCF-related logos and artwork
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -1438,7 +1439,7 @@
 - [PayGreen/sylius-paygreen-plugin](https://github.com/PayGreen/sylius-paygreen-plugin) - Sylius payment module with Paygreen
 - [laravel/sanctum](https://github.com/laravel/sanctum) - Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
-- [halathamneh/delivery-system](https://github.com/halathamneh/delivery-system) - Delivery System built with Laravel
+- [hathamneh/delivery-system](https://github.com/hathamneh/delivery-system) - Delivery System built with Laravel
 - [CodesAreHonest/food-delivery-system](https://github.com/CodesAreHonest/food-delivery-system) - Food Delivery System Minor Project
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
@@ -1532,6 +1533,7 @@
 
 ## Python 
 
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [innovatorved/subtitle](https://github.com/innovatorved/subtitle) - Open-source subtitle generation for seamless content translation.
@@ -1561,7 +1563,7 @@
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
-- [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The vector database optimized for documents and video search
+- [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for unstructured data
 - [lettersoup/Sofia-Sans](https://github.com/lettersoup/Sofia-Sans) - 
 - [pyrustic/jesth](https://github.com/pyrustic/jesth) - Next-level human-readable data serialization format
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
