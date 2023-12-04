@@ -1553,7 +1553,7 @@
 - [seaglass-project/seaglass](https://github.com/seaglass-project/seaglass) - 
 - [dusanx/saf](https://github.com/dusanx/saf) - Rsync-based time machine for Linux, written in Python, for local and remote backups.
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor your favorite icon packs, themes and wallpapers with a few clicks or lines of code.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [alantech/marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
 - [easy-graph/Easy-Graph](https://github.com/easy-graph/Easy-Graph) - EasyGraph is an open source graph processing library, which covers advanced graph processing methods in structural hole spanners detection, graph embedding and several classic methods.
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
@@ -1802,6 +1802,7 @@
 
 ## Rust 
 
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [Wireskip/wireskip](https://github.com/Wireskip/wireskip) - Wireskip multipurpose binary: client, relay, SOCKSv5 proxy
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
