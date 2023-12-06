@@ -209,6 +209,7 @@
 - [kisslinux/repo](https://github.com/kisslinux/repo) - KISS Linux - Official Repositories
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
 - [thesofproject/sof](https://github.com/thesofproject/sof) - Sound Open Firmware
+- [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
 - [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [f-prime/fist](https://github.com/f-prime/fist) - A lightweight full-text index server with a focus on speed and efficiency.
@@ -395,7 +396,6 @@
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
-- [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -989,6 +989,7 @@
 
 ## JavaScript 
 
+- [orblivion/desert-atlas](https://github.com/orblivion/desert-atlas) - 
 - [pqvst/minimal-web-push](https://github.com/pqvst/minimal-web-push) - 
 - [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
@@ -1535,6 +1536,8 @@
 
 ## Python 
 
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
+- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
