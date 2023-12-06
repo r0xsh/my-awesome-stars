@@ -3153,6 +3153,9 @@
 
 ## others 
 
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
+- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
+- [orblivion/desert-atlas](https://github.com/orblivion/desert-atlas) - 
 - [reddit/redditsans](https://github.com/reddit/redditsans) - Reddit Sans. The typeface of the internet.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
