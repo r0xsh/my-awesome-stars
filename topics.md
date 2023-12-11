@@ -171,6 +171,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -958,7 +959,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
 - [arximboldi/immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 185 TypeScript projects (and 147 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 186 TypeScript projects (and 148 examples) for general purpose, functional, data driven development
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 - [ignoreintuition/jSchema](https://github.com/ignoreintuition/jSchema) - A simple, easy to use data modeling framework for JavaScript
@@ -2077,7 +2078,7 @@
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 185 TypeScript projects (and 147 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 186 TypeScript projects (and 148 examples) for general purpose, functional, data driven development
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -3164,6 +3165,7 @@
 
 ## others 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - 
 - [mhanberg/.dotfiles](https://github.com/mhanberg/.dotfiles) - My dotfiles
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Debug Toolbar for your Web App
 - [phoenixframework/flame](https://github.com/phoenixframework/flame) - 
@@ -3370,7 +3372,6 @@
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [PhilipK/articles](https://github.com/PhilipK/articles) - A collection of my articles and blog posts
 - [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
-- [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
 - [pelias/api](https://github.com/pelias/api) - HTTP API for Pelias Geocoder
 - [paliari/v-autocomplete](https://github.com/paliari/v-autocomplete) - Autocomplete component for Vue.js
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
@@ -3492,7 +3493,6 @@
 - [crossroadsfpga/pigasus](https://github.com/crossroadsfpga/pigasus) - 100Gbps Intrusion Detection and Prevention System
 - [marazmista/radeon-profile-daemon](https://github.com/marazmista/radeon-profile-daemon) - Daemon for radeon-profile GUI
 - [levyitay/AddSecurityExceptionAndroid](https://github.com/levyitay/AddSecurityExceptionAndroid) - 
-- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [maxbbraun/pisight](https://github.com/maxbbraun/pisight) - Apple iSight with a Raspberry Pi inside
 - [microsoft/mindaro](https://github.com/microsoft/mindaro) - Bridge to Kubernetes - for Visual Studio and Visual Studio Code
 - [Impostor/Impostor](https://github.com/Impostor/Impostor) - Impostor - An open source reimplementation of the Among Us Server
@@ -3580,7 +3580,6 @@
 - [rommsen/EventSourcing-DIY](https://github.com/rommsen/EventSourcing-DIY) - Companion repository for my Event Sourcing - Do it yourself video series.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [jkapuscik2/design-patterns-php](https://github.com/jkapuscik2/design-patterns-php) - Examples of design patterns in PHP
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [intel/pmem-csi](https://github.com/intel/pmem-csi) - Persistent Memory Container Storage Interface Driver
@@ -3683,7 +3682,6 @@
 - [brandonpelfrey/Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) - A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 - [iqlusioninc/sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
-- [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) - Stork - Storage Orchestration Runtime for Kubernetes
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
@@ -3955,7 +3953,6 @@
 - [manjaro/mhwd](https://github.com/manjaro/mhwd) - This repo has been archived. Our code is now hosted at
 - [alanhoff/rust-endless-jumper](https://github.com/alanhoff/rust-endless-jumper) - A game written in Rust
 - [ashleygwilliams/rust-for-javascripters](https://github.com/ashleygwilliams/rust-for-javascripters) - a set of hints and helpful tips for javascripters learning rust
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [koute/hooky](https://github.com/koute/hooky) - A convenient LD_PRELOAD hooker
 - [cryptosphere/macaroons-rs](https://github.com/cryptosphere/macaroons-rs) - Macaroons: bearer credentials with caveats for distributed authorization
 - [alexcrichton/rust-ffi-examples](https://github.com/alexcrichton/rust-ffi-examples) - FFI examples written in Rust
@@ -4126,6 +4123,34 @@
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
+
+## privacy 
+
+- [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need it.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
+- [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+- [runarsf/ffprofile](https://github.com/runarsf/ffprofile) - 🔥🦊🍱
+- [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
+- [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
+- [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
+- [zboxfs/zbox](https://github.com/zboxfs/zbox) - Zero-details, privacy-focused in-app file system.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 
 ## programming 
 
@@ -5123,7 +5148,7 @@
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - A logical fallacy lookup tool
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 185 TypeScript projects (and 147 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 186 TypeScript projects (and 148 examples) for general purpose, functional, data driven development
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [PxyUp/Revact](https://github.com/PxyUp/Revact) - Full reactivity JS/TS framework. Lightweight replacement of React + MobX + React Router. Very small and fast !!
