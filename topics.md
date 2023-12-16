@@ -981,6 +981,7 @@
 
 ## database 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -1147,6 +1148,7 @@
 
 ## django 
 
+- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - ✨ Declarative CRUD Endpoints & Tests with Django Ninja.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
@@ -1521,6 +1523,7 @@
 
 ## game-development 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [stride3d/stride](https://github.com/stride3d/stride) - Stride Game Engine (formerly Xenko)
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
@@ -1615,6 +1618,7 @@
 
 ## go 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Client-side observability using Wasm
@@ -3033,7 +3037,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Client-side observability using Wasm
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - 🛸 Send messages across multiple channels at scale 📨 💬 📧
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
 - [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform for Collaborative, On-Demand and Sharing Economies
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
@@ -3119,7 +3123,7 @@
 - [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) - 🚚 Fleetbase: Open Source Modular Logistics Platform. Built on Adaptable Extensions to Manage and Orchestrate Logistics Operations.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - 🛸 Send messages across multiple channels at scale 📨 💬 📧
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -3167,9 +3171,10 @@
 
 ## others 
 
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
 - [liveview-native/live_view_native](https://github.com/liveview-native/live_view_native) - A framework for building native applications with Phoenix LiveView
-- [openbao/openbao](https://github.com/openbao/openbao) - 
 - [mhanberg/.dotfiles](https://github.com/mhanberg/.dotfiles) - My dotfiles
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Debug Toolbar for your Web App
 - [phoenixframework/flame](https://github.com/phoenixframework/flame) - 
@@ -3226,7 +3231,7 @@
 - [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 - [maplibre/maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android) - MapLibre Native for Android Plugins
 - [maplibre/maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
-- [measuredco/puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
+- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React.
 - [maplibre/awesome-maplibre](https://github.com/maplibre/awesome-maplibre) - A collection of awesome things that use or support MapLibre!
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - 
 - [seaglass-project/seaglass](https://github.com/seaglass-project/seaglass) - 
@@ -3982,7 +3987,7 @@
 ## package-manager 
 
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo.
-- [flox/flox](https://github.com/flox/flox) - Harness the power of Nix
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [trizen/trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
@@ -4158,6 +4163,7 @@
 
 ## programming 
 
+- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -4184,6 +4190,7 @@
 
 ## python 
 
+- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - ✨ Declarative CRUD Endpoints & Tests with Django Ninja.
 - [GRAAL-Research/deepparse](https://github.com/GRAAL-Research/deepparse) - Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
@@ -4385,7 +4392,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - 🛸 Send messages across multiple channels at scale 📨 💬 📧
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [voximplant/react-native-foreground-service](https://github.com/voximplant/react-native-foreground-service) - React native module to start foreground service on android
@@ -4518,6 +4525,7 @@
 
 ## ruby 
 
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha.
 - [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -4749,6 +4757,7 @@
 
 ## security 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
@@ -4808,7 +4817,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - 🛸 Send messages across multiple channels at scale 📨 💬 📧
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -5125,7 +5134,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - 🛸 Send messages across multiple channels at scale 📨 💬 📧
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
