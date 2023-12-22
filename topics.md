@@ -814,7 +814,6 @@
 ## continuous-integration 
 
 - [srevinsaju/togomak](https://github.com/srevinsaju/togomak) - A declarative pipeline orchestrator with the magic of HCL as a configuration language, inspired from Terraform's architecture.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
@@ -824,6 +823,7 @@
 
 ## cpp 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
@@ -1164,7 +1164,6 @@
 - [andrew-ld/docker-stats](https://github.com/andrew-ld/docker-stats) - 
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Client-side observability using Wasm
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -2429,7 +2428,6 @@
 
 - [eigr/spawn](https://github.com/eigr/spawn) - Spawn - Actor Mesh
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
@@ -2540,6 +2538,7 @@
 
 ## language 
 
+- [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [Water-Melon/Melang](https://github.com/Water-Melon/Melang) - A script language of time-sharing scheduling coroutine in single thread
@@ -2622,6 +2621,7 @@
 
 ## linux 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor your favorite icon packs, themes and wallpapers with a few clicks or lines of code.
@@ -4347,6 +4347,7 @@
 
 ## qt 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
