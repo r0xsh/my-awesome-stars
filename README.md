@@ -103,6 +103,7 @@
 
 ## C 
 
+- [shufps/diy-projector-clock](https://github.com/shufps/diy-projector-clock) - DIY Projector Clock
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [Noskcaj19/hardware-kvm](https://github.com/Noskcaj19/hardware-kvm) - "Software" KVM that requires no client software
@@ -867,6 +868,7 @@
 
 ## HTML 
 
+- [oberon-lang/specification](https://github.com/oberon-lang/specification) - The Oberon+ Programming Language Specification
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [excalidraw/virgil](https://github.com/excalidraw/virgil) - The font that powers Excalidraw
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
@@ -1406,6 +1408,7 @@
 - [da-x/alacritmux](https://github.com/da-x/alacritmux) - Experimental features combining Alacritty and Tmux
 - [cncf/artwork](https://github.com/cncf/artwork) - 🎨 CNCF-related logos and artwork
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [reidrac/z80count](https://github.com/reidrac/z80count) - A tool to annotate Z80 assembler with cycle counts
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [andirueckel/undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source monospace typeface with 400+ characters
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -1741,7 +1744,6 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
-- [reidrac/z80count](https://github.com/reidrac/z80count) - A tool to annotate Z80 assembler with cycle counts
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [cyphar/orca-build](https://github.com/cyphar/orca-build) - Build OCI images from Dockerfiles.
 - [SAP/InfraBox](https://github.com/SAP/InfraBox) - InfraBox is a cloud native continuous integration system
