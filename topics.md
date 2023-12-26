@@ -3176,6 +3176,8 @@
 
 ## others 
 
+- [shufps/diy-projector-clock](https://github.com/shufps/diy-projector-clock) - DIY Projector Clock
+- [oberon-lang/specification](https://github.com/oberon-lang/specification) - The Oberon+ Programming Language Specification
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
