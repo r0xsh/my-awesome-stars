@@ -3501,7 +3501,7 @@
 - [josephernest/nfreezer](https://github.com/josephernest/nfreezer) - nFreezer is an encrypted-at-rest backup tool.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.8% less leaked credentials
 - [retrio/gb-test-roms](https://github.com/retrio/gb-test-roms) - Collection of Game Boy test roms.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
