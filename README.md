@@ -103,6 +103,8 @@
 
 ## C 
 
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+- [eclipse-bluechi/bluechi](https://github.com/eclipse-bluechi/bluechi) - Eclipse BlueChi is a systemd service controller intended for multi-node environments with a predefined number of nodes and with a focus on highly regulated ecosystems such as those requiring functiona
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [shufps/diy-projector-clock](https://github.com/shufps/diy-projector-clock) - DIY Projector Clock
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
@@ -1910,7 +1912,7 @@
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [rust-mobile/ndk](https://github.com/rust-mobile/ndk) - Rust bindings to the Android NDK
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [davidcole1340/opus-php](https://github.com/davidcole1340/opus-php) - libopus bindings for PHP
@@ -2050,7 +2052,7 @@
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [shuhei/colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
 - [codealong/codealong](https://github.com/codealong/codealong) - Data-driven engineering
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
