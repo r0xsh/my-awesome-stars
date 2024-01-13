@@ -455,6 +455,7 @@
 ## automation 
 
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -1099,7 +1100,7 @@
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [andirueckel/undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source monospace typeface with 400+ characters
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -1193,7 +1194,7 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [skx/docker-api-gateway](https://github.com/skx/docker-api-gateway) - Trivial API-gateway for docker, via HAProxy
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
@@ -1870,7 +1871,6 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -1973,7 +1973,7 @@
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [OpenAPITools/openapi-style-validator](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenAPI spec follows your organization's standards.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -2255,6 +2255,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications. 0 external dependencies.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -2304,7 +2305,7 @@
 - [sunengine/SunEngine](https://github.com/sunengine/SunEngine) - SunEngine – site engine with blog, forum and articles sections features support.
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
@@ -4413,7 +4414,7 @@
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -4796,7 +4797,7 @@
 
 ## sass 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [luangjokaj/wordpressify](https://github.com/luangjokaj/wordpressify) - 🎈 Automate your WordPress development workflow.
 - [manatlan/vbuild](https://github.com/manatlan/vbuild) - "Compile" your VueJS components (sfc/*.vue) to standalone html/js/css ... python only (no need of nodejs). Support python components too !
@@ -5165,6 +5166,7 @@
 
 - [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -5329,7 +5331,7 @@
 - [alaskanpuffin/herodotus-core](https://github.com/alaskanpuffin/herodotus-core) - Content Archiving Software 📜
 - [directus/v8-archive](https://github.com/directus/v8-archive) - Directus Database API — Wraps Custom SQL Databases with a REST/GraphQL API
 - [sunengine/SunEngine](https://github.com/sunengine/SunEngine) - SunEngine – site engine with blog, forum and articles sections features support.
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
