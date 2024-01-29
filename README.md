@@ -116,7 +116,6 @@
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [robdelacruz/lkwebserver](https://github.com/robdelacruz/lkwebserver) - Little Kitten Webserver
@@ -310,6 +309,7 @@
 - [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - a
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
