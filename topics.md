@@ -3224,7 +3224,7 @@
 
 ## others 
 
-- [atopile/atopile](https://github.com/atopile/atopile) - 
+- [atopile/atopile](https://github.com/atopile/atopile) - A tool to create electronic circuit boards with code. Find our docs here: https://atopile.io/getting-started/
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -4092,6 +4092,7 @@
 
 ## php 
 
+- [miroshnikov/idles](https://github.com/miroshnikov/idles) - PHP functional utility library, port of javascript Lodash/Ramda, a set of side-effect free, immutable and automatically curried functions that support lazy evaluation.
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [waterholeforum/waterhole](https://github.com/waterholeforum/waterhole) - Waterhole starter project.
