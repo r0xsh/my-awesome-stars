@@ -133,6 +133,7 @@
 - [library](#library)
 - [linux](#linux)
 - [localization](#localization)
+- [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -688,6 +689,7 @@
 
 ## chrome 
 
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -2744,6 +2746,14 @@
 
 - [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
 
+## low-code 
+
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data platform for building, deploying and maintaining data products.
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
+
 ## lua 
 
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
@@ -3224,7 +3234,7 @@
 
 ## others 
 
-- [atopile/atopile](https://github.com/atopile/atopile) - A tool to create electronic circuit boards with code. Find our docs here: https://atopile.io/getting-started/
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Software has worked out incredibly potent ways to reuse, configure, validate and share work. We want that for hardware too! Starting with electronics
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
