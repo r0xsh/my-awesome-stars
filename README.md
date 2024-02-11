@@ -932,6 +932,7 @@
 
 ## Java 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [eugene-khyst/postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the reposi
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -1355,6 +1356,7 @@
 
 ## Others 
 
+- [epk/SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) - Apple's SF Mono font patched with the Nerd Fonts patcher
 - [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [michaelachrisco/Electronic-Interchange-Github-Resources](https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources) - List of EDI (Mostly) Github Resources
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
@@ -1382,7 +1384,6 @@
 - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) - Single GPU VFIO Passthrough Guide
 - [PhilipK/articles](https://github.com/PhilipK/articles) - A collection of my articles and blog posts
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [unprovable/PentestHardware](https://github.com/unprovable/PentestHardware) - Kinda useful notes collated together publicly
 - [kbickham/iLife_Robotic_Vaccum_v3s_Reverse_Engineer](https://github.com/kbickham/iLife_Robotic_Vaccum_v3s_Reverse_Engineer) - Project to reverse engineer the iLife v3s robotic vaccum. Trying to rewrite the firmware and use as a robotic platform and add a robotic arm.
@@ -2321,6 +2322,7 @@
 
 ## TypeScript 
 
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
@@ -2412,6 +2414,7 @@
 - [xcarpentier/rn-tourguide](https://github.com/xcarpentier/rn-tourguide) - 🚩Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [dashborg/hibiki](https://github.com/dashborg/hibiki) - Hibiki HTML
@@ -2502,6 +2505,7 @@
 
 ## Vala 
 
+- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
 - [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
