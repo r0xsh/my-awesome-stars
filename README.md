@@ -1458,6 +1458,7 @@
 
 ## PHP 
 
+- [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library
 - [miroshnikov/idles](https://github.com/miroshnikov/idles) - PHP functional utility library, port of javascript Lodash/Ramda, a set of side-effect free, immutable and automatically curried functions that support lazy evaluation.
 - [zenstruck/schedule-bundle](https://github.com/zenstruck/schedule-bundle) - Schedule Cron jobs (commands/callbacks/bash scripts) within your Symfony application.
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
