@@ -462,7 +462,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [laCour/slack-night-mode](https://github.com/laCour/slack-night-mode) - A Stylus style for easy Slack theming
 - [htdvisser/hugo-base16-theme](https://github.com/htdvisser/hugo-base16-theme) - [NOT MAINTAINED] Hugo theme with base16 eighties colorscheme
-- [socketsupply/scratches](https://github.com/socketsupply/scratches) - A scratchpad with node & browser apis.
+- [socketsupply/scratches](https://github.com/socketsupply/scratches) - A scratchpad for Socket Runtime (like Electron Fiddle)
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [17/hexo-theme-strict](https://github.com/17/hexo-theme-strict) - A clean, minimal and responsive theme for hexo
 
@@ -1857,6 +1857,7 @@
 
 ## Rust 
 
+- [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql) - Use PRQL in PostgreSQL
 - [boustrophedon/pgtemp](https://github.com/boustrophedon/pgtemp) - Rust library and daemon for easily starting postgres databases per-test without Docker
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -2479,7 +2480,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - A logical fallacy lookup tool
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 189 TypeScript projects (and 153 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 190 TypeScript projects (and 153 examples) for general purpose, functional, data driven development
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
