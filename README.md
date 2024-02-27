@@ -85,7 +85,7 @@
 - [Hacktix/Bootix](https://github.com/Hacktix/Bootix) - Custom copyright-free Gameboy Bootroms.
 - [retrio/gb-test-roms](https://github.com/retrio/gb-test-roms) - Collection of Game Boy test roms.
 - [guitmz/virii](https://github.com/guitmz/virii) - Collection of ancient computer virus source codes
-- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 
 ## Awk 
 
@@ -463,7 +463,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [laCour/slack-night-mode](https://github.com/laCour/slack-night-mode) - A Stylus style for easy Slack theming
 - [htdvisser/hugo-base16-theme](https://github.com/htdvisser/hugo-base16-theme) - [NOT MAINTAINED] Hugo theme with base16 eighties colorscheme
-- [socketsupply/scratches](https://github.com/socketsupply/scratches) - Like Codepen, but for native apps!
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [17/hexo-theme-strict](https://github.com/17/hexo-theme-strict) - A clean, minimal and responsive theme for hexo
 
@@ -606,7 +605,7 @@
 
 ## Go 
 
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - Workflow engine and tools for distributed applications.
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - The platform for building distributed web apps at scale
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump and obfuscation tool
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [codesoap/pfuzz](https://github.com/codesoap/pfuzz) - a web fuzzer using the httpipe format
@@ -1078,7 +1077,7 @@
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [bbc/waveform-data.js](https://github.com/bbc/waveform-data.js) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
@@ -1189,6 +1188,7 @@
 - [hxlnt/astrocade](https://github.com/hxlnt/astrocade) - 👾 My Z80 assembly source code, binaries, and dev tools for the Bally Astrocade game console.
 - [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [mozilla/treeherder](https://github.com/mozilla/treeherder) - A system for managing CI data for Mozilla projects
+- [socketsupply/socket-app-studio](https://github.com/socketsupply/socket-app-studio) - Like Codepen, but for native apps!
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
@@ -1298,7 +1298,6 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
-- [bram-dingelstad/neh](https://github.com/bram-dingelstad/neh) - The super small and simple nginx microservice/api maker!
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 - [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
