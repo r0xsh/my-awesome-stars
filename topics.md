@@ -3294,8 +3294,10 @@
 
 ## others 
 
+- [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) - Plugin for Neovim which tracks edit locations
+- [bananaml/fructose](https://github.com/bananaml/fructose) - 
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
-- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph/Cody plugin for Neovim
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [maplibre/maplibre-navigation-android](https://github.com/maplibre/maplibre-navigation-android) - Maplibre Navigation SDK for Android
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
