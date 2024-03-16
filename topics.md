@@ -389,7 +389,7 @@
 
 ## ansible 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distribution as an Open-Source RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as an Open-Source RDS Alternative
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -1208,7 +1208,7 @@
 
 - [andrew-ld/docker-stats](https://github.com/andrew-ld/docker-stats) - 
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distribution as an Open-Source RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as an Open-Source RDS Alternative
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -2816,7 +2816,7 @@
 - [Bekaboo/nvim](https://github.com/Bekaboo/nvim) - Neovim :: M Λ C R O - Editing made simple
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
-- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo.
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
@@ -3080,7 +3080,7 @@
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - notion.so client for neovim
-- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo.
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) - Heuristic buffer auto-close
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -3314,6 +3314,7 @@
 
 ## others 
 
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Porting Vesper theme from Visual Studio Code to Neovim.
 - [moddevices/mod-desktop](https://github.com/moddevices/mod-desktop) - MOD Audio for the desktop
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
@@ -4159,7 +4160,7 @@
 
 ## package-manager 
 
-- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo.
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
