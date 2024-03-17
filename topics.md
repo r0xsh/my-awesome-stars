@@ -1765,7 +1765,7 @@
 
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump and obfuscation tool
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump anonymization tool
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [linhx/tbmk](https://github.com/linhx/tbmk) - A commands bookmark for terminal 🔖
 - [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
@@ -3314,6 +3314,7 @@
 
 ## others 
 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Porting Vesper theme from Visual Studio Code to Neovim.
 - [moddevices/mod-desktop](https://github.com/moddevices/mod-desktop) - MOD Audio for the desktop
@@ -4262,7 +4263,7 @@
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql) - Use PRQL in PostgreSQL
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump and obfuscation tool
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump anonymization tool
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -4975,7 +4976,7 @@
 ## security 
 
 - [thebugcatcher/heimdall](https://github.com/thebugcatcher/heimdall) - Share secrets in a secure way with paswords, ttl, IP allowlisting and encryption
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump and obfuscation tool
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump anonymization tool
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
