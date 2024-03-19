@@ -1020,6 +1020,7 @@
 
 ## JavaScript 
 
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
@@ -1194,7 +1195,7 @@
 - [hxlnt/astrocade](https://github.com/hxlnt/astrocade) - 👾 My Z80 assembly source code, binaries, and dev tools for the Bally Astrocade game console.
 - [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [mozilla/treeherder](https://github.com/mozilla/treeherder) - A system for managing CI data for Mozilla projects
-- [socketsupply/socket-app-studio](https://github.com/socketsupply/socket-app-studio) - Like Codepen, but for native apps!
+- [socketsupply/union-app-studio](https://github.com/socketsupply/union-app-studio) - Like Codepen, but for native apps!
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
@@ -1278,6 +1279,7 @@
 
 ## Lua 
 
+- [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Porting Vesper theme from Visual Studio Code to Neovim.
 - [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) - Jump to the last edit in Neovim
@@ -1875,6 +1877,7 @@
 
 ## Rust 
 
+- [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
@@ -2395,6 +2398,7 @@
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [pilcrowOnPaper/oslo](https://github.com/pilcrowOnPaper/oslo) - A collection of auth-related utilities
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
@@ -2414,7 +2418,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [maxprilutskiy/change-report](https://github.com/maxprilutskiy/change-report) - ✨  AI-powered GitHub Action that posts project progress on Slack or Discord 👾
@@ -2570,7 +2574,6 @@
 
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [Daniele-rolli/Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes) - Your Personal Note-Taking Haven for Privacy and Efficiency
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [multi-coop/datami](https://github.com/multi-coop/datami) - Datami's mirror repo (source on Gitlab)
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - Geddit is an open-source, Reddit client for Android without using their API
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
