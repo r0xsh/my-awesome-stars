@@ -1279,6 +1279,7 @@
 
 ## Lua 
 
+- [desdic/marlin.nvim](https://github.com/desdic/marlin.nvim) - Smooth sailing through buffers of interest in neovim
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Porting Vesper theme from Visual Studio Code to Neovim.
@@ -2358,6 +2359,7 @@
 
 ## TypeScript 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
