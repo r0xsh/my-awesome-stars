@@ -859,7 +859,7 @@
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [heketi/heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) - A JSON diff utility
 - [fireworq/fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
 - [cirocosta/cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
@@ -1474,6 +1474,7 @@
 
 ## PHP 
 
+- [nextras/orm](https://github.com/nextras/orm) - Orm with clean object design, smart relationship loading and powerful collections.
 - [DamienHarper/auditor](https://github.com/DamienHarper/auditor) - auditor, the missing audit log library
 - [miroshnikov/idles](https://github.com/miroshnikov/idles) - PHP functional utility library, port of javascript Lodash/Ramda, a set of side-effect free, immutable and automatically curried functions that support lazy evaluation.
 - [zenstruck/schedule-bundle](https://github.com/zenstruck/schedule-bundle) - Schedule Cron jobs (commands/callbacks/bash scripts) within your Symfony application.
@@ -1878,6 +1879,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
