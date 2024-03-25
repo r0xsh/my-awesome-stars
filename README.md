@@ -97,6 +97,7 @@
 
 ## C 
 
+- [placeholderkv/placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open-source Redis project. Name is placeholder.
 - [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C) - A pomodoro timer written in pure C.
 - [branc116/brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -1880,6 +1881,7 @@
 
 ## Rust 
 
+- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
@@ -2362,6 +2364,7 @@
 
 ## TypeScript 
 
+- [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
