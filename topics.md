@@ -389,7 +389,7 @@
 
 ## ansible 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as an Open-Source RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -1214,7 +1214,7 @@
 
 - [andrew-ld/docker-stats](https://github.com/andrew-ld/docker-stats) - 
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as an Open-Source RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -1473,7 +1473,7 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
-- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC written in Rust
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC in Rust
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
@@ -3027,7 +3027,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
-- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
+- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [generativefm/generative.fm](https://github.com/generativefm/generative.fm) - A platform for playing generative music in the browser.
 
@@ -3426,7 +3426,7 @@
 - [sorentwo/oban](https://github.com/sorentwo/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3
 - [tomscii/umon](https://github.com/tomscii/umon) - minimal host monitoring
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit search engine implemented in python
-- [xr0-org/xr0](https://github.com/xr0-org/xr0) - The Xr0 Semantic Abstractor for C
+- [xr0-org/xr0](https://github.com/xr0-org/xr0) - The Xr0 Verifier for C
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [ARPSyndicate/puncia](https://github.com/ARPSyndicate/puncia) - The Panthera(P.)uncia of Cybersecurity - Official CLI utility for Subdomain Center & Exploit Observer.
 - [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
@@ -4874,7 +4874,7 @@
 - [JoshMcguigan/timetrack](https://github.com/JoshMcguigan/timetrack) - Automatically track how you are spending your time by watching the file system
 - [hawkw/sharded-slab](https://github.com/hawkw/sharded-slab) - a lock-free concurrent slab (experimental)
 - [TeXitoi/rusty-clock](https://github.com/TeXitoi/rusty-clock) - An alarm clock with environment stats in pure bare metal embedded rust
-- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
+- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -4882,7 +4882,7 @@
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
-- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC written in Rust
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC in Rust
 - [EmbarkStudios/texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - 🎨 Example-based texture synthesis written in Rust 🦀
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [zboxfs/zbox](https://github.com/zboxfs/zbox) - Zero-details, privacy-focused in-app file system.
