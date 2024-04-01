@@ -98,7 +98,7 @@
 ## C 
 
 - [d4yr41n/ergo](https://github.com/d4yr41n/ergo) - Status bar for Wayland compositors
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C) - A pomodoro timer written in pure C.
 - [branc116/brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -516,6 +516,7 @@
 
 ## Elixir 
 
+- [surface-ui/surface](https://github.com/surface-ui/surface) - A server-side rendering component library for Phoenix
 - [RaymondLoranger/io_ansi_table](https://github.com/RaymondLoranger/io_ansi_table) - Writes data to "stdio" in a table with borders and colors. Can choose a table style to change the look of the table.
 - [thebugcatcher/heimdall](https://github.com/thebugcatcher/heimdall) - Share secrets in a secure way with paswords, ttl, IP allowlisting and encryption
 - [phenixdigital/phoenix_storybook](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
@@ -2370,7 +2371,7 @@
 
 ## TypeScript 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
