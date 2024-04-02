@@ -2178,7 +2178,7 @@
 - [cormac-obrien/richter](https://github.com/cormac-obrien/richter) - A modern Quake engine.
 - [mikejsavage/rspt](https://github.com/mikejsavage/rspt) - A physically based renderer in Rust
 - [alamminsalo/snakewasm](https://github.com/alamminsalo/snakewasm) - Snake game with neural network AI model
-- [lojewalo/paste](https://github.com/lojewalo/paste) - A sensible, modern pastebin.
+- [anna-is-cute/paste](https://github.com/anna-is-cute/paste) - A sensible, modern pastebin.
 - [canndrew/netsim](https://github.com/canndrew/netsim) - Network simulation in Rust
 - [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) - Rust client for Apache Kafka
 - [kvakvs/ErlangRT](https://github.com/kvakvs/ErlangRT) - Erlang Replacement Therapy. Another attempt to make Erlang runtime (BEAM emulator) in Rust. Good news: I know what to do. Bad news: I have no clue how to Rust
@@ -2350,6 +2350,7 @@
 
 ## Svelte 
 
+- [WardPearce/Materialious](https://github.com/WardPearce/Materialious) - Modern material design for Invidious.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
