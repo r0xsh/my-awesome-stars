@@ -262,7 +262,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
 - [maxprilutskiy/change-report](https://github.com/maxprilutskiy/change-report) - ✨  AI-powered GitHub Action that posts project progress on Slack or Discord 👾
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
@@ -315,6 +315,7 @@
 
 ## android 
 
+- [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
 - [maplibre/maplibre-react-native](https://github.com/maplibre/maplibre-react-native) - A MapLibre react native module for creating custom maps
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -1135,6 +1136,7 @@
 
 ## deployment 
 
+- [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) - Code Push for Flutter and other tools for Flutter businesses.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1413,6 +1415,7 @@
 
 ## emacs 
 
+- [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [resloved/dots](https://github.com/resloved/dots) - 💾 — Dumb & Opinionated Configurations
@@ -1499,6 +1502,8 @@
 
 ## flutter 
 
+- [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
+- [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) - Code Push for Flutter and other tools for Flutter businesses.
 - [Fghurayri/omw](https://github.com/Fghurayri/omw) - Example repo for building real-time location tracking using SvelteKit, Phoenix, and Flutter following the Actor Model.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -1537,7 +1542,7 @@
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
@@ -2252,6 +2257,7 @@
 
 ## ios 
 
+- [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
 - [maplibre/maplibre-react-native](https://github.com/maplibre/maplibre-react-native) - A MapLibre react native module for creating custom maps
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
@@ -2365,7 +2371,7 @@
 - [joernio/joern](https://github.com/joernio/joern) - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
@@ -3364,6 +3370,9 @@
 
 ## others 
 
+- [cloudflare/orange](https://github.com/cloudflare/orange) - 
+- [umbertoghio/self-hosted-expo-updates-server](https://github.com/umbertoghio/self-hosted-expo-updates-server) - 
+- [expo/custom-expo-updates-server](https://github.com/expo/custom-expo-updates-server) - 
 - [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - 
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
 - [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
@@ -3456,7 +3465,7 @@
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
+- [Redis-Insight/Redis-Insight](https://github.com/Redis-Insight/Redis-Insight) - Redis GUI by Redis
 - [Noskcaj19/hardware-kvm](https://github.com/Noskcaj19/hardware-kvm) - "Software" KVM that requires no client software
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 - [magenta/ddsp-vst](https://github.com/magenta/ddsp-vst) - Realtime DDSP Neural Synthesizer and Effect
@@ -3607,7 +3616,7 @@
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [surge-synthesizer/stochas](https://github.com/surge-synthesizer/stochas) - The Stochas Sequencer
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [regomne/ilhook-rs](https://github.com/regomne/ilhook-rs) - A library that provides methods to inline hook binary codes in x86 and x86_64 architecture
 - [libvips/nip2](https://github.com/libvips/nip2) - A spreadsheet-like GUI for libvips.
@@ -4130,7 +4139,7 @@
 - [madrobot/bash-script-generator](https://github.com/madrobot/bash-script-generator) - Generates a Bash Script Template that handles Arguments and Flags Cleanly
 - [3d0c/gmf](https://github.com/3d0c/gmf) - Go Media Framework
 - [Shougo/echodoc.vim](https://github.com/Shougo/echodoc.vim) - Print documents in echo area.
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -4726,6 +4735,7 @@
 
 ## react-native 
 
+- [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [maplibre/maplibre-react-native](https://github.com/maplibre/maplibre-react-native) - A MapLibre react native module for creating custom maps
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
@@ -4823,6 +4833,7 @@
 
 ## rust 
 
+- [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
@@ -5625,7 +5636,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [marcocesarato/react-native-big-list](https://github.com/marcocesarato/react-native-big-list) - This is a high performance list view for React Native with support for complex layouts using a similar FlatList usage to make easy the replacement. This list implementation for big list rendering on R
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
