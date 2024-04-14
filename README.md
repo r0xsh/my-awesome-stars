@@ -294,6 +294,7 @@
 
 ## C++ 
 
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [moddevices/mod-desktop](https://github.com/moddevices/mod-desktop) - MOD Audio for the desktop
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
