@@ -521,6 +521,7 @@
 
 ## Elixir 
 
+- [adopt-liveview/adopt-liveview](https://github.com/adopt-liveview/adopt-liveview) - Learn how to use Phoenix LiveView with no prior Elixir or Phoenix knowledge
 - [surface-ui/surface](https://github.com/surface-ui/surface) - A server-side rendering component library for Phoenix
 - [RaymondLoranger/io_ansi_table](https://github.com/RaymondLoranger/io_ansi_table) - Writes data to "stdio" in a table with borders and colors. Can choose a table style to change the look of the table.
 - [thebugcatcher/heimdall](https://github.com/thebugcatcher/heimdall) - Share secrets in a secure way with paswords, ttl, IP allowlisting and encryption
@@ -1637,7 +1638,7 @@
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
-- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
+- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [innovatorved/subtitle](https://github.com/innovatorved/subtitle) - Open-source subtitle generation for seamless content translation.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
