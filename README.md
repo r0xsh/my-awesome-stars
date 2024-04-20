@@ -44,6 +44,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
+- [Meson](#meson)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -295,6 +296,7 @@
 
 ## C++ 
 
+- [faresbakhit/ayin](https://github.com/faresbakhit/ayin) - Ayin is a free and open source photo editing software available on Windows, Linux, and MacOS
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [moddevices/mod-desktop](https://github.com/moddevices/mod-desktop) - MOD Audio for the desktop
@@ -1356,13 +1358,16 @@
 - [S-March/smarchGlasses_Public](https://github.com/S-March/smarchGlasses_Public) - 
 - [bitpoke/stack](https://github.com/bitpoke/stack) - Open-Source WordPress Infrastructure on Kubernetes
 - [susam/gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [alexcrichton/rust-ffi-examples](https://github.com/alexcrichton/rust-ffi-examples) - FFI examples written in Rust
 
 ## Mathematica 
 
 - [apple/VideoFlashingReduction](https://github.com/apple/VideoFlashingReduction) - 
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## MoonScript 
 
@@ -2032,7 +2037,7 @@
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [demostf/parser](https://github.com/demostf/parser) - Parsing of tf2 demo files
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [fmeringdal/nettu-scheduler](https://github.com/fmeringdal/nettu-scheduler) - A self-hosted calendar and scheduler server.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
@@ -2400,6 +2405,8 @@
 
 ## TypeScript 
 
+- [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
+- [stackframe-projects/stack](https://github.com/stackframe-projects/stack) - Open-source user authentication & management
 - [frw/react-native-ssl-public-key-pinning](https://github.com/frw/react-native-ssl-public-key-pinning) - Simple and secure SSL public key pinning for React Native. No native configuration needed, set up in &lt;5 minutes.
 - [cloudflare/orange](https://github.com/cloudflare/orange) - 
 - [expo/custom-expo-updates-server](https://github.com/expo/custom-expo-updates-server) - 
