@@ -1626,6 +1626,7 @@
 
 ## Python 
 
+- [hashboard-hq/hashquery](https://github.com/hashboard-hq/hashquery) - A Python framework for defining and querying BI models in your data warehouse
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -2394,6 +2395,8 @@
 
 ## Swift 
 
+- [candlefinance/haptics](https://github.com/candlefinance/haptics) - Haptics for React Native with support for custom patterns and ahap files.
+- [candlefinance/faster-image](https://github.com/candlefinance/faster-image) - Fast image loading for React Native backed by performant native libraries.
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [BeauNouvelle/FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
 - [doodzik/NoMouseAllowed](https://github.com/doodzik/NoMouseAllowed) - 🙅🐁 NoMouseAllowed discourages the use of the mouse on macOS
@@ -2410,6 +2413,7 @@
 
 ## TypeScript 
 
+- [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is a UI library of common web components. It is a based on UIkit 3 exposed as a Tailwind CSS plugin.
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [stackframe-projects/stack](https://github.com/stackframe-projects/stack) - Open-source user authentication & management
 - [frw/react-native-ssl-public-key-pinning](https://github.com/frw/react-native-ssl-public-key-pinning) - Simple and secure SSL public key pinning for React Native. No native configuration needed, set up in &lt;5 minutes.
