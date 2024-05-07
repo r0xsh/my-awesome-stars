@@ -2409,7 +2409,7 @@
 
 ## Svelte 
 
-- [WardPearce/Materialious](https://github.com/WardPearce/Materialious) - Modern material design for Invidious.
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
