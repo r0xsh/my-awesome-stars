@@ -297,7 +297,7 @@
 ## C++ 
 
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
-- [mattkae/miracle-wm](https://github.com/mattkae/miracle-wm) - miracle-wm is a tiling Wayland compositor based on Mir
+- [mattkae/miracle-wm](https://github.com/mattkae/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [faresbakhit/ayin](https://github.com/faresbakhit/ayin) - Ayin is a free and open source photo editing software available on Windows, Linux, and MacOS
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -625,6 +625,7 @@
 
 ## Go 
 
+- [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [untangledco/streaming](https://github.com/untangledco/streaming) - Media streaming and broadcast systems in Go
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
@@ -809,6 +810,7 @@
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [rliebz/tusk](https://github.com/rliebz/tusk) - The modern task runner
 - [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
@@ -1366,7 +1368,6 @@
 
 - [rosszurowski/rosszurowski.com](https://github.com/rosszurowski/rosszurowski.com) - Personal site 🌱
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
@@ -2315,7 +2316,7 @@
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
-- [chongshengsun/hexo-theme-apollo](https://github.com/chongshengsun/hexo-theme-apollo) - 🌅 a concise hexo theme
+- [infinity-bot-001/hexo-theme-apollo](https://github.com/infinity-bot-001/hexo-theme-apollo) - 🌅 a concise hexo theme
 - [CloudCannon/aviator-jekyll-template](https://github.com/CloudCannon/aviator-jekyll-template) - :droplet: API Documentation template for Jekyll
 
 ## Scala 
@@ -2625,7 +2626,7 @@
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - A logical fallacy lookup tool
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 192 TypeScript projects (and 160+ examples) for general purpose, functional, data driven development
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
