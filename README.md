@@ -1423,6 +1423,7 @@
 
 ## Others 
 
+- [meocoder31099/Serendipity-Theme-Zed](https://github.com/meocoder31099/Serendipity-Theme-Zed) - Relaxed, gentle and modern | Serendipity theme for Zed
 - [epk/SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) - Apple's SF Mono font patched with the Nerd Fonts patcher
 - [candiddev/rot](https://github.com/candiddev/rot) - Secure Secrets Management for the Modern Sysadmin
 - [vercel/geist-font](https://github.com/vercel/geist-font) - 
@@ -1658,7 +1659,7 @@
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
@@ -2425,6 +2426,7 @@
 
 ## Svelte 
 
+- [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕 With experimental features like map view, GPT analysis, artist toolkit. Built with Svelte and Tauri
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -2507,7 +2509,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
-- [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [pilcrowOnPaper/oslo](https://github.com/pilcrowOnPaper/oslo) - A collection of auth-related utilities
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
