@@ -710,7 +710,7 @@
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
@@ -766,7 +766,7 @@
 - [CoderCookE/goaround](https://github.com/CoderCookE/goaround) - HTTP load balancer and cache
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes
@@ -2520,7 +2520,7 @@
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [paraswaykole/slashbase](https://github.com/paraswaykole/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
