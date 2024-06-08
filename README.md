@@ -99,6 +99,7 @@
 
 ## C 
 
+- [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
 - [zint/zint](https://github.com/zint/zint) - A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneCode, EAN-128, UPC/EAN, ITF, QR Code, Code 16k, PDF417, MicroPDF417, LOGMARS, Maxicode, GS1 DataBar, 
@@ -297,6 +298,7 @@
 
 ## C++ 
 
+- [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
 - [mattkae/miracle-wm](https://github.com/mattkae/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [faresbakhit/ayin](https://github.com/faresbakhit/ayin) - Ayin is a free and open source photo editing software available on Windows, Linux, and MacOS
@@ -1498,7 +1500,6 @@
 - [cncf/artwork](https://github.com/cncf/artwork) - 🎨 CNCF-related logos and artwork
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [reidrac/z80count](https://github.com/reidrac/z80count) - A tool to annotate Z80 assembler with cycle counts
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [andirueckel/undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source pixel grid-based monospace typeface with 500+ characters
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -1677,7 +1678,7 @@
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🌞 Declarative Endpoints & Tests for RESTful APIs with Django Ninja.
 - [GRAAL-Research/deepparse](https://github.com/GRAAL-Research/deepparse) - Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning
-- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build internal web apps with Python. The Dropbase self-hosted Worker securely interacts with your data within your own infra.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps you build custom internal software with AI. Dropbase Server and Worker are self-hosted and they securely interact with your data within your own infra.
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
@@ -2197,6 +2198,7 @@
 - [chinedufn/psd](https://github.com/chinedufn/psd) - A Rust API for parsing and working with PSD files.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [shuhei/colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
@@ -2536,7 +2538,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, mobile push, WhatsApp, and more 📨
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
