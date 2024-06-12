@@ -2462,6 +2462,7 @@
 
 ## TypeScript 
 
+- [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer.
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Notion-like editor with similar behaviour
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - JavaScript Open Source Multi-Vendor Marketplace Accelerator build on top of Medusa.js. Mercur simplifies the path to your own customized, multi-vendor marketplace.
