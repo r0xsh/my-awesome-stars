@@ -530,7 +530,7 @@
 ## Elixir 
 
 - [lexical-lsp/lexical](https://github.com/lexical-lsp/lexical) - Lexical is a next-generation elixir language server
-- [tylerbarker/tw_screen_size](https://github.com/tylerbarker/tw_screen_size) - A tiny, one-component package for LiveView x Tailwind to elevate your design iteration experience 🖼️
+- [tylerbarker/tw_screen_size](https://github.com/tylerbarker/tw_screen_size) - A tiny LiveView widget showing the current screen dimensions and Tailwind breakpoint 🖼️
 - [adopt-liveview/adopt-liveview](https://github.com/adopt-liveview/adopt-liveview) - Learn how to use Phoenix LiveView with no prior Elixir or Phoenix knowledge
 - [surface-ui/surface](https://github.com/surface-ui/surface) - A server-side rendering component library for Phoenix
 - [RaymondLoranger/io_ansi_table](https://github.com/RaymondLoranger/io_ansi_table) - Writes data to "stdio" in a table with borders and colors. Can choose a table style to change the look of the table.
@@ -680,7 +680,7 @@
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Cloud Metering for AI, Billing and FinOps. Collect and aggregate millions of usage events in real-time.
 - [tzapio/tzap](https://github.com/tzapio/tzap) - 
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
