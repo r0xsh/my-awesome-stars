@@ -129,7 +129,6 @@
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [espressif/esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [reduf/search](https://github.com/reduf/search) - GUI built on ripgrep for recursive file content searching.
 - [abler98/h3-php](https://github.com/abler98/h3-php) - PHP extension with H3 library bindings
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
@@ -329,6 +328,7 @@
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -938,6 +938,7 @@
 - [raphaelchang/microphone-array-board](https://github.com/raphaelchang/microphone-array-board) - Microphone array PCB for sound processing projects
 - [chriszarate/supergenpass](https://github.com/chriszarate/supergenpass) - A free bookmarklet password generator.
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
+- [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [siegerts/hugo-theme-basic](https://github.com/siegerts/hugo-theme-basic) - Basic site theme styled with minimal tachyons, syntax highlighting, and blog series configuration. 📦
 - [fabiang/true-combat](https://github.com/fabiang/true-combat) - Enemy Territory + True Combat:Elite
 - [slowernews/slowernews](https://github.com/slowernews/slowernews) - Don't  spend a shit-ton of time filtering trivia.
@@ -1837,7 +1838,7 @@
 - [intel/pm-graph](https://github.com/intel/pm-graph) - The Suspend/Resume project provides a tool for system developers to visualize the activity between suspend and resume, allowing them to identify inefficiencies and bottlenecks.
 - [dietervanhoof/polybar-spotify-controls](https://github.com/dietervanhoof/polybar-spotify-controls) - 
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- [m3047/trualias](https://github.com/m3047/trualias) - Mentally computable verification codes for email aliases implemented as a postfix tcp table or milter; uses asyncio.
+- [m3047/trualias](https://github.com/m3047/trualias) - Mentally computable verification codes for email aliases implemented as a postfix tcp table; uses asyncio.
 - [datawire/forge](https://github.com/datawire/forge) - Define and run multi-container apps in Kubernetes
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -2625,7 +2626,6 @@
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
