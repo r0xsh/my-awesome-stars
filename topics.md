@@ -909,6 +909,7 @@
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [mdilai/Shtreeba](https://github.com/mdilai/Shtreeba) - VAC-proof 32bit DLL injector written in C++, using memory mapping and thread hijacking techniques
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
