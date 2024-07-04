@@ -259,6 +259,7 @@
 
 ## ai 
 
+- [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source Language Agnostic LLM-based mutation testing tool
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
@@ -474,6 +475,7 @@
 
 ## artificial-intelligence 
 
+- [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source Language Agnostic LLM-based mutation testing tool
 - [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source AI solver. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and othe
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
@@ -490,6 +492,7 @@
 
 ## automation 
 
+- [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source Language Agnostic LLM-based mutation testing tool
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
@@ -2951,6 +2954,7 @@
 
 ## llm 
 
+- [codeintegrity-ai/mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source Language Agnostic LLM-based mutation testing tool
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
@@ -3526,6 +3530,7 @@
 
 ## others 
 
+- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4
 - [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
 - [FerRiv3ra/rn-inkpad](https://github.com/FerRiv3ra/rn-inkpad) - Open source React Native UI library, with a wide range of ready-to-use components.
@@ -3844,7 +3849,6 @@
 - [blackfireio/player](https://github.com/blackfireio/player) - Blackfire Player is a powerful Web Crawling, Web Testing, and Web Scraper application. It provides a nice DSL to crawl HTTP services, assert responses, and extract data from HTML/XML/JSON responses.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
-- [spatie/tax-calculator](https://github.com/spatie/tax-calculator) - 
 - [spatie/period](https://github.com/spatie/period) - Complex period comparisons
 - [PayGreen/sylius-paygreen-plugin](https://github.com/PayGreen/sylius-paygreen-plugin) - Sylius payment module with Paygreen
 - [caspg/gpx_phoenix](https://github.com/caspg/gpx_phoenix) - 
@@ -4482,6 +4486,7 @@
 - [spatie/laravel-tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour to your Laravel app
 - [spatie/schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
 - [spatie/icalendar-generator](https://github.com/spatie/icalendar-generator) - Generate calendars in the iCalendar format
+- [spatie/tax-calculator](https://github.com/spatie/tax-calculator) - A set of interfaces and methods to clean up your application's tax calculations
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 - [spatie/opening-hours](https://github.com/spatie/opening-hours) - Query and format a set of opening hours
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
