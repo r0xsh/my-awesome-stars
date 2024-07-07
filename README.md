@@ -1973,6 +1973,7 @@
 
 ## Rust 
 
+- [lava-xyz/rust-ontologist](https://github.com/lava-xyz/rust-ontologist) - Visualizing Rust codebases in a few seconds
 - [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
@@ -2489,6 +2490,8 @@
 
 ## TypeScript 
 
+- [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
+- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [FerRiv3ra/rn-inkpad](https://github.com/FerRiv3ra/rn-inkpad) - Open source React Native UI library, with a wide range of ready-to-use components.
