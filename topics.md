@@ -1210,6 +1210,7 @@
 
 ## design 
 
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [tooll3/t3](https://github.com/tooll3/t3) - Tooll 3 is an open source software to create realtime motion graphics.
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
@@ -1426,7 +1427,7 @@
 
 ## electron 
 
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative.
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
@@ -1680,6 +1681,7 @@
 
 ## frontend 
 
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -3001,6 +3003,7 @@
 
 ## low-code 
 
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
@@ -3336,6 +3339,7 @@
 
 ## nextjs 
 
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - JavaScript Open Source Multi-Vendor Marketplace Accelerator build on top of Medusa.js. Mercur simplifies the path to your own customized, multi-vendor marketplace.
@@ -4904,7 +4908,7 @@
 ## react 
 
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack.
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative.
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
@@ -5759,7 +5763,7 @@
 
 ## typescript 
 
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative.
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
