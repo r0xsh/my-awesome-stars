@@ -101,6 +101,7 @@
 
 ## C 
 
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
@@ -490,6 +491,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable database for application development and time-travel data compliance, with SQL and XTQL. Developed by @juxt
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -1978,6 +1980,7 @@
 
 ## Rust 
 
+- [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs) - Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor.
 - [lava-xyz/rust-ontologist](https://github.com/lava-xyz/rust-ontologist) - Visualizing Rust codebases in a few seconds
 - [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
@@ -2720,7 +2723,7 @@
 ## Vala 
 
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
-- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - [On break until 2024-07-15] Browse the Fediverse
+- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
 
