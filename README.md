@@ -2464,6 +2464,7 @@
 
 ## Smarty 
 
+- [Bayesia-SAS/imgs](https://github.com/Bayesia-SAS/imgs) - Simple image hosting webapp
 - [bsctl/kubelived](https://github.com/bsctl/kubelived) - keepalived for kubernetes control plane
 
 ## SourcePawn 
