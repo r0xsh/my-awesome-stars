@@ -3570,6 +3570,7 @@
 
 ## others 
 
+- [Bayesia-SAS/imgs](https://github.com/Bayesia-SAS/imgs) - Simple image hosting webapp
 - [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd) - The testing ground for the future of portable SIMD in Rust
 - [rectanglehq/Shapeshift](https://github.com/rectanglehq/Shapeshift) - Transform JSON objects using vector embeddings
 - [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs) - Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor.
