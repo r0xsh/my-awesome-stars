@@ -3625,7 +3625,7 @@
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [cloudflare/orange](https://github.com/cloudflare/orange) - 
 - [umbertoghio/self-hosted-expo-updates-server](https://github.com/umbertoghio/self-hosted-expo-updates-server) - 
-- [expo/custom-expo-updates-server](https://github.com/expo/custom-expo-updates-server) - 
+- [expo/custom-expo-updates-server](https://github.com/expo/custom-expo-updates-server) - A simplified demonstration of expo-updates protocol use.
 - [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - 
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
 - [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
