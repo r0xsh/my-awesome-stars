@@ -115,6 +115,7 @@
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
@@ -2324,6 +2325,10 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 
+## html-css-javascript 
+
+- [yuhanliu0121/crocodile-delivery](https://github.com/yuhanliu0121/crocodile-delivery) - 小鳄鱼跑腿——基于微信小程序的外卖软件
+
 ## html5 
 
 - [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
@@ -3224,7 +3229,7 @@
 
 ## music 
 
-- [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕 With experimental features like map view, GPT analysis, artist toolkit. Built with Svelte and Tauri
+- [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -3570,6 +3575,7 @@
 
 ## others 
 
+- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [Bayesia-SAS/imgs](https://github.com/Bayesia-SAS/imgs) - Simple image hosting webapp
 - [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd) - The testing ground for the future of portable SIMD in Rust
 - [rectanglehq/Shapeshift](https://github.com/rectanglehq/Shapeshift) - Transform JSON objects using vector embeddings
@@ -3905,7 +3911,6 @@
 - [davidrmiller/biosim4](https://github.com/davidrmiller/biosim4) - Biological evolution simulator
 - [toitlang/toit](https://github.com/toitlang/toit) - Program your microcontrollers in a fast and robust high-level language.
 - [CodesAreHonest/food-delivery-system](https://github.com/CodesAreHonest/food-delivery-system) - Food Delivery System Minor Project
-- [yuhanliu0121/crocodile-delivery](https://github.com/yuhanliu0121/crocodile-delivery) - 小鳄鱼跑腿——基于微信小程序的外卖软件
 - [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [ebirger/netpen](https://github.com/ebirger/netpen) - netpen
@@ -5638,7 +5643,7 @@
 ## svelte 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕 With experimental features like map view, GPT analysis, artist toolkit. Built with Svelte and Tauri
+- [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
