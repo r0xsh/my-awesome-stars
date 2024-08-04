@@ -2682,6 +2682,7 @@
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+- [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other plann
 - [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 - [ng-galien/idea-plpgdebugger](https://github.com/ng-galien/idea-plpgdebugger) - A plugin to debug PL/pg in Intellij
 - [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
