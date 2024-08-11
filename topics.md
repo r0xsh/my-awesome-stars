@@ -3970,7 +3970,7 @@
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [demostf/parser](https://github.com/demostf/parser) - Parsing of tf2 demo files
-- [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS:GO, Dota 2, Artifact, Underlords and TF2 protobufs.
+- [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, TF2 protobufs.
 - [skmendez/aiorcon](https://github.com/skmendez/aiorcon) - An asynchronous interface for the Source RCON Protocol.
 - [advancedfx/advancedfx](https://github.com/advancedfx/advancedfx) - Half-Life Advanced Effects (HLAE) is a tool to enrich Source (mainly CS:GO) engine based movie making.
 - [gisgraphy/gisgraphy](https://github.com/gisgraphy/gisgraphy) - geocoding and geolocalisation webservices for Geonames, Openstreetmap, Openaddresses, Tiger and quattroshapes data
