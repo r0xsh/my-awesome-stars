@@ -739,7 +739,7 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [finic-ai/psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -1632,6 +1632,7 @@
 
 ## font 
 
+- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
 - [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [excalidraw/virgil](https://github.com/excalidraw/virgil) - The font that powers Excalidraw
@@ -3583,8 +3584,8 @@
 
 ## others 
 
+- [markuman/sms](https://github.com/markuman/sms) - simple mbtiles server
 - [supabase/pg_replicate](https://github.com/supabase/pg_replicate) - 
-- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
 - [evanrolfe/trayce_gui](https://github.com/evanrolfe/trayce_gui) - 
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [evanrolfe/trayce_agent](https://github.com/evanrolfe/trayce_agent) - 
@@ -3969,7 +3970,7 @@
 - [physwizz/A105FN-permissive](https://github.com/physwizz/A105FN-permissive) - 
 - [riebschlager/neobrush](https://github.com/riebschlager/neobrush) - A crazy new paintbrush to tickle your brainballs.
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
-- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
+- [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [demostf/parser](https://github.com/demostf/parser) - Parsing of tf2 demo files
 - [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, TF2 protobufs.
