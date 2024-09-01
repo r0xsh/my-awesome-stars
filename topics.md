@@ -3206,6 +3206,7 @@
 
 ## markdown 
 
+- [blocksmd/blocksmd](https://github.com/blocksmd/blocksmd) - Markdown to amazing forms and web pages
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
@@ -3649,6 +3650,7 @@
 
 ## others 
 
+- [sorentwo/oban_training](https://github.com/sorentwo/oban_training) - 📓 Oban Training curriculum derived from in-person training at Elixirconf 2023
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go)
 - [Christopher2K/swapify](https://github.com/Christopher2K/swapify) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
