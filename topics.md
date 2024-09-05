@@ -273,7 +273,7 @@
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
-- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [mrmps/SMRY](https://github.com/mrmps/SMRY) - A tool to get summaries and get past paywalls
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -1166,7 +1166,7 @@
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
-- [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development and time-travel data compliance. Developed by @juxt
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
@@ -2132,6 +2132,7 @@
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK
 - [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️ MPD client in .NET. Based on MpcNET.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
@@ -3592,7 +3593,7 @@
 - [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - JavaScript Open Source Multi-Vendor Marketplace Accelerator build on top of Medusa.js. Mercur simplifies the path to your own customized, multi-vendor marketplace.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
-- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -3650,6 +3651,8 @@
 
 ## others 
 
+- [glncy/expo-up-server](https://github.com/glncy/expo-up-server) - 
+- [ferd/blog3r](https://github.com/ferd/blog3r) - A small static blog engine written as an Erlang compiler plugin
 - [oban-bg/oban_training](https://github.com/oban-bg/oban_training) - 📓 Oban Training curriculum derived from in-person training at Elixirconf 2023
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go)
 - [Christopher2K/swapify](https://github.com/Christopher2K/swapify) - 
@@ -4777,7 +4780,7 @@
 
 ## project-management 
 
-- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
@@ -5012,7 +5015,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
-- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -5663,7 +5666,7 @@
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development and time-travel data compliance. Developed by @juxt
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 - [directus/v8-archive](https://github.com/directus/v8-archive) - Directus Database API — Wraps Custom SQL Databases with a REST/GraphQL API
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
@@ -5903,7 +5906,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
