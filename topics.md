@@ -123,6 +123,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -2459,6 +2460,11 @@
 - [rishabhdugar/imagga-android-demo](https://github.com/rishabhdugar/imagga-android-demo) - Android working code to demo Imagga tagging and content api
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+
+## instagram 
+
+- [pow-auth/assent](https://github.com/pow-auth/assent) - Multi-provider framework in Elixir
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 ## ios 
 
