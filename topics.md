@@ -294,7 +294,7 @@
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [clarkerubber/irwin](https://github.com/clarkerubber/irwin) - irwin - the protector of lichess from all chess players villainous
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [youkaclub/youka-desktop](https://github.com/youkaclub/youka-desktop) - The Best Karaoke Maker
@@ -378,7 +378,7 @@
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
-- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [hydrargyrum/epistolaire](https://github.com/hydrargyrum/epistolaire) - SMS/MMS backup app (this is a mirror, main repository is https://gitlab.com/hydrargyrum/epistolaire)
@@ -784,7 +784,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 
 ## chatgpt-api 
 
@@ -2972,7 +2972,7 @@
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [miracle-window-manager/miracle-wm](https://github.com/miracle-window-manager/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
+- [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [zint/zint](https://github.com/zint/zint) - A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneCode, EAN-128, UPC/EAN, ITF, QR Code, Code 16k, PDF417, MicroPDF417, LOGMARS, Maxicode, GS1 DataBar, 
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor profiles (~ 1500 profiles)
@@ -3083,7 +3083,7 @@
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 
 ## localization 
@@ -3092,7 +3092,7 @@
 
 ## login 
 
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 
@@ -3145,7 +3145,7 @@
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Confidence and Byt5 - based geotagging model predicting coordinates from text alone.
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [clarkerubber/irwin](https://github.com/clarkerubber/irwin) - irwin - the protector of lichess from all chess players villainous
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
@@ -3448,7 +3448,7 @@
 - [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - JavaScript Open Source Multi-Vendor Marketplace Accelerator build on top of Medusa.js. Mercur simplifies the path to your own customized, multi-vendor marketplace.
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
@@ -3484,7 +3484,7 @@
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Confidence and Byt5 - based geotagging model predicting coordinates from text alone.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -3843,7 +3843,7 @@
 - [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases
 - [channable/hoff](https://github.com/channable/hoff) - A gatekeeper for your commits
-- [lastlogin-io/obligator](https://github.com/lastlogin-io/obligator) - Simple and opinionated OpenID Connect server designed for self-hosters
+- [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator) - Simple and opinionated OpenID Connect server designed for self-hosters
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3
 - [tomscii/umon](https://github.com/tomscii/umon) - minimal host monitoring
@@ -4866,7 +4866,7 @@
 - [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer
 - [clarkerubber/irwin](https://github.com/clarkerubber/irwin) - irwin - the protector of lichess from all chess players villainous
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [gympohnpimol/Last-Mile-Logistics](https://github.com/gympohnpimol/Last-Mile-Logistics) - 
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -4973,7 +4973,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Confidence and Byt5 - based geotagging model predicting coordinates from text alone.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [iceychris/LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) - WaveRNN Vocoder + TTS
@@ -5039,7 +5039,7 @@
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [yahoo/fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
@@ -5929,7 +5929,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
