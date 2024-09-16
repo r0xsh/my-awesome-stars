@@ -2953,6 +2953,7 @@
 
 ## library 
 
+- [Pyrlang/Pyrlang](https://github.com/Pyrlang/Pyrlang) - Erlang node implemented in Python 3.5+ (Asyncio-based)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [zint/zint](https://github.com/zint/zint) - A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneCode, EAN-128, UPC/EAN, ITF, QR Code, Code 16k, PDF417, MicroPDF417, LOGMARS, Maxicode, GS1 DataBar, 
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
@@ -3670,6 +3671,7 @@
 
 ## others 
 
+- [pmrowla/streamlink-plugins](https://github.com/pmrowla/streamlink-plugins) - custom streamlink plugins
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -4090,7 +4092,7 @@
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [klinker41/android-smsmms](https://github.com/klinker41/android-smsmms) - Library for easily sending SMS and MMS for Android devices
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [irusanov/ZenTimings](https://github.com/irusanov/ZenTimings) - 
 - [mold/explr](https://github.com/mold/explr) - Explr the world through music
@@ -4825,6 +4827,7 @@
 
 ## python 
 
+- [Pyrlang/Pyrlang](https://github.com/Pyrlang/Pyrlang) - Erlang node implemented in Python 3.5+ (Asyncio-based)
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
