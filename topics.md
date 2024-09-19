@@ -177,6 +177,7 @@
 - [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -3644,6 +3645,20 @@
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
+## openai 
+
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [mrmps/SMRY](https://github.com/mrmps/SMRY) - A tool to get summaries and get past paywalls
+- [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## opencv 
 
 - [cocoa-xu/evision](https://github.com/cocoa-xu/evision) - Evision: An OpenCV-Erlang/Elixir binding
@@ -3927,7 +3942,6 @@
 - [zed-industries/community](https://github.com/zed-industries/community) - Zed's official community
 - [allenai/mmc4](https://github.com/allenai/mmc4) - MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
 - [Chiplis/IronBoy](https://github.com/Chiplis/IronBoy) - A Gameboy emulator written in Rust as both a learning exercise and a love letter to the console that got me into gaming.
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
 - [reduf/search](https://github.com/reduf/search) - GUI built on ripgrep for recursive file content searching.
 - [archcraft-os/archcraft-wayland-special](https://github.com/archcraft-os/archcraft-wayland-special) - Archcraft Wayland Special Edition
