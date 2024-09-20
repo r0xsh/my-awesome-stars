@@ -490,10 +490,11 @@
 - [laCour/slack-night-mode](https://github.com/laCour/slack-night-mode) - A Stylus style for easy Slack theming
 - [htdvisser/hugo-base16-theme](https://github.com/htdvisser/hugo-base16-theme) - [NOT MAINTAINED] Hugo theme with base16 eighties colorscheme
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
+- [17/hexo-theme-strict](https://github.com/17/hexo-theme-strict) - A clean, minimal and responsive theme for hexo
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
@@ -716,7 +717,7 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
+- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [NordSecurity/nordvpn-linux](https://github.com/NordSecurity/nordvpn-linux) - NordVPN Linux client
@@ -746,7 +747,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
+- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
 - [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.
 - [dennis-tra/image-stego](https://github.com/dennis-tra/image-stego) - 🏞 Steganography-based image integrity - Merkle tree nodes embedded into image chunks so that each chunk's integrity can be verified on its own.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -2617,7 +2618,7 @@
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [pilcrowOnPaper/oslo](https://github.com/pilcrowOnPaper/oslo) - A collection of auth-related utilities
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
