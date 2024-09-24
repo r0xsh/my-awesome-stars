@@ -649,8 +649,9 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go)
+- [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to static site migrator
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [evanrolfe/trayce_agent](https://github.com/evanrolfe/trayce_agent) - 
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
