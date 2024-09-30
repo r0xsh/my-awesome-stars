@@ -2113,7 +2113,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [krojew/springtime](https://github.com/krojew/springtime) - A framework for advanced Rust applications.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
-- [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists
+- [clitic/vsd](https://github.com/clitic/vsd) - Original source codes of Clitic. Aim Bone Recoil Control System Show Line ESP Team BOX ESP
 - [Chiplis/IronBoy](https://github.com/Chiplis/IronBoy) - A Gameboy emulator written in Rust as both a learning exercise and a love letter to the console that got me into gaming.
 - [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -2565,7 +2565,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
-- [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
+- [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
