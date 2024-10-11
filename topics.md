@@ -464,7 +464,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [directus/v8-archive](https://github.com/directus/v8-archive) - Directus Database API — Wraps Custom SQL Databases with a REST/GraphQL API
@@ -614,7 +614,7 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -641,7 +641,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
@@ -1179,7 +1179,7 @@
 - [spatie/laravel-tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour to your Laravel app
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
@@ -1300,7 +1300,7 @@
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -1925,7 +1925,7 @@
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [dennis-tra/image-stego](https://github.com/dennis-tra/image-stego) - 🏞 Steganography-based image integrity - Merkle tree nodes embedded into image chunks so that each chunk's integrity can be verified on its own.
@@ -2031,7 +2031,7 @@
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.
 - [dennis-tra/image-stego](https://github.com/dennis-tra/image-stego) - 🏞 Steganography-based image integrity - Merkle tree nodes embedded into image chunks so that each chunk's integrity can be verified on its own.
@@ -4804,7 +4804,7 @@
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 - [ClusterLabs/PAF](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
@@ -5682,7 +5682,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [octoproject/octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -6059,7 +6059,7 @@
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [Arrow7000/qew](https://github.com/Arrow7000/qew) - 🚄 Library for queuing asynchronous functions - useful in interfacing with rate limited APIs or memory intensive operations
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
