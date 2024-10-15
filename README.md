@@ -303,6 +303,7 @@
 
 ## C++ 
 
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -655,6 +656,7 @@
 
 ## Go 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -718,7 +720,7 @@
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Cloud Metering for AI, Billing and FinOps. Collect and aggregate millions of usage events in real-time.
 - [tzapio/tzap](https://github.com/tzapio/tzap) - 
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
@@ -1735,7 +1737,6 @@
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
@@ -2555,6 +2556,7 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [DifuseHQ/Kalmia](https://github.com/DifuseHQ/Kalmia) - A documentation CMS written in go
@@ -2592,6 +2594,7 @@
 - [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - 
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
