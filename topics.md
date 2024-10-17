@@ -1027,7 +1027,7 @@
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [stride3d/stride](https://github.com/stride3d/stride) - Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [BluestormDNA/ProjectDMG](https://github.com/BluestormDNA/ProjectDMG) - C# GameBoy Emulator
 - [sunengine/SunEngine](https://github.com/sunengine/SunEngine) - SunEngine – site engine with blog, forum and articles sections features support.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1272,7 +1272,8 @@
 
 ## design 
 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [tooll3/t3](https://github.com/tooll3/t3) - Tooll 3 is an open source software to create realtime motion graphics.
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
@@ -1475,7 +1476,7 @@
 
 - [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️ MPD client in .NET. Based on MpcNET.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [sunengine/SunEngine](https://github.com/sunengine/SunEngine) - SunEngine – site engine with blog, forum and articles sections features support.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
@@ -1493,7 +1494,7 @@
 ## electron 
 
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
@@ -1755,7 +1756,7 @@
 
 ## frontend 
 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -1863,7 +1864,7 @@
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -2092,7 +2093,7 @@
 ## good-first-issue 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 
 ## google 
@@ -2165,9 +2166,10 @@
 - [naymspace/backpex](https://github.com/naymspace/backpex) - Backpex is a highly customizable administration panel for Phoenix LiveView applications.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK
 - [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️ MPD client in .NET. Based on MpcNET.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -2294,6 +2296,7 @@
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [OpenAPITools/openapi-style-validator](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenAPI spec follows your organization's standards.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -2491,6 +2494,7 @@
 
 ## image-processing 
 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [faresbakhit/ayin](https://github.com/faresbakhit/ayin) - Ayin is a free and open source photo editing software available on Windows, Linux, and MacOS
 - [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - a
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
@@ -3144,7 +3148,7 @@
 
 ## low-code 
 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -3494,7 +3498,7 @@
 
 ## nextjs 
 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - JavaScript Open Source Multi-Vendor Marketplace Accelerator build on top of Medusa.js. Mercur simplifies the path to your own customized, multi-vendor marketplace.
@@ -3734,6 +3738,7 @@
 
 ## others 
 
+- [CapibaraZero/docs](https://github.com/CapibaraZero/docs) - 
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - 
@@ -5114,7 +5119,7 @@
 
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [Darginec05/Yoopta-Editor](https://github.com/Darginec05/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -5318,6 +5323,7 @@
 
 ## rust 
 
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
@@ -5401,7 +5407,7 @@
 - [Julien-R44/cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
 - [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -5588,7 +5594,7 @@
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -5897,7 +5903,7 @@
 ## tailwindcss 
 
 - [naymspace/backpex](https://github.com/naymspace/backpex) - Backpex is a highly customizable administration panel for Phoenix LiveView applications.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
 - [tylerbarker/tw_screen_size](https://github.com/tylerbarker/tw_screen_size) - A tiny LiveView widget showing the current screen dimensions and Tailwind breakpoint 🖼️
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
@@ -6021,7 +6027,7 @@
 ## typescript 
 
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
@@ -6292,7 +6298,7 @@
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
