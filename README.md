@@ -2327,7 +2327,7 @@
 - [jazzdotdev/jazz](https://github.com/jazzdotdev/jazz) - The Scripting Engine that Combines Speed, Safety, and Simplicity
 - [srijs/rust-aws-lambda](https://github.com/srijs/rust-aws-lambda) - Support for running Rust programs on AWS Lambda
 - [oracle/railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
-- [shepmaster/twox-hash](https://github.com/shepmaster/twox-hash) - A Rust implementation of the XXHash algorithm.
+- [shepmaster/twox-hash](https://github.com/shepmaster/twox-hash) - A Rust implementation of the xxHash algorithm.
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [RustAudio/deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings for the deepspeech library
 - [anguslees/kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust
@@ -2565,7 +2565,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [DifuseHQ/Kalmia](https://github.com/DifuseHQ/Kalmia) - A documentation CMS written in go
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source DataDog + PostHog for AI agents / RAG apps. Fast, reliable and insightful. Written in Rust 🦀. YC S24.
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source data flywheel platform for LLM apps. Fast and reliable. Written in Rust 🦀. YC S24.
 - [glncy/expo-up-server](https://github.com/glncy/expo-up-server) - 
 - [Christopher2K/swapify](https://github.com/Christopher2K/swapify) - 
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
