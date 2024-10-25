@@ -103,7 +103,7 @@
 
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
@@ -522,6 +522,7 @@
 
 ## Dart 
 
+- [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is a Wayland compositor providing an innovative workflow that utilizes humans natural spatial cognition to enhance navigation and organization in the digital environment.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) - Code Push for Flutter and other tools for Flutter businesses.
 - [davquar/halfdot](https://github.com/davquar/halfdot) - Minimalistic Umami client for Android
@@ -1176,7 +1177,6 @@
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [mold/explr](https://github.com/mold/explr) - Explr the world through music
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
@@ -1216,7 +1216,7 @@
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Autodesk/react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility
 - [architect/arc.codes](https://github.com/architect/arc.codes) - The Architect web site! 🌩
 - [comntr/webext](https://github.com/comntr/webext) - An extension for Firefox and Chrome to add comments to any URL
@@ -2025,6 +2025,7 @@
 
 ## Rust 
 
+- [lbonn/i3-focus-last](https://github.com/lbonn/i3-focus-last) - 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
@@ -2562,7 +2563,7 @@
 - [enszrlu/NextStep](https://github.com/enszrlu/NextStep) - Lightweight onboarding library for Next.js
 - [CapibaraZero/docs](https://github.com/CapibaraZero/docs) - 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, and Gitea repositories 🪄 MIT licensed ✅
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [DifuseHQ/Kalmia](https://github.com/DifuseHQ/Kalmia) - A documentation CMS written in go
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source data flywheel platform for LLM apps. Fast and reliable. Written in Rust 🦀. YC S24.
@@ -2714,7 +2715,7 @@
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
@@ -2728,6 +2729,7 @@
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
