@@ -329,6 +329,7 @@
 
 ## analytics 
 
+- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics
 - [paradedb/pg_analytics](https://github.com/paradedb/pg_analytics) - DuckDB-powered analytics for Postgres
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
@@ -929,7 +930,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [evhub/coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [manatlan/vbuild](https://github.com/manatlan/vbuild) - "Compile" your VueJS components (sfc/*.vue) to standalone html/js/css ... python only (no need of nodejs). Support python components too !
-- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
+- [mint-lang/mint](https://github.com/mint-lang/mint) - 🍃 A refreshing programming language for the front-end web.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [ratel-rust/ratel-core](https://github.com/ratel-rust/ratel-core) - High performance JavaScript to JavaScript compiler with a Rust core
@@ -1235,7 +1236,7 @@
 - [iceychris/LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
+- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [robi56/Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) - This repository contains Deep Learning based articles , paper and repositories for Recommender Systems
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
@@ -2964,7 +2965,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [evhub/coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
-- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
+- [mint-lang/mint](https://github.com/mint-lang/mint) - 🍃 A refreshing programming language for the front-end web.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## languages 
@@ -3224,7 +3225,7 @@
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
-- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
+- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [robi56/Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) - This repository contains Deep Learning based articles , paper and repositories for Recommender Systems
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
@@ -4273,7 +4274,7 @@
 - [brundonsmith/life](https://github.com/brundonsmith/life) - Simple Rust implementation of Conway's Game of Life
 - [slp/io-uring](https://github.com/slp/io-uring) - Wrapper providing a safe and simple way to access liburing-sys features.
 - [fabiang/true-combat](https://github.com/fabiang/true-combat) - Enemy Territory + True Combat:Elite
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - [emoon/dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
@@ -4812,6 +4813,7 @@
 
 ## postgresql 
 
+- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics
 - [paradedb/pg_analytics](https://github.com/paradedb/pg_analytics) - DuckDB-powered analytics for Postgres
 - [timeseries/qstudio](https://github.com/timeseries/qstudio) - qStudio - Free SQL Analysis Tool
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -5105,7 +5107,7 @@
 - [iceychris/LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) - WaveRNN Vocoder + TTS
-- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
+- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [freewym/espresso](https://github.com/freewym/espresso) - Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
@@ -5318,7 +5320,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
-- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
+- [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [directus/v8-archive](https://github.com/directus/v8-archive) - Directus Database API — Wraps Custom SQL Databases with a REST/GraphQL API
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -5411,7 +5413,6 @@
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
