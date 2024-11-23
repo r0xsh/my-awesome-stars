@@ -277,7 +277,7 @@
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework.
 - [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Traces, Evals, Datasets, Labels. YC S24.
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24.
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
@@ -333,9 +333,9 @@
 
 - [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Postgres read replica optimized for analytics
 - [paradedb/pg_analytics](https://github.com/paradedb/pg_analytics) - DuckDB-powered analytics for Postgres
-- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
+- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Traces, Evals, Datasets, Labels. YC S24.
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24.
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
@@ -346,7 +346,7 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -1436,7 +1436,7 @@
 - [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -2313,7 +2313,7 @@
 - [cycle/annotated](https://github.com/cycle/annotated) - Schema generation using annotated entities and mappers
 - [cycle/orm](https://github.com/cycle/orm) - PHP DataMapper, ORM
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [apostrophecms/apostrophe-headless](https://github.com/apostrophecms/apostrophe-headless) - Add REST APIs to your Apostrophe "pieces," powering your React/Vue/etc. apps with a headless CMS.
+- [apostrophecms-legacy/apostrophe-headless](https://github.com/apostrophecms-legacy/apostrophe-headless) - Add REST APIs to your Apostrophe "pieces," powering your React/Vue/etc. apps with a headless CMS.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects.
 - [danielgtaylor/apisprout](https://github.com/danielgtaylor/apisprout) - Lightweight, blazing fast, cross-platform OpenAPI 3 mock server with validation
@@ -2465,6 +2465,7 @@
 
 ## http 
 
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
@@ -2503,6 +2504,7 @@
 
 ## https 
 
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
@@ -2725,7 +2727,7 @@
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [mtharrison/wasmbooth](https://github.com/mtharrison/wasmbooth) - Wasm video filter booth app written in Rust
 - [layerJS/layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
@@ -2775,7 +2777,7 @@
 
 ## js 
 
-- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free web software for signing PDFs (alone or with others) and also organize pages, edit medata and compress pdf
+- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDFs (alone or with others) and also organize pages, edit medata and compress pdf
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
@@ -2926,7 +2928,7 @@
 - [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -3155,6 +3157,7 @@
 
 - [nosia-ai/nosia](https://github.com/nosia-ai/nosia) - Nosia is a platform that allows you to run an AI model on your own data. It is designed to be easy to install and use.
 - [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - Claude Memory: Long-term memory for Claude
+- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
@@ -3386,7 +3389,7 @@
 
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Traces, Evals, Datasets, Labels. YC S24.
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
@@ -3451,7 +3454,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [directus/v8-archive](https://github.com/directus/v8-archive) - Directus Database API — Wraps Custom SQL Databases with a REST/GraphQL API
@@ -3550,6 +3553,7 @@
 - [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - JavaScript Open Source Multi-Vendor Marketplace Accelerator build on top of Medusa.js. Mercur simplifies the path to your own customized, multi-vendor marketplace.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
@@ -3611,7 +3615,7 @@
 
 ## nodejs 
 
-- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
+- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
@@ -3659,7 +3663,7 @@
 - [Blizzard/node-rdkafka](https://github.com/Blizzard/node-rdkafka) - Node.js bindings for librdkafka
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [basys/basys](https://github.com/basys/basys) - Toolbox for building full-stack Vue.js apps
@@ -3691,7 +3695,7 @@
 - [pixel-point/fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [Arrow7000/qew](https://github.com/Arrow7000/qew) - 🚄 Library for queuing asynchronous functions - useful in interfacing with rate limited APIs or memory intensive operations
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
 ## numpy 
 
@@ -3709,8 +3713,8 @@
 ## open-source 
 
 - [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
-- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Traces, Evals, Datasets, Labels. YC S24.
+- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24.
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack.
 - [themanafov/nucelo](https://github.com/themanafov/nucelo) - An open-source minimal blogging platform
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - JavaScript Open Source Multi-Vendor Marketplace Accelerator build on top of Medusa.js. Mercur simplifies the path to your own customized, multi-vendor marketplace.
@@ -3788,6 +3792,7 @@
 
 ## others 
 
+- [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [SeaDve/Delineate](https://github.com/SeaDve/Delineate) - View and edit graphs
 - [nDimensional/andromeda](https://github.com/nDimensional/andromeda) - High-performance graph layout engine
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
@@ -3821,7 +3826,6 @@
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [pmrowla/streamlink-plugins](https://github.com/pmrowla/streamlink-plugins) - custom streamlink plugins
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
-- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [DifuseHQ/Kalmia](https://github.com/DifuseHQ/Kalmia) - A documentation CMS written in go
 - [glncy/expo-up-server](https://github.com/glncy/expo-up-server) - 
@@ -4430,7 +4434,7 @@
 - [dalance/nom-tracable](https://github.com/dalance/nom-tracable) - Extension of nom to trace parser
 - [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-- [CargoSense/fable](https://github.com/CargoSense/fable) - 
+- [CargoSense/fable](https://github.com/CargoSense/fable) - Your events have a story to tell
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
@@ -4773,7 +4777,7 @@
 
 ## php 
 
-- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free web software for signing PDFs (alone or with others) and also organize pages, edit medata and compress pdf
+- [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDFs (alone or with others) and also organize pages, edit medata and compress pdf
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [temporalio/samples-php](https://github.com/temporalio/samples-php) - Temporal PHP SDK samples
 - [Chemaclass/edifact-parser](https://github.com/Chemaclass/edifact-parser) - A parser for a UN/EDIFACT file in PHP
@@ -4886,7 +4890,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
@@ -5197,6 +5201,7 @@
 
 ## react 
 
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A Minimalist, Open-Source Task and Project Management Tool
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [Christopher2K/swapify](https://github.com/Christopher2K/swapify) - Swapify is an open source app to transfer music between platforms
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack.
@@ -5311,6 +5316,7 @@
 
 ## reactjs 
 
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A Minimalist, Open-Source Task and Project Management Tool
 - [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -5489,7 +5495,7 @@
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [Julien-R44/cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
 - [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -5723,7 +5729,7 @@
 ## self-hosted 
 
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Traces, Evals, Datasets, Labels. YC S24.
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -5786,7 +5792,7 @@
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -5877,7 +5883,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
