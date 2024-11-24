@@ -1536,6 +1536,7 @@
 
 ## elixir 
 
+- [mishka-group/mishka_chelekom](https://github.com/mishka-group/mishka_chelekom) - Mishka Chelekom is a fully featured components and UI kit library for Phoenix & Phoenix LiveView
 - [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework.
 - [pow-auth/pow](https://github.com/pow-auth/pow) - Robust, modular, and extendable user authentication system
@@ -5913,6 +5914,7 @@
 
 ## sqlite 
 
+- [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
@@ -6005,6 +6007,7 @@
 
 ## tailwindcss 
 
+- [mishka-group/mishka_chelekom](https://github.com/mishka-group/mishka_chelekom) - Mishka Chelekom is a fully featured components and UI kit library for Phoenix & Phoenix LiveView
 - [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
 - [naymspace/backpex](https://github.com/naymspace/backpex) - Backpex is a highly customizable administration panel for Phoenix LiveView applications.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
