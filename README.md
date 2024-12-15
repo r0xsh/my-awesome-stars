@@ -292,9 +292,10 @@
 - [BluestormDNA/ProjectDMG](https://github.com/BluestormDNA/ProjectDMG) - C# GameBoy Emulator
 - [sunengine/SunEngine](https://github.com/sunengine/SunEngine) - SunEngine – site engine with blog, forum and articles sections features support.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+- [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a
 - [lowleveldesign/process-governor](https://github.com/lowleveldesign/process-governor) - This application allows you to put various limits on Windows processes.
 - [Disa-im/DisaOpenSource](https://github.com/Disa-im/DisaOpenSource) - A platform for Disa's unified messenger
 - [EventStore/EventStore](https://github.com/EventStore/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
@@ -304,6 +305,7 @@
 
 ## C++ 
 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [VROOM-Project/vroom](https://github.com/VROOM-Project/vroom) - Vehicle Routing Open-source Optimization Machine
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [google/souper](https://github.com/google/souper) - A superoptimizer for LLVM IR
@@ -737,7 +739,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [leighmacdonald/bd](https://github.com/leighmacdonald/bd) - 
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
@@ -784,6 +786,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
 - [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.
@@ -1019,7 +1022,6 @@
 - [htmlstreamofficial/awesome-dashboard-ui-kit](https://github.com/htmlstreamofficial/awesome-dashboard-ui-kit) - Awesome Dashboard UI Kit is a beautiful Open Source Bootstrap 4 Dashboard UI Kit crafted by Htmlstream.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
-- [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a
 - [borilla/z80-nops-static](https://github.com/borilla/z80-nops-static) - HTML page showing Z80 instructions and timing for Amstrad CPC
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -1407,6 +1409,11 @@
 
 ## Lua 
 
+- [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
+- [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
+- [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) - Utilities for interacting with Wezterm from within Neovim
+- [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim) - Neovim plugin to quickly insert log statements and capture log output
+- [oskarrrrrrr/symbols.nvim](https://github.com/oskarrrrrrr/symbols.nvim) - Sidebar with code symbols for Neovim.
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
 - [isaacharrisholt/nvim-config](https://github.com/isaacharrisholt/nvim-config) - 
 - [stefanwatt/trek.nvim](https://github.com/stefanwatt/trek.nvim) - 
@@ -1522,6 +1529,7 @@
 
 ## Others 
 
+- [5T33Z0/Thinkpad-T490-Hackintosh-OpenCore](https://github.com/5T33Z0/Thinkpad-T490-Hackintosh-OpenCore) - OpenCore EFI folder for running macOS Sequoia on the Lenovo ThinkPad T490.
 - [Draneria/Metallics-by-Draneria_Krita-Brushes](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes) - A free set of brushes (and more!) for Krita users.
 - [seangreen2/slate_theme](https://github.com/seangreen2/slate_theme) - A Dark Theme for Home Assistant
 - [oban-bg/oban_training](https://github.com/oban-bg/oban_training) - 📓 Oban Training curriculum derived from in-person training at Elixirconf 2023
@@ -1682,7 +1690,7 @@
 - [jkapuscik2/design-patterns-php](https://github.com/jkapuscik2/design-patterns-php) - Examples of design patterns in PHP
 - [doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms) - A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
-- [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
+- [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [ApiGen/ApiGen](https://github.com/ApiGen/ApiGen) - PHP 7.1 ready Smart and Simple Documentation for your PHP project
 - [apiato/apiato](https://github.com/apiato/apiato) - PHP Framework for building scalable API's on top of Laravel.
 - [spatie/laravel-varnish](https://github.com/spatie/laravel-varnish) - Making Varnish and Laravel play nice together
@@ -2077,6 +2085,7 @@
 
 ## Rust 
 
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
 - [SeaDve/Delineate](https://github.com/SeaDve/Delineate) - View and edit graphs
 - [shnewto/bnf](https://github.com/shnewto/bnf) - Parse BNF grammar definitions
@@ -2620,6 +2629,7 @@
 
 ## TypeScript 
 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
@@ -2900,7 +2910,6 @@
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [paliari/v-autocomplete](https://github.com/paliari/v-autocomplete) - Autocomplete component for Vue.js
 - [raikm/nevo](https://github.com/raikm/nevo) - The dashboard should be a solution to overview important information and control tasks quickly.
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [darosh/oax](https://github.com/darosh/oax) - OpenApi Specification Explorer
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
