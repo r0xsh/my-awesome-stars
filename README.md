@@ -398,7 +398,7 @@
 - [mdilai/Shtreeba](https://github.com/mdilai/Shtreeba) - VAC-proof 32bit DLL injector written in C++, using memory mapping and thread hijacking techniques
 - [FrictionalGames/AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [geohot/solidity](https://github.com/geohot/solidity) - 
-- [NMan1/Rainbow-Six-Cheat](https://github.com/NMan1/Rainbow-Six-Cheat) - Features a kernel driver - fully functional login loader with a MySQL database - HWID checker - licensing system - r6 cheat features - menu
+- [NMan1/RainbowSix_KernelDriver](https://github.com/NMan1/RainbowSix_KernelDriver) - Features a kernel driver - fully functional login loader with a MySQL database - HWID checker - licensing system - r6 cheat features - menu
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [ValveSoftware/ToGL](https://github.com/ValveSoftware/ToGL) - Direct3D to OpenGL abstraction layer
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
@@ -538,6 +538,7 @@
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) - Code Push for Flutter and other tools for Flutter businesses.
 - [davquar/halfdot](https://github.com/davquar/halfdot) - Minimalistic Umami client for Android
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor
 - [hamaluik/timecop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and the gets the job done without being fancy.
 - [simc/auto_size_text](https://github.com/simc/auto_size_text) - Flutter widget that automatically resizes text to fit perfectly within its bounds.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -682,6 +683,7 @@
 
 ## Go 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [stonith404/pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [KopiasCsaba/open_sound_control_bridge](https://github.com/KopiasCsaba/open_sound_control_bridge) - An advanced automation framework for audio mixer consoles, OBS, PTZ cameras and more based on the Open Sound Control protocol.
@@ -1650,7 +1652,7 @@
 
 ## PHP 
 
-- [TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno) - User security analytics platform for web applications. Get started - free.
+- [TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno) - User security analytics for mission-critical web applications.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [temporalio/samples-php](https://github.com/temporalio/samples-php) - Temporal PHP SDK samples
 - [Chemaclass/edifact-parser](https://github.com/Chemaclass/edifact-parser) - A parser for a UN/EDIFACT file in PHP
@@ -1882,7 +1884,6 @@
 - [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [betagouv/SPPNautCarting](https://github.com/betagouv/SPPNautCarting) - First version of interface to manage nautic publication
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor with an API for custom nodes
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
