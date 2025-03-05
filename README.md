@@ -206,7 +206,7 @@
 - [nullgemm/excalibar](https://github.com/nullgemm/excalibar) - sharp and shiny taskbar
 - [F-Stack/f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
 - [creaktive/tsh](https://github.com/creaktive/tsh) - Tiny SHell - An open-source UNIX backdoor (I'm not the author!)
-- [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
+- [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system -- this is a read-only mirror of the official repository at https://code.illumos.org/plugins/gitiles/illumos-gate
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -1115,7 +1115,6 @@
 - [kaaes/spotify-web-api-android](https://github.com/kaaes/spotify-web-api-android) - A wrapper for Spotify Web API. It uses Retrofit to create Java interfaces from API endpoints
 - [klinker41/android-smsmms](https://github.com/klinker41/android-smsmms) - Library for easily sending SMS and MMS for Android devices
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [ZorinOS/zorin-connect-android](https://github.com/ZorinOS/zorin-connect-android) - Connect your Zorin OS computer with your Android device
 - [linuxserver/fleet](https://github.com/linuxserver/fleet) - Status and image fleet metadata management application for Docker images
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [lf-lang/lingua-franca](https://github.com/lf-lang/lingua-franca) - Intuitive concurrent programming in any language
@@ -1236,6 +1235,7 @@
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [mold/explr](https://github.com/mold/explr) - Explr the world through music
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
@@ -1381,7 +1381,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [commaai/comma2k19](https://github.com/commaai/comma2k19) - A driving dataset for the development and validation of fused pose estimators and mapping algorithms
@@ -1408,6 +1408,7 @@
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
+- [ZorinOS/zorin-connect-android](https://github.com/ZorinOS/zorin-connect-android) - Connect your Zorin OS computer with your Android device
 - [futuredapp/hauler](https://github.com/futuredapp/hauler) - Library with swipe to dismiss Activity gesture implementation
 - [flexbooru/flexbooru](https://github.com/flexbooru/flexbooru) - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Shimmie, etc.
 - [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) - ⚠️ This project moved to a new repository. It is now developed and maintained at: https://github.com/mozilla-mobile/firefox-android
@@ -2859,7 +2860,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [dashborg/hibiki](https://github.com/dashborg/hibiki) - Hibiki HTML
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
@@ -2881,7 +2882,6 @@
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
