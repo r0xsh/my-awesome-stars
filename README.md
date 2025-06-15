@@ -369,7 +369,7 @@
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC) - EAStdC is a package which implements basic library facilities that are similar to those in the standard C library.
@@ -1539,6 +1539,7 @@
 
 ## MDX 
 
+- [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 
@@ -1712,7 +1713,7 @@
 ## PHP 
 
 - [Payum/Payum](https://github.com/Payum/Payum) - PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open source user intelligence platform. Monitor, analyze, and protect your web application against cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [temporalio/samples-php](https://github.com/temporalio/samples-php) - Temporal PHP SDK samples
 - [Chemaclass/edifact-parser](https://github.com/Chemaclass/edifact-parser) - A parser for a UN/EDIFACT file in PHP
@@ -2162,7 +2163,7 @@
 - [nosia-ai/nosia](https://github.com/nosia-ai/nosia) - Nosia is a platform that allows you to run an AI model on your own data. It is designed to be easy to install and use.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services in public beta.
 - [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
@@ -2314,7 +2315,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [krojew/springtime](https://github.com/krojew/springtime) - A framework for advanced Rust applications.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
-- [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, HLS and DASH playlists.
+- [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists.
 - [Chiplis/IronBoy](https://github.com/Chiplis/IronBoy) - A Gameboy emulator written in Rust as both a learning exercise and a love letter to the console that got me into gaming.
 - [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -2383,7 +2384,7 @@
 - [amoffat/supertag](https://github.com/amoffat/supertag) - A tag-based filesystem
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for nearly 20 languages 📚 Generate proper code documentation with a single keypress. ⚡️🔥
-- [nilsmartel/awaitchange](https://github.com/nilsmartel/awaitchange) - Useful when one only wants to perform commands on filechanges
+- [nilsmartel/awaitchange](https://github.com/nilsmartel/awaitchange) - CLI to perform commands on filechange
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
@@ -2796,7 +2797,6 @@
 - [Evernomic/comma](https://github.com/Evernomic/comma) - An open-source minimal blogging platform.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
-- [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [FerRiv3ra/rn-inkpad](https://github.com/FerRiv3ra/rn-inkpad) - Open source React Native UI library, with a wide range of ready-to-use components.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer.
@@ -2825,7 +2825,7 @@
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
 - [pruvious/pruvious](https://github.com/pruvious/pruvious) - A reliable CMS for your Nuxt app.
-- [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
+- [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
