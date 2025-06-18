@@ -211,7 +211,7 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [mkirchner/gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
 - [nullgemm/excalibar](https://github.com/nullgemm/excalibar) - sharp and shiny taskbar
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [F-Stack/f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
 - [creaktive/tsh](https://github.com/creaktive/tsh) - Tiny SHell - An open-source UNIX backdoor (I'm not the author!)
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system -- this is a read-only mirror of the official repository at https://code.illumos.org/plugins/gitiles/illumos-gate
@@ -508,7 +508,6 @@
 
 ## CSS 
 
-- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant) - PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 - [Amaranttos/Hyprland-Dots](https://github.com/Amaranttos/Hyprland-Dots) - 
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
@@ -695,6 +694,7 @@
 
 ## F# # 
 
+- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 - [rommsen/EventSourcing-DIY](https://github.com/rommsen/EventSourcing-DIY) - Companion repository for my Event Sourcing - Do it yourself video series.
 - [atsapura/CardManagement](https://github.com/atsapura/CardManagement) - 
 
@@ -806,7 +806,7 @@
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [tzapio/tzap](https://github.com/tzapio/tzap) - 
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
@@ -845,7 +845,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.
 - [dennis-tra/image-stego](https://github.com/dennis-tra/image-stego) - 🏞 Steganography-based image integrity - Merkle tree nodes embedded into image chunks so that each chunk's integrity can be verified on its own.
@@ -1200,6 +1200,7 @@
 ## JavaScript 
 
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Visual low-code flow-based programming environment for Erlang, inspired by Node-RED.
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) - Online webgl photo editor with effects, filters and cropping
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
@@ -1730,7 +1731,7 @@
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [waterholeforum/waterhole](https://github.com/waterholeforum/waterhole) - Waterhole starter project.
 - [tarlepp/symfony-flex-backend](https://github.com/tarlepp/symfony-flex-backend) - Symfony Flex REST API template project
-- [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP wrapper for the Meilisearch API
+- [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch
 - [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [blackfireio/player](https://github.com/blackfireio/player) - Blackfire Player is a powerful Web Crawling, Web Testing, and Web Scraper application. It provides a nice DSL to crawl HTTP services, assert responses, and extract data from HTML/XML/JSON responses.
@@ -2775,7 +2776,7 @@
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A Minimalist, Open-Source Task and Project Management Tool
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
@@ -2939,7 +2940,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
