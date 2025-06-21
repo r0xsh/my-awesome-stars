@@ -1365,7 +1365,6 @@
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
 - [tixl3d/tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics.
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
@@ -5276,7 +5275,6 @@
 ## pwa 
 
 - [thisistonydang/liveview-svelte-pwa](https://github.com/thisistonydang/liveview-svelte-pwa) - Local-First LiveView Svelte ToDo App
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web,
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
