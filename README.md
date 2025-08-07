@@ -156,7 +156,7 @@
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [espressif/esp-skainet](https://github.com/espressif/esp-skainet) - Espressif intelligent voice assistant
-- [kspalaiologos/qbdiff](https://github.com/kspalaiologos/qbdiff) - building and applying patches to binary files
+- [iczelia/qbdiff](https://github.com/iczelia/qbdiff) - building and applying patches to binary files
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [joeycastillo/Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch) - A board replacement for the classic Casio F-91W wristwatch
 - [multipath-tcp/mptcp_net-next](https://github.com/multipath-tcp/mptcp_net-next) - Development version of the Upstream MultiPath TCP Linux kernel 🐧
@@ -355,6 +355,7 @@
 - [maplibre/maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
+- [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [raspofabs/dodbooksourcecode](https://github.com/raspofabs/dodbooksourcecode) - Source code to the data-oriented design book
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - a
@@ -800,7 +801,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [leighmacdonald/bd](https://github.com/leighmacdonald/bd) - 
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
@@ -1240,7 +1241,6 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 - [amandaghassaei/VortexShedding](https://github.com/amandaghassaei/VortexShedding) - A realtime fluid flow simulation on the GPU using WebGL
-- [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) - Javascript stream parser for UN/EDIFACT documents.
 - [typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter) - A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
@@ -2386,7 +2386,7 @@
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [demostf/parser](https://github.com/demostf/parser) - Parsing of tf2 demo files
-- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [fmeringdal/nettu-scheduler](https://github.com/fmeringdal/nettu-scheduler) - A self-hosted calendar and scheduler server.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
@@ -2769,7 +2769,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [crocofied/CoreControl](https://github.com/crocofied/CoreControl) - Dashboard to manage your entire server infrastructure
@@ -2998,7 +2998,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - A logical fallacy lookup tool
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 209 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
