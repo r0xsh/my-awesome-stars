@@ -1232,7 +1232,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
 - [arximboldi/immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 209 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 - [ignoreintuition/jSchema](https://github.com/ignoreintuition/jSchema) - A simple, easy to use data modeling framework for JavaScript
@@ -1524,7 +1524,7 @@
 ## docker 
 
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [hintjen/selfhosted-gateway](https://github.com/hintjen/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
 - [xpipe-io/xpipe-webtop](https://github.com/xpipe-io/xpipe-webtop) - A containerized web-based desktop environment for XPipe
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -2136,7 +2136,7 @@
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [srevinsaju/togomak](https://github.com/srevinsaju/togomak) - A declarative pipeline orchestrator with the magic of HCL as a configuration language, inspired from Terraform's architecture.
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -2243,7 +2243,7 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [srevinsaju/togomak](https://github.com/srevinsaju/togomak) - A declarative pipeline orchestrator with the magic of HCL as a configuration language, inspired from Terraform's architecture.
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
@@ -2635,7 +2635,7 @@
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 209 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -2772,7 +2772,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Breadboard Programming for Erlang inspired by Node-RED
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
@@ -2863,6 +2863,7 @@
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -3002,7 +3003,6 @@
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
-- [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [puffinsoft/jscanify](https://github.com/puffinsoft/jscanify) - The Javascript document scanning library.
 - [marcocesarato/react-native-big-list](https://github.com/marcocesarato/react-native-big-list) - This is a high performance list view for React Native with support for complex layouts using a similar FlatList usage to make easy the replacement. This list implementation for big list rendering on R
@@ -3408,7 +3408,7 @@
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models in 512MB of RAM
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
@@ -4469,7 +4469,7 @@
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform - https://everdemand.co
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 - [ea/lytro_unlock](https://github.com/ea/lytro_unlock) - Documenting reverse engineering of the original Lytro lightfield camera
-- [kspalaiologos/qbdiff](https://github.com/kspalaiologos/qbdiff) - building and applying patches to binary files
+- [iczelia/qbdiff](https://github.com/iczelia/qbdiff) - building and applying patches to binary files
 - [betagouv/SPPNautCarting](https://github.com/betagouv/SPPNautCarting) - First version of interface to manage nautic publication
 - [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC) - EAStdC is a package which implements basic library facilities that are similar to those in the standard C library.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
@@ -5928,7 +5928,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
-- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [fmeringdal/nettu-scheduler](https://github.com/fmeringdal/nettu-scheduler) - A self-hosted calendar and scheduler server.
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
@@ -6174,7 +6174,7 @@
 
 ## self-hosted 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [kouprlabs/voltaserve](https://github.com/kouprlabs/voltaserve) - ⚡️ Reality OS for Creators
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -6701,7 +6701,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 209 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [PxyUp/Revact](https://github.com/PxyUp/Revact) - Full reactivity JS/TS framework. Lightweight replacement of React + MobX + React Router. Very small and fast !!
@@ -6741,7 +6741,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [creativetimofficial/now-ui-dashboard](https://github.com/creativetimofficial/now-ui-dashboard) - Now UI Dashboard - Open Source Admin Template
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 209 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
