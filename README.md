@@ -509,7 +509,6 @@
 
 ## CSS 
 
-- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant) - PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 - [Amaranttos/Hyprland-Dots](https://github.com/Amaranttos/Hyprland-Dots) - 
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
@@ -1092,6 +1091,7 @@
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [borilla/z80-nops-static](https://github.com/borilla/z80-nops-static) - HTML page showing Z80 instructions and timing for Amstrad CPC
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog.
@@ -1197,7 +1197,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [eventuate-clients/eventuate-client-java](https://github.com/eventuate-clients/eventuate-client-java) - Eventuate Java client
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-- [trekawek/coffee-gb](https://github.com/trekawek/coffee-gb) - Gameboy emulator in Java 8.
+- [trekawek/coffee-gb](https://github.com/trekawek/coffee-gb) - Gameboy emulator in Java and Kotlin.
 - [rishabhdugar/imagga-android-demo](https://github.com/rishabhdugar/imagga-android-demo) - Android working code to demo Imagga tagging and content api
 - [microg/android_external_GmsLib](https://github.com/microg/android_external_GmsLib) - Merged into https://github.com/microg/android_packages_apps_GmsCore
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -1424,7 +1424,7 @@
 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [ciupava/maptcha_dev](https://github.com/ciupava/maptcha_dev) - Experiments for developing Maptcha
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
@@ -1612,6 +1612,7 @@
 - [a13xp0p0v/linux-kernel-defence-map](https://github.com/a13xp0p0v/linux-kernel-defence-map) - Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
 - [MatinTheGC/LiveView-Prefetching](https://github.com/MatinTheGC/LiveView-Prefetching) - A proposal about "Prefetching" in Phoenix LiveView
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
+- [interledger/open-payments](https://github.com/interledger/open-payments) - Protocol to setup payments between entities on the Web based on GNAP
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [5T33Z0/Thinkpad-T490-Hackintosh-OpenCore](https://github.com/5T33Z0/Thinkpad-T490-Hackintosh-OpenCore) - OpenCore EFI folder for running macOS Sequoia (with AirportItlwm) and newer on the Lenovo ThinkPad T490.
@@ -1722,7 +1723,7 @@
 ## PHP 
 
 - [Payum/Payum](https://github.com/Payum/Payum) - PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [temporalio/samples-php](https://github.com/temporalio/samples-php) - Temporal PHP SDK samples
 - [Chemaclass/edifact-parser](https://github.com/Chemaclass/edifact-parser) - A parser for a UN/EDIFACT file in PHP
@@ -1735,7 +1736,7 @@
 - [zenstruck/schedule-bundle](https://github.com/zenstruck/schedule-bundle) - Schedule Cron jobs (commands/callbacks/bash scripts) within your Symfony application.
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
 - [estratocloud/edifact](https://github.com/estratocloud/edifact) - Parser and Serializer for UN/EDIFACT messages in PHP
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 - [waterholeforum/waterhole](https://github.com/waterholeforum/waterhole) - Waterhole starter project.
 - [tarlepp/symfony-flex-backend](https://github.com/tarlepp/symfony-flex-backend) - Symfony Flex REST API template project
 - [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch
@@ -1907,6 +1908,7 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
 - [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
@@ -2344,7 +2346,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
+- [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [terhechte/twitvault](https://github.com/terhechte/twitvault) - Easily Archive and Search Your Twitter Data with our Syncable Desktop App
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -2415,7 +2417,7 @@
 - [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework
 - [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
 - [zetzit/zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
 - [germangb/mini-fs](https://github.com/germangb/mini-fs) - Extensible app filesystem library.
@@ -2500,7 +2502,6 @@
 - [chinedufn/psd](https://github.com/chinedufn/psd) - A Rust API for parsing and working with PSD files.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [shuhei/colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
@@ -2779,7 +2780,6 @@
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [TahaSh/blendy](https://github.com/TahaSh/blendy) - 🧈 Smoothly transition one element into another with just a few lines of code.
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
-- [interledger/open-payments](https://github.com/interledger/open-payments) - Protocol to setup payments between entities on the Web based on GNAP
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [vantuan88291/react-native-ota-hot-update](https://github.com/vantuan88291/react-native-ota-hot-update) - React native hot update same as code push, can update using git repository or custom server
@@ -2807,7 +2807,7 @@
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
 - [rectanglehq/Shapeshift](https://github.com/rectanglehq/Shapeshift) - Transform JSON objects using vector embeddings
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [Evernomic/comma](https://github.com/Evernomic/comma) - An open-source minimal blogging platform.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
@@ -2842,7 +2842,6 @@
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -2883,7 +2882,7 @@
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
@@ -2913,7 +2912,7 @@
 - [maplibre/maputnik](https://github.com/maplibre/maputnik) - An open source visual editor for the 'MapLibre Style Specification'
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform - https://everdemand.co
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
