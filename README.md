@@ -315,6 +315,7 @@
 
 ## C++ 
 
+- [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [AlexR2D2/duckdbex](https://github.com/AlexR2D2/duckdbex) - The Library embeds C++ DuckDB database into you Elixir application.
 - [mmzeeman/educkdb](https://github.com/mmzeeman/educkdb) - DuckDB NIF for Erlang
@@ -1148,7 +1149,7 @@
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [oblador/react-native-store-review](https://github.com/oblador/react-native-store-review) - Rate on App/Play Store directly in your React Native app
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
@@ -1212,7 +1213,6 @@
 - [ylem-co/ylem](https://github.com/ylem-co/ylem) - Ylem is an open-source platform for real-time data streaming orchestration
 - [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
-- [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - Claude Memory: Long-term memory for Claude
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
 - [formsmd/formsmd](https://github.com/formsmd/formsmd) - Developer-first, open source Typeform alternative (formerly known as Blocks.md)
@@ -1385,7 +1385,6 @@
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [janpaul123/paperprograms](https://github.com/janpaul123/paperprograms) - Run Javascript on pieces of paper!
-- [sindresorhus/react-router-util](https://github.com/sindresorhus/react-router-util) - Useful components and utilities for working with React Router
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
@@ -1435,6 +1434,7 @@
 
 ## Kotlin 
 
+- [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [Expensify/react-native-wallet](https://github.com/Expensify/react-native-wallet) - 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is the first full-stack session replay and API call exploration tool. Using WireQuery, you get a holistic overview of how an issue came into existence.
@@ -1517,7 +1517,7 @@
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
-- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
+- [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) - Heuristic buffer auto-close
@@ -1620,6 +1620,7 @@
 - [roots/wordpress](https://github.com/roots/wordpress) - Automatically updated WordPress Composer package
 - [meocoder31099/Serendipity-Theme-Zed](https://github.com/meocoder31099/Serendipity-Theme-Zed) - Relaxed, gentle and modern | Serendipity theme for Zed
 - [epk/SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) - Apple's SF Mono font patched with the Nerd Fonts patcher
+- [Mythra/typeish](https://github.com/Mythra/typeish) - A runtime type checker for bash.... in bash. I'm not sorry.
 - [candiddev/rot](https://github.com/candiddev/rot) - Boring Cryptography Tooling for Humans
 - [Bekaboo/nvim](https://github.com/Bekaboo/nvim) - Neovim :: M Λ C R O - Editing made simple
 - [michaelachrisco/Electronic-Interchange-Github-Resources](https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources) - List of EDI (Mostly) Github Resources
@@ -1721,7 +1722,7 @@
 ## PHP 
 
 - [Payum/Payum](https://github.com/Payum/Payum) - PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your platform from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your app from cyber threats, account threats, and abuse. Get started — free.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [temporalio/samples-php](https://github.com/temporalio/samples-php) - Temporal PHP SDK samples
 - [Chemaclass/edifact-parser](https://github.com/Chemaclass/edifact-parser) - A parser for a UN/EDIFACT file in PHP
@@ -1851,6 +1852,7 @@
 
 ## Python 
 
+- [pyocd/pyOCD](https://github.com/pyocd/pyOCD) - Open source Python library for programming and debugging Arm Cortex-M microcontrollers
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -1915,7 +1917,7 @@
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI
 - [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [GRAAL-Research/deepparse](https://github.com/GRAAL-Research/deepparse) - Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps developers build and prototype web apps faster with AI. Dropbase is local-first and self hosted.
@@ -2171,7 +2173,7 @@
 
 ## Ruby 
 
-- [nosia-ai/nosia](https://github.com/nosia-ai/nosia) - Nosia is a platform that allows you to run an AI model on your own data. It is designed to be easy to install and use.
+- [dilolabs/nosia](https://github.com/dilolabs/nosia) - Nosia is a platform that allows you to run an AI model on your own data. It is designed to be easy to install and use.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
@@ -2210,7 +2212,7 @@
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [seifane/simple-sip-rs](https://github.com/seifane/simple-sip-rs) - An easy to use library for SIP.
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
@@ -2584,7 +2586,7 @@
 - [FGRibreau/spinners](https://github.com/FGRibreau/spinners) - 🛎 60+ Elegant terminal spinners for Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [jonhoo/bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel
 - [floooh/rz80](https://github.com/floooh/rz80) - Z80 chip family emulator library written in Rust.
@@ -2628,7 +2630,7 @@
 
 ## Scala 
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [joernio/joern](https://github.com/joernio/joern) - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
 - [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 - [MAIF/otoroshi](https://github.com/MAIF/otoroshi) - Lightweight api management on top of a modern http reverse proxy
@@ -2649,7 +2651,6 @@
 - [aeghn/clsw](https://github.com/aeghn/clsw) - A bash script for color switching, maybe more.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [olimorris/tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - 🍅 Incorporate the Pomodoro technique into your tmux workflow
-- [Mythra/typeish](https://github.com/Mythra/typeish) - A runtime type checker for bash.... in bash. I'm not sorry.
 - [trevarj/tmux-open-nvim](https://github.com/trevarj/tmux-open-nvim) - A tmux plugin that helps opening files in a Neovim pane
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL — Pigsty
@@ -2764,6 +2765,7 @@
 
 ## TypeScript 
 
+- [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [toss/granite](https://github.com/toss/granite) - Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -2789,6 +2791,7 @@
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
+- [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - Claude Memory: Long-term memory for Claude
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
@@ -3025,6 +3028,7 @@
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
+- [sindresorhus/react-router-util](https://github.com/sindresorhus/react-router-util) - Useful components and utilities for working with React Router
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
