@@ -1175,7 +1175,7 @@
 - [GluuFederation/oxTrust](https://github.com/GluuFederation/oxTrust) - Gluu Server UI for managing authentication, authorization and users.
 - [GluuFederation/oxAuth](https://github.com/GluuFederation/oxAuth) - OAuth 2.0 server and client; OpenID Connect Provider (OP) & UMA Authorization Server (AS)
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [akshay2211/MusicWave](https://github.com/akshay2211/MusicWave) - With MusicWave represent your Sound in a gradient colored Visualization
 - [stepstone-tech/android-material-stepper](https://github.com/stepstone-tech/android-material-stepper) - This library allows to use Material steppers inside Android applications.
 - [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
@@ -1205,7 +1205,7 @@
 
 ## JavaScript 
 
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Breadboard Programming for Erlang inspired by Node-RED
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Visual Erlang Prompting for an AI world - inspired by Node-RED
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) - Online webgl photo editor with effects, filters and cropping
@@ -1419,7 +1419,7 @@
 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [ciupava/maptcha_dev](https://github.com/ciupava/maptcha_dev) - Experiments for developing Maptcha
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
@@ -1996,7 +1996,7 @@
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [hauxir/errorpush](https://github.com/hauxir/errorpush) - Minimalist Error collection Service compatible with Rollbar clients. Sentry or Rollbar alternative.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [bishoph/sopare](https://github.com/bishoph/sopare) - Real time sound pattern recognition in Python for Raspberry/Banana Pi.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
