@@ -1592,6 +1592,7 @@
 
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [mhanberg/.dotfiles](https://github.com/mhanberg/.dotfiles) - My dotfiles
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [icyphox/dotfiles](https://github.com/icyphox/dotfiles) - system configurations using nix
 
 ## OCaml 
@@ -1832,7 +1833,6 @@
 
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [openmaptiles/openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 
 ## Perl 
 
@@ -2645,7 +2645,7 @@
 - [jazz-it/dline](https://github.com/jazz-it/dline) - A sleek and simple calendar for terminal enthusiasts.
 - [message-db/message-db](https://github.com/message-db/message-db) - Microservice native message and event store for Postgres
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
-- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - 
+- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [victrixsoft/bashbro](https://github.com/victrixsoft/bashbro) - A Bash-based web file browser. Allowing you to browse, view and transfer files via your web browser.
 - [aeghn/clsw](https://github.com/aeghn/clsw) - A bash script for color switching, maybe more.
