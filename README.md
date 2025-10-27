@@ -733,7 +733,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
-- [kouprlabs/voltaserve](https://github.com/kouprlabs/voltaserve) - ⚡️ Reality OS for Creators
+- [kouprlabs/voltaserve](https://github.com/kouprlabs/voltaserve) - ⚡️ The AI Native Cloud File System
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -743,7 +743,7 @@
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [KopiasCsaba/open_sound_control_bridge](https://github.com/KopiasCsaba/open_sound_control_bridge) - An advanced automation framework for audio mixer consoles, OBS, PTZ cameras and more based on the Open Sound Control protocol.
@@ -1051,6 +1051,7 @@
 
 ## HTML 
 
+- [csstools/normalize.css](https://github.com/csstools/normalize.css) - A cross-browser CSS foundation
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [yoavsbg/css-flexbox-playground](https://github.com/yoavsbg/css-flexbox-playground) - CSS Flexbox Playground - Experiment with different flex properties to understand how they affect layout. Adjust the controls below to see changes in real-time and copy the generated CSS code.
 - [MaxwellBo/celine](https://github.com/MaxwellBo/celine) - 🐌 A suite of libraries for building reactive HTML notebooks with inline contenteditable &lt;script&gt;s
@@ -2202,6 +2203,7 @@
 
 ## Rust 
 
+- [sierra-db/sierradb](https://github.com/sierra-db/sierradb) - SierraDB: The immutable database for events
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
@@ -2343,7 +2345,7 @@
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
 - [matt-kimball/allocscope](https://github.com/matt-kimball/allocscope) - allocscope  -  a memory tracking tool
@@ -2636,7 +2638,7 @@
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [joernio/joern](https://github.com/joernio/joern) - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
-- [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+- [akka/akka-core](https://github.com/akka/akka-core) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 - [MAIF/otoroshi](https://github.com/MAIF/otoroshi) - Lightweight api management on top of a modern http reverse proxy
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
@@ -2820,7 +2822,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [FerRiv3ra/rn-inkpad](https://github.com/FerRiv3ra/rn-inkpad) - Open source React Native UI library, with a wide range of ready-to-use components.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
-- [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer.
+- [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer. Check out https://nocode-js.com
 - [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 - [mercurjs/mercur](https://github.com/mercurjs/mercur) - Open-source multi-vendor marketplace platform for B2B & B2C. Built on top of MedusaJS. Create your own custom marketplace. 🛍️
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -2868,7 +2870,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies.
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [rosszurowski/rosszurowski.com](https://github.com/rosszurowski/rosszurowski.com) - Personal site 🌱
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -3004,7 +3006,7 @@
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [andrewscwei/aristotl](https://github.com/andrewscwei/aristotl) - A logical fallacy lookup tool
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
@@ -3095,7 +3097,7 @@
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [kassane/zig-xlsxwriter](https://github.com/kassane/zig-xlsxwriter) - A Zig library for writing files in the Excel 2007+ XLSX file format
 - [nDimensional/andromeda](https://github.com/nDimensional/andromeda) - High-performance graph layout engine
-- [Dr-Nekoma/lyceum](https://github.com/Dr-Nekoma/lyceum) - An MMO game written in Erlang (+ PostgreSQL + Omnigres) + Zig (+ Raylib)
+- [Dr-Nekoma/lyceum](https://github.com/Dr-Nekoma/lyceum) - An MMO game written in Erlang + PostgreSQL (+ Omnigres) + Zig (+ Raylib)
 - [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
