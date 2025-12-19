@@ -340,14 +340,13 @@
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [tpecholt/imrad](https://github.com/tpecholt/imrad) - ImRAD is a GUI builder for the ImGui library
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display
 - [DreamMaoMao/hycov](https://github.com/DreamMaoMao/hycov) - hyprland overview mode plugin,a new tile window workflow
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
-- [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
+- [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - A flashy and powerful Wayland window manager 🌠
 - [faresbakhit/ayin](https://github.com/faresbakhit/ayin) - Ayin is a free and open source photo editing software available on Windows, Linux, and MacOS
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -369,7 +368,6 @@
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - a
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
@@ -588,6 +586,7 @@
 
 ## Elixir 
 
+- [bartblast/hologram](https://github.com/bartblast/hologram) - Full stack Elixir web framework that intelligently transpiles Elixir client-side code to JavaScript
 - [josevalim/fresh](https://github.com/josevalim/fresh) - WebSocket client for Elixir, built atop the Mint ecosystem
 - [elixir-lang/expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 - [josevalim/phoenix_sync](https://github.com/josevalim/phoenix_sync) - Real-time sync for Postgres-backed Phoenix applications.
@@ -746,7 +745,6 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
-- [kouprlabs/voltaserve](https://github.com/kouprlabs/voltaserve) - ⚡️ The AI Native Cloud File System
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -756,7 +754,6 @@
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [KopiasCsaba/open_sound_control_bridge](https://github.com/KopiasCsaba/open_sound_control_bridge) - An advanced automation framework for audio mixer consoles, OBS, PTZ cameras and more based on the Open Sound Control protocol.
@@ -1085,6 +1082,7 @@
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models in 512MB of RAM
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [LAION-AI/laion-datasets](https://github.com/LAION-AI/laion-datasets) - Description and pointers of laion datasets
@@ -1168,7 +1166,7 @@
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [oblador/react-native-store-review](https://github.com/oblador/react-native-store-review) - Rate on App/Play Store directly in your React Native app
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
@@ -1224,7 +1222,8 @@
 
 ## JavaScript 
 
-- [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
+- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - 
+- [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully customizable and scalable delivery management system that supports multiple business models and service verticals. It allows you to launch and manage your own ordering and logistics
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Erlang interpreter for Node-RED (visual flow based programming) with Elixir support
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1236,6 +1235,7 @@
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
 - [formsmd/formsmd](https://github.com/formsmd/formsmd) - Developer-first, open source Typeform alternative (formerly known as Blocks.md)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -1327,7 +1327,7 @@
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
 - [samyk/crak](https://github.com/samyk/crak) - Crash Royale Attack Kit
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [logux/docs](https://github.com/logux/docs) - Guide, recipes, and protocol specifications for Logux
 - [developit/unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum 500b fetch polyfill.
@@ -1468,7 +1468,7 @@
 - [ng-galien/idea-plpgdebugger](https://github.com/ng-galien/idea-plpgdebugger) - A plugin to debug PL/pg in Intellij
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
-- [fingerprintjs/fingerprintjs-android](https://github.com/fingerprintjs/fingerprintjs-android) - Swiss army knife for identifying and fingerprinting Android devices. MIT license, no restrictions on usage in production.
+- [fingerprintjs/fingerprintjs-android](https://github.com/fingerprintjs/fingerprintjs-android) - Free library for identifying and fingerprinting Android devices. MIT license, no restrictions on usage in production.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
@@ -1491,6 +1491,19 @@
 
 ## Lua 
 
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
+- [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 💾 Simple session management for Neovim with git branching, autoloading and Telescope support
+- [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
+- [zahidislm/garbage-day.nvim](https://github.com/zahidislm/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM
+- [kolemannix/nvim](https://github.com/kolemannix/nvim) - 
+- [boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim) - Neovim config WITHOUT plugins
+- [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
+- [elixir-tools/elixir-tools.nvim](https://github.com/elixir-tools/elixir-tools.nvim) - Neovim plugin for Elixir
+- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects.
+- [r7sqtr/spectra.nvim](https://github.com/r7sqtr/spectra.nvim) - NvChad-style colorscheme picker for Neovim with color palette preview.
+- [shushtain/incselect.nvim](https://github.com/shushtain/incselect.nvim) - incremental selection with tree-sitter
+- [shushtain/spectrolite.nvim](https://github.com/shushtain/spectrolite.nvim) - convert and highlight colors
+- [vague-theme/vague.nvim](https://github.com/vague-theme/vague.nvim) - A cool, dark, low contrast colorscheme for Neovim. Pastel yet vivid, like a fleeting memory...
 - [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
 - [folksoftware/nvim](https://github.com/folksoftware/nvim) - 🫦 Themes for (Neo)vim
 - [vieitesss/nvim](https://github.com/vieitesss/nvim) - My Neovim configuration
@@ -1632,9 +1645,12 @@
 
 ## Others 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
+- [steviebez/Nvim-Config-Guide](https://github.com/steviebez/Nvim-Config-Guide) - Modular Neovim configuration reference detailing structure, plugin lazy-loading strategies, keymap definitions, and custom Autocommands (hooks). Note: Generated by Claude
+- [AnAxeCalledNegus/Project-Symphony](https://github.com/AnAxeCalledNegus/Project-Symphony) - 
 - [MobilityData/GOFS](https://github.com/MobilityData/GOFS) - The General On-Demand Format Specification (GOFS).
 - [a13xp0p0v/linux-kernel-defence-map](https://github.com/a13xp0p0v/linux-kernel-defence-map) - Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
-- [MatinAgha/LiveView-Prefetching](https://github.com/MatinAgha/LiveView-Prefetching) - A proposal about "Prefetching" in Phoenix LiveView
+- [matamin/LiveView-Prefetching](https://github.com/matamin/LiveView-Prefetching) - A proposal about "Prefetching" in Phoenix LiveView
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
@@ -1875,6 +1891,7 @@
 
 ## Python 
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [arman-bd/httpmorph](https://github.com/arman-bd/httpmorph) - httpmorph is a drop-in replacement for Python's requests library that uses a custom C implementation with BoringSSL instead of Python's standard HTTP stack.
@@ -2183,6 +2200,7 @@
 
 ## QML 
 
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
 - [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) - Plasma shell for TVs
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
@@ -2224,6 +2242,7 @@
 
 ## Rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [CachyOS/cachy-chroot](https://github.com/CachyOS/cachy-chroot) - 
@@ -2266,7 +2285,7 @@
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [paradedb/pg_analytics](https://github.com/paradedb/pg_analytics) - DuckDB-powered data lake analytics from Postgres
 - [lbonn/i3-focus-last](https://github.com/lbonn/i3-focus-last) - 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
@@ -2691,7 +2710,7 @@
 - [olimorris/tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - 🍅 Incorporate the Pomodoro technique into your tmux workflow
 - [trevarj/tmux-open-nvim](https://github.com/trevarj/tmux-open-nvim) - A tmux plugin that helps opening files in a Neovim pane
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL — Pigsty
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - FLOSS PostgreSQL RDS / DBaaS
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [golivecosmos/pluto](https://github.com/golivecosmos/pluto) - This is a library of scripts that come in handy when working with media files
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
@@ -2804,15 +2823,16 @@
 
 ## TypeScript 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
-- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [toss/granite](https://github.com/toss/granite) - Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [crocofied/CoreControl](https://github.com/crocofied/CoreControl) - Dashboard to manage your entire server infrastructure
@@ -2823,6 +2843,7 @@
 - [TahaSh/blendy](https://github.com/TahaSh/blendy) - 🧈 Smoothly transition one element into another with just a few lines of code.
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
 - [interledger/open-payments](https://github.com/interledger/open-payments) - Protocol to setup payments between entities on the Web based on GNAP
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [vantuan88291/react-native-ota-hot-update](https://github.com/vantuan88291/react-native-ota-hot-update) - React native hot update same as code push, can update using git repository or custom server
@@ -2921,6 +2942,7 @@
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [pilcrowonpaper/oslo](https://github.com/pilcrowonpaper/oslo) - A collection of auth-related utilities
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
@@ -3025,7 +3047,7 @@
 - [logux/server](https://github.com/logux/server) - Build your own Logux server or make a proxy between a WebSocket and an HTTP backend in any language
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [serverless-cqrs/serverless-cqrs](https://github.com/serverless-cqrs/serverless-cqrs) - The main package for serverless-cqrs
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
@@ -3109,8 +3131,7 @@
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Fast. Private. Local-first notes for macOS, Windows, and Linux.
 - [multi-coop/datami](https://github.com/multi-coop/datami) - Datami's mirror repo (source on Gitlab)
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source Reddit client for Android using the public JSON feed
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
