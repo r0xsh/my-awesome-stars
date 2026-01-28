@@ -383,7 +383,7 @@
 
 ## ai-agents 
 
-- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -1622,7 +1622,7 @@
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [datawire/forge](https://github.com/datawire/forge) - Define and run multi-container apps in Kubernetes
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
@@ -2331,7 +2331,7 @@
 - [gate-computer/gate](https://github.com/gate-computer/gate) - Benign remote code execution
 - [soniah/dnsmadeeasy](https://github.com/soniah/dnsmadeeasy) - A Go DNSMadeEasy library
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -2347,7 +2347,7 @@
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [rliebz/tusk](https://github.com/rliebz/tusk) - The modern task runner
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -3496,6 +3496,7 @@
 
 ## linux 
 
+- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [mikhail-m1/illuminanced](https://github.com/mikhail-m1/illuminanced) - Ambient Light Sensor Daemon for Linux
@@ -3728,7 +3729,7 @@
 - [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [alan-turing-institute/CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line applicatio
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [gnes-ai/gnes](https://github.com/gnes-ai/gnes) - GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network.
@@ -3944,6 +3945,7 @@
 
 ## music 
 
+- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
@@ -4022,7 +4024,7 @@
 
 ## neovim 
 
-- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.
@@ -5115,7 +5117,7 @@
 - [WireGuard/wireguard-monolithic-historical](https://github.com/WireGuard/wireguard-monolithic-historical) - Historical monolithic WireGuard repository, split into wireguard-tools, wireguard-linux, and wireguard-linux-compat.
 - [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
 - [HPENetworking/topology](https://github.com/HPENetworking/topology) - Framework for building and testing network topologies, with support for pytest.
-- [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
+- [YelpArchive/elastalert](https://github.com/YelpArchive/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [google/rust-shell](https://github.com/google/rust-shell) - Helper library for std::process::Command to write shell script like tasks in rust
 - [Yucklys/polybar-nord-theme](https://github.com/Yucklys/polybar-nord-theme) - A polybar configuration based on Nord colorscheme with support for multiple modules.
 - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
@@ -5351,7 +5353,7 @@
 - [avinassh/gg-flip](https://github.com/avinassh/gg-flip) - Highly performant Javascript library to flip the signs
 - [janpaul123/paperprograms](https://github.com/janpaul123/paperprograms) - Run Javascript on pieces of paper!
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
-- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
+- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
@@ -5423,7 +5425,7 @@
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [muni-town/weird](https://github.com/muni-town/weird) - A personal web space for digital gardening – local-first Content Management System.
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
@@ -6236,7 +6238,7 @@
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [seifane/simple-sip-rs](https://github.com/seifane/simple-sip-rs) - An easy to use library for SIP.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
@@ -6955,7 +6957,7 @@
 ## terminal 
 
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
-- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -7456,6 +7458,7 @@
 
 ## windows 
 
+- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [darusc/VCamdroid](https://github.com/darusc/VCamdroid) - Use your android phone as windows virtual webcam
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
