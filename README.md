@@ -699,6 +699,7 @@
 
 ## Emacs Lisp 
 
+- [rougier/agenda](https://github.com/rougier/agenda) - Plain text agenda
 - [seenaburns/dotfiles](https://github.com/seenaburns/dotfiles) - Personal config files
 - [resloved/dots](https://github.com/resloved/dots) - 💾 — Dumb & Opinionated Configurations
 
@@ -2883,6 +2884,7 @@
 
 ## TypeScript 
 
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
