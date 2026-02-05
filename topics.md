@@ -328,6 +328,7 @@
 
 ## ai 
 
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
@@ -431,7 +432,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
@@ -552,7 +553,7 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [Nick-Abbott/Mosaic](https://github.com/Nick-Abbott/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
@@ -939,6 +940,7 @@
 
 ## cli 
 
+- [chojs23/ec](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 pane
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1848,6 +1850,7 @@
 
 ## elixir 
 
+- [balance-platform/pillar](https://github.com/balance-platform/pillar) - Elixir library client for work with ClickHouse
 - [elixir-tools/elixir-tools.nvim](https://github.com/elixir-tools/elixir-tools.nvim) - Neovim plugin for Elixir
 - [elixir-lang/expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 - [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK
@@ -1922,6 +1925,7 @@
 
 ## emacs 
 
+- [rougier/agenda](https://github.com/rougier/agenda) - Plain text agenda
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [resloved/dots](https://github.com/resloved/dots) - 💾 — Dumb & Opinionated Configurations
@@ -2230,6 +2234,7 @@
 
 ## git 
 
+- [chojs23/ec](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 pane
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [karlis-vagalis/doxxer](https://github.com/karlis-vagalis/doxxer) - CLI tool for dynamic SemVer versioning using Git and tags
@@ -2283,6 +2288,7 @@
 
 ## go 
 
+- [chojs23/ec](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 pane
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
@@ -3483,6 +3489,7 @@
 
 ## library 
 
+- [balance-platform/pillar](https://github.com/balance-platform/pillar) - Elixir library client for work with ClickHouse
 - [Pyrlang/Pyrlang](https://github.com/Pyrlang/Pyrlang) - Erlang node implemented in Python 3.5+ (Asyncio-based)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [zint/zint](https://github.com/zint/zint) - A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneCode, EAN-128, UPC/EAN, ITF, QR Code, Code 16k, PDF417, MicroPDF417, LOGMARS, Maxicode, GS1 DataBar, 
@@ -3924,7 +3931,7 @@
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
@@ -4408,6 +4415,12 @@
 
 ## others 
 
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
+- [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
+- [clickhouse-elixir/clickhouse_ecto](https://github.com/clickhouse-elixir/clickhouse_ecto) - Ecto adapter for ClickHouse database
+- [livebook-dev/req_ch](https://github.com/livebook-dev/req_ch) - Conveniences for querying ClickHouse with Req
+- [plausible/ecto_ch](https://github.com/plausible/ecto_ch) - ClickHouse adapter for Ecto
+- [raffomania/ties](https://github.com/raffomania/ties) - 🪢Federated website aggregator
 - [treangenlab/bronko](https://github.com/treangenlab/bronko) - Ultra-rapid detection of viral variants directly from sequencing data
 - [OpenGamingCollective/linux](https://github.com/OpenGamingCollective/linux) - Linux kernel source tree
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -7062,6 +7075,7 @@
 
 ## tui 
 
+- [chojs23/ec](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 pane
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -7463,6 +7477,7 @@
 
 ## website 
 
+- [aashvikt/aashvikt.github.io](https://github.com/aashvikt/aashvikt.github.io) - my website
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
