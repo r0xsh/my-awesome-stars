@@ -745,7 +745,7 @@
 
 ## Go 
 
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy TUI native 3-way Git mergetool with
+- [chojs23/ec](https://github.com/chojs23/ec) - Easy TUI native 3-way Git mergetool
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [leonardcser/cursortab.nvim](https://github.com/leonardcser/cursortab.nvim) - Neovim edit completion plugin
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
