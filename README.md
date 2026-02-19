@@ -295,7 +295,7 @@
 ## C# # 
 
 - [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources.
-- [SoPat712/allstarr](https://github.com/SoPat712/allstarr) - An API proxy server that focuses on integrating SquidWTF as an external music source for Navidrome and Jellyfin
+- [SoPat712/allstarr](https://github.com/SoPat712/allstarr) - An API proxy server that focuses on integrating external music sources alongside Jellyfin
 - [b-editor/beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 - [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️ MPD client in .NET. Based on MpcNET.
 - [6over3/bebop](https://github.com/6over3/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
@@ -749,6 +749,7 @@
 
 ## Go 
 
+- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
