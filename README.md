@@ -1581,7 +1581,7 @@
 - [mvpopuk/dotfiles](https://github.com/mvpopuk/dotfiles) - My very personal `dotfiles`. Do not clone them down and use my setup as is. This is my baby. However, feel free to take out bits and pieces.
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - Peek preview window for LSP locations in Neovim
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations.
-- [jesseleite/nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - 🖤 A highly customizable minimalist theme building framework
+- [jesseleite/noirbuddy.nvim](https://github.com/jesseleite/noirbuddy.nvim) - A highly customizable minimalist theme building framework 🖤
 - [nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus
 - [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Embed images into any markup language, like LaTeX, Markdown or Typst
 - [desdic/marlin.nvim](https://github.com/desdic/marlin.nvim) - Smooth sailing through buffers of interest in neovim
@@ -3210,7 +3210,7 @@
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - A local-first open-source notes app. No cloud. No AI. No tracking.
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - The notes app that respects your privacy. Local-first. Open-source. No tracking.
 - [multi-coop/datami](https://github.com/multi-coop/datami) - Datami's mirror repo (source on Gitlab)
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source Reddit client for Android using the public JSON feed
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
