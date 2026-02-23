@@ -109,6 +109,7 @@
 
 ## C 
 
+- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [datavorous/sameshi](https://github.com/datavorous/sameshi) - a ~1200 Elo chess engine that fits within 2KB
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL
@@ -607,7 +608,7 @@
 - [josevalim/fresh](https://github.com/josevalim/fresh) - WebSocket client for Elixir, built atop the Mint ecosystem
 - [elixir-lang/expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 - [josevalim/phoenix_sync](https://github.com/josevalim/phoenix_sync) - Real-time sync for Postgres-backed Phoenix applications.
-- [elixir-dbvisor/sql](https://github.com/elixir-dbvisor/sql) - Brings an extensible SQL parser and sigil to Elixir, confidently write SQL with automatic parameterized queries.
+- [elixir-dbvisor/sql](https://github.com/elixir-dbvisor/sql) - SQL provides state-of-the-art, high-performance SQL integration for Elixir, built to handle extreme concurrency with unmatched expressiveness and ergonomic query composition. Write safe, composable, p
 - [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [software-mansion/live-debugger](https://github.com/software-mansion/live-debugger) - Tool for debugging LiveView applications.
@@ -749,6 +750,7 @@
 
 ## Go 
 
+- [arcten/oforum](https://github.com/arcten/oforum) - minimal self-hostable news/link board
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
@@ -1995,7 +1997,7 @@
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
@@ -2893,6 +2895,7 @@
 
 ## TypeScript 
 
+- [dataspren-analytics/datastudio](https://github.com/dataspren-analytics/datastudio) - A local Python/SQL notebook in the browser for exploring, transforming and visualizing data using WebAssembly.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
