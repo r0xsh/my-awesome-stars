@@ -636,7 +636,7 @@
 - [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
@@ -828,6 +828,7 @@
 
 ## c 
 
+- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -1115,6 +1116,7 @@
 
 ## compiler 
 
+- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
@@ -3435,6 +3437,7 @@
 
 ## language 
 
+- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
@@ -3654,7 +3657,7 @@
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
@@ -3687,7 +3690,7 @@
 
 - [panel-extensions/panel-graphic-walker](https://github.com/panel-extensions/panel-graphic-walker) - A project providing a Graphic Walker Pane for use with HoloViz Panel.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
@@ -3950,7 +3953,7 @@
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
@@ -4168,7 +4171,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -4336,11 +4339,13 @@
 
 ## obsidian 
 
+- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - A refined Obsidian theme built to start here and go anywhere.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
 ## obsidian-md 
 
+- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - A refined Obsidian theme built to start here and go anywhere.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
@@ -4438,7 +4443,6 @@
 
 ## others 
 
-- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [arcten/oforum](https://github.com/arcten/oforum) - minimal self-hostable news/link board
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [datavorous/sameshi](https://github.com/datavorous/sameshi) - a ~1200 Elo chess engine that fits within 2KB
@@ -4465,7 +4469,6 @@
 - [if-not-nil/lunar](https://github.com/if-not-nil/lunar) - a collection of user space utilities i've written over time
 - [josevalim/schemecto](https://github.com/josevalim/schemecto) - Schemaless Ecto changesets with support for nesting and JSON Schemas
 - [quantonganh/helix-wezterm](https://github.com/quantonganh/helix-wezterm) - Turning Helix into an IDE with the help of WezTerm and CLI tools
-- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - Baseline sets a new standard for your Obsidian vault experience.
 - [ertdfgcvb/play.core](https://github.com/ertdfgcvb/play.core) - ASCII Playground
 - [elitracy/blackbag.nvim](https://github.com/elitracy/blackbag.nvim) - 
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
