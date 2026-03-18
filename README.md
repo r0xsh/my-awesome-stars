@@ -1537,7 +1537,7 @@
 - [aikhe/fleur.nvim](https://github.com/aikhe/fleur.nvim) - A sophisticated, low-contrast colorscheme for Neovim inspired by the soft tones of a garden at dusk.
 - [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) - Code's quiet companion. A minimalist theme for Neovim, written in Lua.
 - [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) - Neovim plugin to navigate commit-level context from a single line.
-- [silentium-theme/silentium.nvim](https://github.com/silentium-theme/silentium.nvim) - Pragmatic, logical, and monochrome theme for Neovim
+- [silentium-theme/silentium.nvim](https://github.com/silentium-theme/silentium.nvim) - Pragmatic, logical and monochrome theme for Neovim.
 - [kungfusheep/mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - monochrome neovim themes
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
@@ -1944,6 +1944,8 @@
 
 ## Python 
 
+- [NotARaptor/FOSSILSAFE](https://github.com/NotARaptor/FOSSILSAFE) - Open-source LTO tape backup appliance with LTFS support, automated library management, and catalog-independent disaster recovery, ALPHA state.
+- [Gr122lyBr/voicetag](https://github.com/Gr122lyBr/voicetag) - Speaker identification powered by pyannote and resemblyzer
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -2906,6 +2908,7 @@
 
 ## TypeScript 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Boof2015/astra](https://github.com/Boof2015/astra) - Audiophile music player with gapless playback, parametric EQ, AutoEQ import, and real-time DSP visualizers
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -2983,7 +2986,7 @@
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
