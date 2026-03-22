@@ -2456,7 +2456,7 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -2559,6 +2559,7 @@
 
 ## graphql 
 
+- [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [mirego/accent](https://github.com/mirego/accent) - The first developer-oriented translation tool. True asynchronous flow between translators and your team.
@@ -4198,7 +4199,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL/MariaDB, MongoDB, SQLite, Redis, Valkey (more engines coming soon 🚀)
-- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
@@ -4486,6 +4487,7 @@
 
 ## others 
 
+- [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [NotARaptor/FOSSILSAFE](https://github.com/NotARaptor/FOSSILSAFE) - Open-source LTO tape backup appliance with LTFS support, automated library management, and catalog-independent disaster recovery, ALPHA state.
 - [emin-ozata/lazycut](https://github.com/emin-ozata/lazycut) - A simple terminal UI for video trimming
 - [Psy-Fer/kuva](https://github.com/Psy-Fer/kuva) - A scientific plotting library in Rust
@@ -5846,6 +5848,7 @@
 
 ## python 
 
+- [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
 - [Gr122lyBr/voicetag](https://github.com/Gr122lyBr/voicetag) - Speaker identification powered by pyannote and resemblyzer
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -6099,7 +6102,7 @@
 ## react 
 
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
-- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
@@ -7210,7 +7213,7 @@
 
 - [Boof2015/astra](https://github.com/Boof2015/astra) - Audiophile music player with gapless playback, parametric EQ, AutoEQ import, and real-time DSP visualizers
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
