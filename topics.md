@@ -3621,7 +3621,7 @@
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - A flashy and powerful Wayland window manager 🌠
+- [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - A hackable Wayland window manager 🌠
 - [zint/zint](https://github.com/zint/zint) - A barcode encoding library supporting over 50 symbologies including Code 128, Data Matrix, USPS OneCode, EAN-128, UPC/EAN, ITF, QR Code, Code 16k, PDF417, MicroPDF417, LOGMARS, Maxicode, GS1 DataBar, 
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
@@ -6472,6 +6472,7 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
