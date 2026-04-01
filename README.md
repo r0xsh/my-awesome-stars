@@ -302,7 +302,7 @@
 - [b-editor/beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 - [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️ MPD client in .NET. Based on MpcNET.
 - [6over3/bebop](https://github.com/6over3/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [stride3d/stride](https://github.com/stride3d/stride) - Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 - [krlvm/MediaFlyout](https://github.com/krlvm/MediaFlyout) - Windows 10+ Media Control Taskbar Flyout
@@ -347,7 +347,7 @@
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [VROOM-Project/vroom](https://github.com/VROOM-Project/vroom) - Vehicle Routing Open-source Optimization Machine
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
@@ -880,6 +880,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
@@ -1268,7 +1269,7 @@
 ## JavaScript 
 
 - [ertdfgcvb/play.core](https://github.com/ertdfgcvb/play.core) - ASCII Playground
-- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is an advanced debugging and inspection tool built on the Chrome DevTools Protocol, unifying network interception, API replay, automation, and deep runtime/memory analysis in a single work
+- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is a CDP-based runtime instrumentation platform for the browser. Think Frida, but for JavaScript running in Chrome — without monkeypatching.
 - [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully customizable and scalable delivery management system that supports multiple business models and service verticals. It allows you to launch and manage your own ordering and logistics
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Erlang interpreter for Node-RED (visual flow based programming) with Elixir support
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -1363,7 +1364,6 @@
 - [taniarascia/chip8](https://github.com/taniarascia/chip8) - 🎮 ‎ A Chip-8 emulator written in JavaScript for web, CLI, and native UI.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-- [calculist/calculist-web](https://github.com/calculist/calculist-web) - source code for app.calculist.io
 - [calculist/calculist](https://github.com/calculist/calculist) - the open source thinking tool for problem solvers
 - [apostrophecms-legacy/apostrophe-headless](https://github.com/apostrophecms-legacy/apostrophe-headless) - Add REST APIs to your Apostrophe "pieces," powering your React/Vue/etc. apps with a headless CMS.
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
@@ -2073,7 +2073,6 @@
 - [NordSecurity/libdrop](https://github.com/NordSecurity/libdrop) - Libdrop is the library behind the file sharing feature of NordVPN applications.
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
-- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [betagouv/SPPNautCarting](https://github.com/betagouv/SPPNautCarting) - First version of interface to manage nautic publication
@@ -2925,7 +2924,7 @@
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL/MariaDB, MongoDB, SQLite, Redis, Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -3028,7 +3027,7 @@
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Sentry for Development
 - [mmazzarolo/react-native-dialog](https://github.com/mmazzarolo/react-native-dialog) - Pure JavaScript React-Native dialog
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
@@ -3159,6 +3158,7 @@
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
 - [reg-viz/storycap](https://github.com/reg-viz/storycap) - A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
+- [calculist/calculist-web](https://github.com/calculist/calculist-web) - source code for app.calculist.io
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
