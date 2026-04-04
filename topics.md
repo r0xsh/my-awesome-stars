@@ -93,6 +93,7 @@
 - [ember](#ember)
 - [emulator](#emulator)
 - [es6](#es6)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
@@ -510,7 +511,6 @@
 - [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
 - [flexbooru/flexbooru](https://github.com/flexbooru/flexbooru) - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Shimmie, etc.
 - [jeffshee/LINEStickerKeyboard](https://github.com/jeffshee/LINEStickerKeyboard) - Image Keyboard for Android which aim to port LINE stickers to other SNS, static or animated!
-- [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) - ⚠️ This project moved to a new repository. It is now developed and maintained at: https://github.com/mozilla-mobile/firefox-android
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -2040,6 +2040,17 @@
 
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [luangjokaj/wordpressify](https://github.com/luangjokaj/wordpressify) - 🎈 Automate your WordPress development workflow.
+
+## esp32 
+
+- [Noskcaj19/hardware-kvm](https://github.com/Noskcaj19/hardware-kvm) - "Software" KVM that requires no client software
+- [HeyWillow/willow](https://github.com/HeyWillow/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
+- [toitlang/toit](https://github.com/toitlang/toit) - Program your microcontrollers in a fast and robust high-level language.
+- [lvgl/lv_port_esp32](https://github.com/lvgl/lv_port_esp32) - LVGL ported to ESP32 including various display and touchpad drivers
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 
 ## ethereum 
 
@@ -4858,7 +4869,6 @@
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
-- [Noskcaj19/hardware-kvm](https://github.com/Noskcaj19/hardware-kvm) - "Software" KVM that requires no client software
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 - [magenta/ddsp-vst](https://github.com/magenta/ddsp-vst) - Realtime DDSP Neural Synthesizer and Effect
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
@@ -5027,7 +5037,6 @@
 - [caspg/gpx_phoenix](https://github.com/caspg/gpx_phoenix) - 
 - [maxx-coffee/influxinator](https://github.com/maxx-coffee/influxinator) - GPS tracking proof of concept utilizing Elixir, Phoenix, Mapbox and influxDB
 - [davidrmiller/biosim4](https://github.com/davidrmiller/biosim4) - Biological evolution simulator
-- [toitlang/toit](https://github.com/toitlang/toit) - Program your microcontrollers in a fast and robust high-level language.
 - [CodesAreHonest/food-delivery-system](https://github.com/CodesAreHonest/food-delivery-system) - Food Delivery System Minor Project
 - [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -5350,6 +5359,7 @@
 - [ftilde/ugdb](https://github.com/ftilde/ugdb) - An alternative TUI for gdb
 - [googlearchive/android-CommitContentSampleIME](https://github.com/googlearchive/android-CommitContentSampleIME) - Migrated:
 - [alanszlosek/android-keyboard](https://github.com/alanszlosek/android-keyboard) - Customizing the SoftKeyboard example so I can actually type on my 3.2" Optimus V screen
+- [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks
 - [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
