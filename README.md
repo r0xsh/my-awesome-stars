@@ -340,7 +340,7 @@
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [AlexR2D2/duckdbex](https://github.com/AlexR2D2/duckdbex) - The Library embeds C++ DuckDB database into you Elixir application.
 - [mmzeeman/educkdb](https://github.com/mmzeeman/educkdb) - DuckDB NIF for Erlang
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
@@ -1505,6 +1505,7 @@
 
 ## Kotlin 
 
+- [ExTV/Podroid](https://github.com/ExTV/Podroid) - Rootless Podman for Android — run Linux containers on your phone
 - [Nick-Abbott/Mosaic](https://github.com/Nick-Abbott/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -2308,7 +2309,7 @@
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses, and media from 50+ platforms. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dl
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dlp. Download torrents and send 
 - [Psy-Fer/kuva](https://github.com/Psy-Fer/kuva) - A scientific plotting library in Rust
 - [KumoCorp/kumomta](https://github.com/KumoCorp/kumomta) - The first Open-Source  high-performance MTA developed from the ground-up for high-volume email sending environments.
 - [raffomania/ties](https://github.com/raffomania/ties) - 🪢Federated website aggregator
@@ -3057,7 +3058,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
-- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
