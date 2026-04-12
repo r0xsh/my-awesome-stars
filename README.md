@@ -1647,7 +1647,6 @@
 
 ## MDX 
 
-- [meursyphus/flitter](https://github.com/meursyphus/flitter) - A JavaScript rendering engine inspired by Flutter. Build any visualization — charts, diagrams, editors — with composable widgets and Canvas/SVG.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 
@@ -2988,6 +2987,7 @@
 - [Evernomic/comma](https://github.com/Evernomic/comma) - An open-source minimal blogging platform.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
+- [meursyphus/flitter](https://github.com/meursyphus/flitter) - A JavaScript rendering engine inspired by Flutter. Build any visualization — charts, diagrams, editors — with composable widgets and Canvas/SVG.
 - [FerRiv3ra/rn-inkpad](https://github.com/FerRiv3ra/rn-inkpad) - Open source React Native UI library, with a wide range of ready-to-use components.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer. Check out https://nocode-js.com
