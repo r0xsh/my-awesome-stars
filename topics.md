@@ -4802,7 +4802,7 @@
 - [cloudflare/meet](https://github.com/cloudflare/meet) - 
 - [umbertoghio/self-hosted-expo-updates-server](https://github.com/umbertoghio/self-hosted-expo-updates-server) - 
 - [expo/custom-expo-updates-server](https://github.com/expo/custom-expo-updates-server) - A simplified demonstration of expo-updates protocol use.
-- [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - Web-based MPD client
+- [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - MPD client
 - [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Embed images into any markup language, like LaTeX, Markdown or Typst
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
