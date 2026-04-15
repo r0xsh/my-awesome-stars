@@ -3007,7 +3007,7 @@
 - [frw/react-native-ssl-public-key-pinning](https://github.com/frw/react-native-ssl-public-key-pinning) - Simple and secure SSL public key pinning for React Native. No native configuration needed, set up in &lt;5 minutes.
 - [cloudflare/meet](https://github.com/cloudflare/meet) - 
 - [expo/custom-expo-updates-server](https://github.com/expo/custom-expo-updates-server) - A simplified demonstration of expo-updates protocol use.
-- [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - Web-based MPD client
+- [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - MPD client
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
