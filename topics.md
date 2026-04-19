@@ -3099,7 +3099,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Erlang interpreter for Node-RED (visual flow based programming) with Elixir support
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
@@ -6788,7 +6788,7 @@
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
@@ -7526,7 +7526,7 @@
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [mycoria/mycoria](https://github.com/mycoria/mycoria) - Mycoria is an open and secure overlay network that connects all participants. It values freedom of connectivity and aims to imitate the curious and adventurous spirit of the early Internet.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
