@@ -585,7 +585,7 @@
 
 ## api 
 
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [Nick-Abbott/Mosaic](https://github.com/Nick-Abbott/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
@@ -664,7 +664,7 @@
 
 ## automation 
 
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [Edrusb/DAR](https://github.com/Edrusb/DAR) - DAR - Disk ARchive, a fully featured backup tool
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
@@ -863,7 +863,7 @@
 
 ## c 
 
-- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
+- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -989,7 +989,7 @@
 ## cli 
 
 - [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -1157,7 +1157,7 @@
 ## compiler 
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
+- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
@@ -2649,7 +2649,7 @@
 ## graphql 
 
 - [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [mirego/accent](https://github.com/mirego/accent) - The first developer-oriented translation tool. True asynchronous flow between translators and your team.
@@ -3196,7 +3196,7 @@
 
 ## javascript 
 
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
@@ -3963,7 +3963,7 @@
 
 ## markdown 
 
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -4496,7 +4496,7 @@
 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
-- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
+- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Tsuzat/Nota](https://github.com/Tsuzat/Nota) - A Fast, Modern, Feature Rich and Lightweight Note taking desktop application made with native AI integration
@@ -5898,7 +5898,7 @@
 ## programming-language 
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [nicolasmd87/aether](https://github.com/nicolasmd87/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
+- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [jolie/jolie](https://github.com/jolie/jolie) - The Jolie programming language
@@ -6365,7 +6365,7 @@
 
 ## rest-api 
 
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -7247,7 +7247,7 @@
 
 ## testing 
 
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
