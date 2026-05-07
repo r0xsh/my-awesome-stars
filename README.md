@@ -634,7 +634,6 @@
 - [fcevado/unidecode](https://github.com/fcevado/unidecode) - Elixir package to transliterate Unicode to ASCII
 - [jeffkreeftmeijer/elixir-nif-examples](https://github.com/jeffkreeftmeijer/elixir-nif-examples) - 
 - [xavier/xlsx_reader](https://github.com/xavier/xlsx_reader) - A production-ready XLSX file reader for Elixir.
-- [mishka-group/mishka_chelekom](https://github.com/mishka-group/mishka_chelekom) - Mishka Chelekom is a fully featured components and UI kit library for Phoenix & Phoenix LiveView
 - [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.
 - [thmsmlr/instructor_ex](https://github.com/thmsmlr/instructor_ex) - Structured outputs for LLMs in Elixir
@@ -675,7 +674,6 @@
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) - :watch: Cron-like job scheduler for Elixir
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 - [E-xyza/zigler](https://github.com/E-xyza/zigler) - zig nifs in elixir
 - [ljgago/kino_aoc](https://github.com/ljgago/kino_aoc) - A helper for Advent of Code (a smart cell) for Elixir Livebook
@@ -1119,6 +1117,7 @@
 - [yoavsbg/css-flexbox-playground](https://github.com/yoavsbg/css-flexbox-playground) - CSS Flexbox Playground - Experiment with different flex properties to understand how they affect layout. Adjust the controls below to see changes in real-time and copy the generated CSS code.
 - [MaxwellBo/celine](https://github.com/MaxwellBo/celine) - 🐌 A suite of libraries for building reactive HTML notebooks with inline contenteditable &lt;script&gt;s
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font
+- [mishka-group/mishka_chelekom](https://github.com/mishka-group/mishka_chelekom) - Mishka Chelekom is a fully featured components and UI kit library for Phoenix & Phoenix LiveView
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [herbie-fp/herbie](https://github.com/herbie-fp/herbie) - Optimize floating-point expressions for accuracy
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -1553,7 +1552,7 @@
 - [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.
 - [elitracy/blackbag.nvim](https://github.com/elitracy/blackbag.nvim) - 
 - [trip-zip/somewm](https://github.com/trip-zip/somewm) - Not quite awesome...just some.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 💾 Simple session management for Neovim with git branching, autoloading and Telescope support
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
 - [zahidislm/garbage-day.nvim](https://github.com/zahidislm/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM
@@ -3059,6 +3058,7 @@
 - [pilcrowonpaper/oslo](https://github.com/pilcrowonpaper/oslo) - A collection of auth-related utilities
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
