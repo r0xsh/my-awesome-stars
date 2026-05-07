@@ -1884,7 +1884,7 @@
 
 ## dotfiles 
 
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [SnaxVim/SnaxVim](https://github.com/SnaxVim/SnaxVim) - A snackable Neovim setup
 - [gmr458/nvim](https://github.com/gmr458/nvim) - My Neovim config
 - [mvpopuk/dotfiles](https://github.com/mvpopuk/dotfiles) - My very personal `dotfiles`. Do not clone them down and use my setup as is. This is my baby. However, feel free to take out bits and pieces.
@@ -3907,7 +3907,7 @@
 
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -4202,7 +4202,7 @@
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 💾 Simple session management for Neovim with git branching, autoloading and Telescope support
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
 - [boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim) - Neovim config WITHOUT plugins
