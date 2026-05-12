@@ -467,7 +467,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
@@ -1201,7 +1201,7 @@
 
 ## computer-vision 
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -1243,7 +1243,7 @@
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor (POC)
@@ -1451,7 +1451,7 @@
 ## database 
 
 - [Edrusb/DAR](https://github.com/Edrusb/DAR) - DAR - Disk ARchive, a fully featured backup tool
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 Distributed log streaming engine built from first principles
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
@@ -1658,7 +1658,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
@@ -1764,7 +1764,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
@@ -4064,7 +4064,7 @@
 ## mongodb 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
@@ -4088,7 +4088,7 @@
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
@@ -4140,7 +4140,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [elixir-dbvisor/sql](https://github.com/elixir-dbvisor/sql) - SQL provides state-of-the-art, high-performance SQL integration for Elixir, built to handle extreme concurrency with unmatched expressiveness and ergonomic query composition. Write safe, composable, p
@@ -4304,7 +4304,7 @@
 ## nextjs 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
@@ -4805,7 +4805,7 @@
 - [gavv/rocd](https://github.com/gavv/rocd) - 
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [kiegroup/optaplanner](https://github.com/kiegroup/optaplanner) - Midstream of https://github.com/apache/incubator-kie-optaplanner
-- [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
+- [midrender/revideo](https://github.com/midrender/revideo) - Create Videos with Code
 - [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer. Check out https://nocode-js.com
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
@@ -5764,7 +5764,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [elixir-dbvisor/sql](https://github.com/elixir-dbvisor/sql) - SQL provides state-of-the-art, high-performance SQL integration for Elixir, built to handle extreme concurrency with unmatched expressiveness and ergonomic query composition. Write safe, composable, p
@@ -6008,7 +6008,7 @@
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - a load testing tool extended from locust
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
@@ -6408,7 +6408,7 @@
 
 ## robotics 
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -6534,7 +6534,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -7473,7 +7473,7 @@
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [elixir-webrtc/ex_webrtc](https://github.com/elixir-webrtc/ex_webrtc) - An Elixir implementation of the W3C WebRTC API
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-- [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists.
+- [clitic/vsd](https://github.com/clitic/vsd) - Download streams from DASH and HLS playlists.
 - [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
 - [amietn/vcsi](https://github.com/amietn/vcsi) - Create video contact sheets, thumbnails
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
@@ -7532,7 +7532,7 @@
 - [panel-extensions/panel-graphic-walker](https://github.com/panel-extensions/panel-graphic-walker) - A project providing a Graphic Walker Pane for use with HoloViz Panel.
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
