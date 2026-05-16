@@ -545,7 +545,6 @@
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-- [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 - [B00merang-Project/Solaris-8](https://github.com/B00merang-Project/Solaris-8) - A GTK theme based on the OPEN LOOK desktop bundled with Solaris 8
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [laCour/slack-night-mode](https://github.com/laCour/slack-night-mode) - A Stylus style for easy Slack theming
@@ -1631,6 +1630,7 @@
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
+- [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 - [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
 - [leandromoreira/nginx-lua-redis-rate-measuring](https://github.com/leandromoreira/nginx-lua-redis-rate-measuring) - A lua library to provide distributed rate measurement using nginx + redis, you can use it to do a throttling system within many nodes.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
@@ -2131,7 +2131,6 @@
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- [hydrargyrum/epistolaire](https://github.com/hydrargyrum/epistolaire) - SMS/MMS backup app (this is a mirror, main repository is https://gitlab.com/hydrargyrum/epistolaire)
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [alaskanpuffin/herodotus-core](https://github.com/alaskanpuffin/herodotus-core) - Content Archiving Software 📜
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
@@ -2474,7 +2473,7 @@
 - [kevin-lesenechal/elf-info](https://github.com/kevin-lesenechal/elf-info) - Inspect and dissect an ELF file with pretty formatting.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [fxdave/vonal-rust](https://github.com/fxdave/vonal-rust) - Modern customizable global menu with unlimiting plugin system written in Rust
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
