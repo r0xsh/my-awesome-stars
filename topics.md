@@ -4617,7 +4617,7 @@
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [clickhouse-elixir/clickhouse_ecto](https://github.com/clickhouse-elixir/clickhouse_ecto) - Ecto adapter for ClickHouse database
 - [livebook-dev/req_ch](https://github.com/livebook-dev/req_ch) - Conveniences for querying ClickHouse with Req
-- [plausible/ecto_ch](https://github.com/plausible/ecto_ch) - ClickHouse adapter for Ecto.
+- [plausible/ecto_ch](https://github.com/plausible/ecto_ch) - ClickHouse adapter for Ecto
 - [raffomania/ties](https://github.com/raffomania/ties) - 🪢Federated website aggregator
 - [treangenlab/bronko](https://github.com/treangenlab/bronko) - Ultra-rapid detection of viral variants directly from sequencing data
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
