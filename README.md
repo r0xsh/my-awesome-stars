@@ -769,7 +769,7 @@
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
-- [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [cursortab/cursortab.nvim](https://github.com/cursortab/cursortab.nvim) - Neovim edit completion plugin
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -3255,7 +3255,7 @@
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - The notes app that respects your privacy. Local-first. Open-source. No tracking.
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - The local-first, open source notes app built with privacy in mind
 - [multi-coop/datami](https://github.com/multi-coop/datami) - Datami's mirror repo (source on Gitlab)
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source Reddit client for Android using the public JSON feed
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
