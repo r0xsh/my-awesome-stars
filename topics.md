@@ -4246,7 +4246,7 @@
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
-- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - notion.so client for neovim
+- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - Mirror. Not actively maintained here.
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) - Heuristic buffer auto-close
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
