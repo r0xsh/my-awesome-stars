@@ -1676,7 +1676,7 @@
 
 ## MoonScript 
 
-- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - notion.so client for neovim
+- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - Mirror. Not actively maintained here.
 
 ## Nim 
 
