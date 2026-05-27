@@ -797,7 +797,7 @@
 - [DeepSourceCorp/globstar](https://github.com/DeepSourceCorp/globstar) - Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. Supporting Docker Compose, Docke
+- [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -875,7 +875,7 @@
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) - A neovim plugin for interfacing with the freedesktop dark mode standard
-- [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
+- [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers + display available VRAM
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
@@ -1189,7 +1189,6 @@
 
 ## Java 
 
-- [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [MaxToyberman/react-native-ssl-pinning](https://github.com/MaxToyberman/react-native-ssl-pinning) - React Native ssl pinning and cookies handling based on okhttp3 on (Android). and AFNetworking on (iOS)
 - [conveyal/r5](https://github.com/conveyal/r5) - Developed to power Conveyal's web-based interface for scenario planning and land-use/transport accessibility analysis, R5 is our routing engine for multimodal (transit/bike/walk/car) networks with a p
@@ -1304,7 +1303,7 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
-- [hw-a/insomnium](https://github.com/hw-a/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
+- [archived-aft-bogus-german-visa-rejectio/insomnium](https://github.com/archived-aft-bogus-german-visa-rejectio/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [orblivion/desert-atlas](https://github.com/orblivion/desert-atlas) - 
 - [pqvst/minimal-web-push](https://github.com/pqvst/minimal-web-push) - 
@@ -1504,6 +1503,7 @@
 
 ## Kotlin 
 
+- [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
 - [Nick-Abbott/Mosaic](https://github.com/Nick-Abbott/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -1734,7 +1734,6 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [heronarts/LXStudio](https://github.com/heronarts/LXStudio) - LXStudio Digital Lighting Workstation. END OF LIFECYCLE. See: https://github.com/heronarts/Chromatik
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
-- [tomscii/umon](https://github.com/tomscii/umon) - minimal host monitoring
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [maplibre/awesome-maplibre](https://github.com/maplibre/awesome-maplibre) - A collection of awesome things that use or support MapLibre!
 - [thatguy-za/esp32-cam-doorbell](https://github.com/thatguy-za/esp32-cam-doorbell) - 
