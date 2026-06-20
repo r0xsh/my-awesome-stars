@@ -3993,7 +3993,7 @@
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -4550,7 +4550,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -5964,7 +5964,7 @@
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
@@ -6289,7 +6289,7 @@
 - [a7ul/react-native-exception-handler](https://github.com/a7ul/react-native-exception-handler) - A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
@@ -6574,7 +6574,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [rust-mobile/ndk](https://github.com/rust-mobile/ndk) - Rust bindings to the Android NDK
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [extphprs/ext-php-rs](https://github.com/extphprs/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
