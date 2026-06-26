@@ -358,7 +358,7 @@
 - [Intuned/selector-forge](https://github.com/Intuned/selector-forge) - Browser extension to create reliable selectors (CSS and Xpath) using AI
 - [coder/boo](https://github.com/coder/boo) - A GNU screen style terminal multiplexer built on libghostty.
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode to stay in your familiar flow.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -1003,6 +1003,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [karlis-vagalis/doxxer](https://github.com/karlis-vagalis/doxxer) - CLI tool for dynamic SemVer versioning using Git and tags
@@ -1673,6 +1674,7 @@
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [phasehq/console](https://github.com/phasehq/console) - Application secrets and configuration management for developers.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
@@ -2534,12 +2536,13 @@
 ## golang 
 
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [Tsuzat/Nota](https://github.com/Tsuzat/Nota) - A Fast, Modern, Feature Rich and Lightweight Note taking desktop application made with native AI integration
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -2760,7 +2763,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -3675,6 +3678,7 @@
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [mikhail-m1/illuminanced](https://github.com/mikhail-m1/illuminanced) - Ambient Light Sensor Daemon for Linux
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -3881,7 +3885,7 @@
 
 ## machine-learning 
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [Gr122lyBr/voicetag](https://github.com/Gr122lyBr/voicetag) - Speaker identification powered by pyannote and resemblyzer
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [GRAAL-Research/deepparse](https://github.com/GRAAL-Research/deepparse) - Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning
@@ -3930,6 +3934,7 @@
 
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
@@ -4245,7 +4250,7 @@
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) - Annotation generation framework with support for most languages and annotation styles⌨️✨
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [gmr458/nvim](https://github.com/gmr458/nvim) - My Neovim config
 - [gmr458/cold.nvim](https://github.com/gmr458/cold.nvim) - neovim colorscheme
 - [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) - The minimalist to-do list for Neovim
@@ -4643,7 +4648,7 @@
 - [SoPat712/allstarr](https://github.com/SoPat712/allstarr) - An API proxy server that focuses on integrating external music sources alongside Jellyfin
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
-- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
+- [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
 - [clickhouse-elixir/clickhouse_ecto](https://github.com/clickhouse-elixir/clickhouse_ecto) - Ecto adapter for ClickHouse database
 - [livebook-dev/req_ch](https://github.com/livebook-dev/req_ch) - Conveniences for querying ClickHouse with Req
 - [plausible/ecto_ch](https://github.com/plausible/ecto_ch) - ClickHouse adapter for Ecto
@@ -4651,7 +4656,7 @@
 - [treangenlab/bronko](https://github.com/treangenlab/bronko) - Ultra-rapid detection of viral variants directly from sequencing data
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [cursortab/cursortab.nvim](https://github.com/cursortab/cursortab.nvim) - Neovim edit completion plugin
-- [mem-red/decal](https://github.com/mem-red/decal) - Declarative DSL for describing scenes and rendering them to SVG or PNG
+- [zignis/decal](https://github.com/zignis/decal) - Declarative DSL for describing scenes and rendering them to SVG or PNG
 - [cipher-iso/Waybar-Autohide](https://github.com/cipher-iso/Waybar-Autohide) - Auto-Hide Waybar with a Simple Bash Script!
 - [haron/news.sh](https://github.com/haron/news.sh) - Hackable personal news reader in Bash
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
@@ -4667,7 +4672,6 @@
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [rio/dotfiles](https://github.com/rio/dotfiles) - 
 - [trip-zip/somewm](https://github.com/trip-zip/somewm) - Not quite awesome...just some.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [kolemannix/nvim](https://github.com/kolemannix/nvim) - 
 - [steviebez/Nvim-Config-Guide](https://github.com/steviebez/Nvim-Config-Guide) - Modular Neovim configuration reference detailing structure, plugin lazy-loading strategies, keymap definitions, and custom Autocommands (hooks). Note: Generated by Claude
 - [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects.
@@ -4740,7 +4744,7 @@
 - [nadavmatalon/TinyWireS](https://github.com/nadavmatalon/TinyWireS) - ATtiny I2C Slave Library
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) - RFC browser for nvim written in Lua
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Event tracking, threat detection, and risk scoring for any application.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Event tracking, threat detection, and risk scoring for any product.
 - [yoavsbg/css-flexbox-playground](https://github.com/yoavsbg/css-flexbox-playground) - CSS Flexbox Playground - Experiment with different flex properties to understand how they affect layout. Adjust the controls below to see changes in real-time and copy the generated CSS code.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
@@ -6840,7 +6844,7 @@
 ## self-hosted 
 
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [plutonhq/pluton](https://github.com/plutonhq/pluton) - A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -7209,7 +7213,7 @@
 
 ## tensorflow 
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble's Private Detector - a pretrained model for detecting lewd images
@@ -7331,6 +7335,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
@@ -7749,6 +7754,7 @@
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [darusc/VCamdroid](https://github.com/darusc/VCamdroid) - Use your android phone as windows virtual webcam
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
