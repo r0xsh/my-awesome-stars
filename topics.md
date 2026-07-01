@@ -5234,7 +5234,6 @@
 - [siegerts/hugo-theme-basic](https://github.com/siegerts/hugo-theme-basic) - Basic site theme styled with minimal tachyons, syntax highlighting, and blog series configuration. 📦
 - [geohot/solidity](https://github.com/geohot/solidity) - 
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [NMan1/RainbowSix_KernelDriver](https://github.com/NMan1/RainbowSix_KernelDriver) - Features a kernel driver - fully functional login loader with a MySQL database - HWID checker - licensing system - r6 cheat features - menu
 - [btbd/umap](https://github.com/btbd/umap) - UEFI bootkit for driver manual mapping
 - [frameable/aviary.sh](https://github.com/frameable/aviary.sh) - Minimal distributed configuration management in bash
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
@@ -7286,7 +7285,7 @@
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
