@@ -903,7 +903,7 @@
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
-- [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
+- [yann-shi/libcsp](https://github.com/yann-shi/libcsp) - A concurrency C library 10x faster than Golang.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [mkirchner/gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
@@ -2609,7 +2609,7 @@
 - [dennis-tra/image-stego](https://github.com/dennis-tra/image-stego) - 🏞 Steganography-based image integrity - Merkle tree nodes embedded into image chunks so that each chunk's integrity can be verified on its own.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
+- [yann-shi/libcsp](https://github.com/yann-shi/libcsp) - A concurrency C library 10x faster than Golang.
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
