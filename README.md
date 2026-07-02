@@ -209,7 +209,7 @@
 - [kubo/funchook](https://github.com/kubo/funchook) - Hook function calls by inserting jump instructions at runtime
 - [tandasat/MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg) - The research UEFI hypervisor that supports booting an operating system.
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
-- [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
+- [yann-shi/libcsp](https://github.com/yann-shi/libcsp) - A concurrency C library 10x faster than Golang.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [Jonazan2/PatBoy](https://github.com/Jonazan2/PatBoy) - Game Boy emulator written in C++ with SDL2, includes visual debugger.
 - [ThomasRinsma/dromaius](https://github.com/ThomasRinsma/dromaius) - A C++ GameBoy emulator
