@@ -322,6 +322,7 @@
 
 ## C++ 
 
+- [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) - Command line tool for working with OpenStreetMap data based on the Osmium library.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
@@ -757,7 +758,6 @@
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly.
 - [Sambigeara/pollen](https://github.com/Sambigeara/pollen) - Distributed WASM runtime. Workloads place themselves over a zero-trust mesh. One static binary.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [ozemin/lazycut](https://github.com/ozemin/lazycut) - A simple terminal UI for video trimming
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
@@ -969,7 +969,7 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [portworx/torpedo](https://github.com/portworx/torpedo) - A test suite to qualify storage providers for stateful containers running in a cluster.
@@ -2921,6 +2921,7 @@
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [paddinglabs/margin](https://github.com/paddinglabs/margin) - Margin's Monorepo, available under AGPLv3
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [plutonhq/pluton](https://github.com/plutonhq/pluton) - A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
