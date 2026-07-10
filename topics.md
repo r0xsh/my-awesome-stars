@@ -311,6 +311,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -4847,7 +4848,6 @@
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [kiegroup/optaplanner](https://github.com/kiegroup/optaplanner) - Midstream of https://github.com/apache/incubator-kie-optaplanner
 - [midrender/revideo](https://github.com/midrender/revideo) - Create Videos with Code
-- [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer. Check out https://nocode-js.com
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
@@ -7826,6 +7826,24 @@
 - [luangjokaj/wordpressify](https://github.com/luangjokaj/wordpressify) - 🎈 Automate your WordPress development workflow.
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
+
+## workflow 
+
+- [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
+- [nocode-js/sequential-workflow-editor](https://github.com/nocode-js/sequential-workflow-editor) - Powerful workflow editor builder for any workflow designer. Check out https://nocode-js.com
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
+- [susam/gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
+- [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [luangjokaj/wordpressify](https://github.com/luangjokaj/wordpressify) - 🎈 Automate your WordPress development workflow.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 
 ## xamarin 
 
