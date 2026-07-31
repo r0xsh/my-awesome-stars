@@ -885,7 +885,6 @@
 
 ## c 
 
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -1187,7 +1186,7 @@
 ## compiler 
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
+- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
@@ -2454,6 +2453,7 @@
 
 ## go 
 
+- [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - A tiny self-hosted metrics dashboard for small servers. Spring Boot Actuator monitoring with SQLite, simple charts, and no Prometheus/Grafana stack required.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
 - [paddinglabs/margin](https://github.com/paddinglabs/margin) - Margin's Monorepo, available under AGPLv3
@@ -3611,6 +3611,7 @@
 
 ## language 
 
+- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [quint-co/quint](https://github.com/quint-co/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
@@ -4138,6 +4139,7 @@
 
 ## monitoring 
 
+- [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - A tiny self-hosted metrics dashboard for small servers. Spring Boot Actuator monitoring with SQLite, simple charts, and no Prometheus/Grafana stack required.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [crocofied/CoreObs](https://github.com/crocofied/CoreObs) - Dashboard to manage your entire server infrastructure
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -4566,7 +4568,6 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Tsuzat/Nota](https://github.com/Tsuzat/Nota) - A Fast, Modern, Feature Rich and Lightweight Note taking desktop application made with native AI integration
@@ -5979,7 +5980,7 @@
 ## programming-language 
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - A compiled actor-based programming language with type inference, designed for concurrent systems.
+- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [jolie/jolie](https://github.com/jolie/jolie) - The Jolie programming language
@@ -6892,6 +6893,7 @@
 
 ## self-hosted 
 
+- [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - A tiny self-hosted metrics dashboard for small servers. Spring Boot Actuator monitoring with SQLite, simple charts, and no Prometheus/Grafana stack required.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
@@ -7043,6 +7045,7 @@
 
 ## spring-boot 
 
+- [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - A tiny self-hosted metrics dashboard for small servers. Spring Boot Actuator monitoring with SQLite, simple charts, and no Prometheus/Grafana stack required.
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 
 ## springboot 
@@ -7116,6 +7119,7 @@
 
 ## sqlite 
 
+- [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - A tiny self-hosted metrics dashboard for small servers. Spring Boot Actuator monitoring with SQLite, simple charts, and no Prometheus/Grafana stack required.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
