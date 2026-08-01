@@ -114,7 +114,7 @@
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [ice/framework](https://github.com/ice/framework) - Source code of Ice framework
 - [narqo/freebsd-brcmfmac](https://github.com/narqo/freebsd-brcmfmac) - FreeBSD native WiFi driver for BCM4350 (MBP 2016), BCM43455 (RPi4) — in progress
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
+- [aether-lang-dev/aether](https://github.com/aether-lang-dev/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [datavorous/sameshi](https://github.com/datavorous/sameshi) - a ~1200 Elo chess engine that fits within 2KB
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL
