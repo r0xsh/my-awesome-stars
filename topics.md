@@ -1186,7 +1186,7 @@
 ## compiler 
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
+- [aether-lang-dev/aether](https://github.com/aether-lang-dev/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
@@ -3611,7 +3611,7 @@
 
 ## language 
 
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
+- [aether-lang-dev/aether](https://github.com/aether-lang-dev/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [quint-co/quint](https://github.com/quint-co/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
@@ -5980,7 +5980,7 @@
 ## programming-language 
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [aether-lang-org/aether](https://github.com/aether-lang-org/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
+- [aether-lang-dev/aether](https://github.com/aether-lang-dev/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [jolie/jolie](https://github.com/jolie/jolie) - The Jolie programming language
