@@ -1905,7 +1905,7 @@
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
 - [opis/json-schema](https://github.com/opis/json-schema) - JSON Schema validator for PHP
 - [flix-tech/schema-registry-php-client](https://github.com/flix-tech/schema-registry-php-client) - A PHP 8+ API client for the Confluent Schema Registry REST API based on Guzzle 7 - http://docs.confluent.io/current/schema-registry/docs/index.html
-- [Kevinrob/guzzle-cache-middleware](https://github.com/Kevinrob/guzzle-cache-middleware) - A HTTP Cache for Guzzle 6. It's a simple Middleware to be added in the HandlerStack.
+- [Kevinrob/guzzle-cache-middleware](https://github.com/Kevinrob/guzzle-cache-middleware) - A HTTP Cache for Guzzle. It's a simple Middleware to be added in the HandlerStack.
 - [recoilphp/recoil](https://github.com/recoilphp/recoil) - Asynchronous coroutines for PHP 7.
 - [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) - The easiest way to get started with event sourcing in Laravel
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
