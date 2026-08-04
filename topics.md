@@ -386,7 +386,7 @@
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
-- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
@@ -2126,7 +2126,7 @@
 - [Noskcaj19/hardware-kvm](https://github.com/Noskcaj19/hardware-kvm) - "Software" KVM that requires no client software
 - [HeyWillow/willow](https://github.com/HeyWillow/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [toitlang/toit](https://github.com/toitlang/toit) - Program your microcontrollers in a fast and robust high-level language.
-- [lvgl/lv_port_esp32](https://github.com/lvgl/lv_port_esp32) - LVGL ported to ESP32 including various display and touchpad drivers
+- [lvgl/lv_esp_idf](https://github.com/lvgl/lv_esp_idf) - LVGL ported to ESP32 including various display and touchpad drivers
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -5012,7 +5012,7 @@
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit web search engine
 - [xr0-org/xr0](https://github.com/xr0-org/xr0) - The Xr0 Verifier for C
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
-- [ARPSyndicate/puncia](https://github.com/ARPSyndicate/puncia) - Panthera(P.)uncia - Official CLI utility for Osprey Vision, Subdomain Center & Exploit Observer.
+- [ARPSyndicate/puncia](https://github.com/ARPSyndicate/puncia) - Panthera(P.)uncia - Official CLI utility for Subdomain Center & Exploit Observer.
 - [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 - [maplibre/maplibre-plugins-android](https://github.com/maplibre/maplibre-plugins-android) - MapLibre Native for Android Plugins
 - [maplibre/maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
@@ -7538,7 +7538,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [pierreericgarcia/react-step-progress-bar](https://github.com/pierreericgarcia/react-step-progress-bar) - A library to create stunning progress bars with steps in React 🌡
-- [lvgl/lv_port_esp32](https://github.com/lvgl/lv_port_esp32) - LVGL ported to ESP32 including various display and touchpad drivers
+- [lvgl/lv_esp_idf](https://github.com/lvgl/lv_esp_idf) - LVGL ported to ESP32 including various display and touchpad drivers
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [creativetimofficial/now-ui-dashboard](https://github.com/creativetimofficial/now-ui-dashboard) - Now UI Dashboard - Open Source Admin Template
