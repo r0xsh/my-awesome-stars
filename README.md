@@ -139,7 +139,7 @@
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [pubfnmain/ergo](https://github.com/pubfnmain/ergo) - A minimal status bar for Wayland compositors
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C) - A pomodoro timer written in pure C.
+- [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C) - A pomodoro TUI written in pure C.
 - [branc116/brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [eclipse-bluechi/bluechi](https://github.com/eclipse-bluechi/bluechi) - Eclipse BlueChi is a systemd service controller intended for multi-node environments with a predefined number of nodes and with a focus on highly regulated ecosystems such as those requiring functiona
