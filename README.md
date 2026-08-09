@@ -1756,7 +1756,6 @@
 - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 - [mateussouzaweb/kvm-qemu-virtualization-guide](https://github.com/mateussouzaweb/kvm-qemu-virtualization-guide) - Guide to run Virtual Machines with KVM and QEMU
 - [PhilipK/articles](https://github.com/PhilipK/articles) - A collection of my articles and blog posts
-- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [unprovable/PentestHardware](https://github.com/unprovable/PentestHardware) - Kinda useful notes collated together publicly
 - [kbickham/iLife_Robotic_Vaccum_v3s_Reverse_Engineer](https://github.com/kbickham/iLife_Robotic_Vaccum_v3s_Reverse_Engineer) - Project to reverse engineer the iLife v3s robotic vaccum. Trying to rewrite the firmware and use as a robotic platform and add a robotic arm.
@@ -2342,7 +2341,7 @@
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [remails-com/remails](https://github.com/remails-com/remails) - Transactional email for developers — Built in Europe 🇪🇺 🦀
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
-- [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
+- [getArbor-dev/arbor](https://github.com/getArbor-dev/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [mikhail-m1/illuminanced](https://github.com/mikhail-m1/illuminanced) - Ambient Light Sensor Daemon for Linux
@@ -2830,6 +2829,7 @@
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) - Single GPU VFIO Passthrough Guide
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [CrispyConductor/environment-crisp](https://github.com/CrispyConductor/environment-crisp) - Personal environment setup files and dotfiles
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [SteamTracking/Protobufs](https://github.com/SteamTracking/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, Deadlock, TF2 protobufs.
 - [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - ⚙️ My homelab and smart-home server built with Proxmox, Ubuntu, Docker
@@ -2907,7 +2907,6 @@
 - [Tsuzat/Nota](https://github.com/Tsuzat/Nota) - A Fast, Modern, Feature Rich and Lightweight Note taking desktop application made with native AI integration
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
@@ -3034,6 +3033,7 @@
 - [prokosna/sola_mpd](https://github.com/prokosna/sola_mpd) - MPD client
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
