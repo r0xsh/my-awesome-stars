@@ -1662,7 +1662,7 @@
 ## developer-tools 
 
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
-- [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
+- [getArbor-dev/arbor](https://github.com/getArbor-dev/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -2223,7 +2223,7 @@
 ## flutter 
 
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
-- [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
+- [getArbor-dev/arbor](https://github.com/getArbor-dev/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is an innovative not-desktop environment for Linux made with modern technologies like Flutter and Rust.
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - A JavaScript rendering engine inspired by Flutter. Build any visualization — charts, diagrams, editors — with composable widgets and Canvas/SVG.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
@@ -4091,7 +4091,7 @@
 
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
-- [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
+- [getArbor-dev/arbor](https://github.com/getArbor-dev/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [dilolabs/nosia](https://github.com/dilolabs/nosia) - Self-hosted AI RAG + MCP Platform
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -6537,7 +6537,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [remails-com/remails](https://github.com/remails-com/remails) - Transactional email for developers — Built in Europe 🇪🇺 🦀
-- [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
+- [getArbor-dev/arbor](https://github.com/getArbor-dev/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [mikhail-m1/illuminanced](https://github.com/mikhail-m1/illuminanced) - Ambient Light Sensor Daemon for Linux
@@ -7642,7 +7642,7 @@
 
 ## visualization 
 
-- [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
+- [getArbor-dev/arbor](https://github.com/getArbor-dev/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [panel-extensions/panel-graphic-walker](https://github.com/panel-extensions/panel-graphic-walker) - A project providing a Graphic Walker Pane for use with HoloViz Panel.
