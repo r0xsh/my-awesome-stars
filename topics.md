@@ -2056,7 +2056,7 @@
 - [doorgan/channel_handler](https://github.com/doorgan/channel_handler) - A declarative DSL to work with Phoenix Channels
 - [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
-- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir
+- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir 🪎
 - [pow-auth/assent](https://github.com/pow-auth/assent) - Multi-provider framework in Elixir
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [peek-travel/cocktail](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events
@@ -5396,7 +5396,7 @@
 - [knative/eventing-operator](https://github.com/knative/eventing-operator) - DEPRECATED: Development continues in https://github.com/knative/operator/
 - [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) - Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`
 - [cloudflare/cfnts](https://github.com/cloudflare/cfnts) - Cloudflare's implementation of the NTS protocol written in Rust
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [samyk/crak](https://github.com/samyk/crak) - Crash Royale Attack Kit
 - [asc-lab/java-cqrs-intro](https://github.com/asc-lab/java-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach
@@ -7371,7 +7371,7 @@
 - [Intuned/selector-forge](https://github.com/Intuned/selector-forge) - Browser extension to create reliable selectors (CSS and Xpath) using AI
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
-- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir
+- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir 🪎
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
