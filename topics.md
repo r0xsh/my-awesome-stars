@@ -228,6 +228,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -353,6 +354,7 @@
 
 ## agents 
 
+- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi-agent harness
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
@@ -1025,6 +1027,7 @@
 
 ## claude-code 
 
+- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi-agent harness
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 
@@ -4684,6 +4687,7 @@
 
 ## others 
 
+- [omarfakih1/zcomplete](https://github.com/omarfakih1/zcomplete) - Mistype a command and zcomplete runs the one you meant, worked out from the commands you usually run. zsh, bash and fish.
 - [bucanero/apollo-psp](https://github.com/bucanero/apollo-psp) - Apollo Save Tool (PSP)
 - [PSP-Arkfive/ARK-5](https://github.com/PSP-Arkfive/ARK-5) - Next Generation Custom Firmware for PSP and Vita's ePSP
 - [abrensch/brouter](https://github.com/abrensch/brouter) - configurable OSM offline router with elevation awareness, Java + Android
@@ -5859,6 +5863,11 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [kraken-php/framework](https://github.com/kraken-php/framework) - Asynchronous & Fault-tolerant PHP Framework for Distributed Applications.
+
+## portfolio 
+
+- [aashvikt/aashvikt.github.io](https://github.com/aashvikt/aashvikt.github.io) - my website
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 
 ## postgresql 
 
