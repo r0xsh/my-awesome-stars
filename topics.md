@@ -4724,7 +4724,7 @@
 - [Psy-Fer/kuva](https://github.com/Psy-Fer/kuva) - A scientific plotting library in Rust
 - [KumoCorp/kumomta](https://github.com/KumoCorp/kumomta) - The first Open-Source  high-performance MTA developed from the ground-up for high-volume email sending environments.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
-- [guiodic/material-decoration](https://github.com/guiodic/material-decoration) - Material-ish window decoration theme for KWin, with Locally Integrated Menu and Menu Search, based on zzag's original design. LIM introduction by Zzag. Ported to QT6 by nicman23, maintained and improv
+- [guiodic/material-decoration](https://github.com/guiodic/material-decoration) - Material-ish window decoration theme for KWin, with Locally Integrated Menu and Menu Search, based on zzag's original design. LIM introduction by Zren. Ported to QT6 by nicman23, maintained and improv
 - [narqo/freebsd-brcmfmac](https://github.com/narqo/freebsd-brcmfmac) - FreeBSD native WiFi driver for BCM4350 (MBP 2016), BCM43455 (RPi4) — in progress
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [datavorous/sameshi](https://github.com/datavorous/sameshi) - a ~1200 Elo chess engine that fits within 2KB
