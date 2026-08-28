@@ -65,7 +65,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
-- [ReScript](#rescript)
 - [Reason](#reason)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -613,6 +612,7 @@
 
 ## Elixir 
 
+- [BeamLabEU/phoenix_kit](https://github.com/BeamLabEU/phoenix_kit) - PhoenixKit - The Elixir Phoenix Boilerplate Starter Kit for writing your SaaS, social networks, ERP systems, marketplaces, internal tools, AI-powered apps, community platforms, and more.
 - [Yyeger/Continuum](https://github.com/Yyeger/Continuum) - OTP-native durable execution engine for Elixir.
 - [elixir-volt/volt](https://github.com/elixir-volt/volt) - Elixir-native frontend build tool — dev server, HMR, and production builds for JavaScript, TypeScript, Vue SFCs, and CSS. No Node.js required.
 - [clickhouse-elixir/clickhouse_ecto](https://github.com/clickhouse-elixir/clickhouse_ecto) - Ecto adapter for ClickHouse database
@@ -1288,7 +1288,6 @@
 - [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension) - firefox extension to get instant dictionary definitions and translations for any text on any website
 - [ertdfgcvb/play.core](https://github.com/ertdfgcvb/play.core) - ASCII Playground
 - [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is a CDP-based runtime instrumentation platform for the browser. Think Frida, but for JavaScript running in Chrome — without monkeypatching.
-- [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully customizable and scalable delivery management system that supports multiple business models and service verticals. It allows you to launch and manage your own ordering and logistics
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Erlang interpreter for Node-RED (visual flow based programming) with Elixir support
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) - Online webgl photo editor with effects, filters and cropping
@@ -1703,6 +1702,7 @@
 
 ## OCaml 
 
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
@@ -2289,10 +2289,6 @@
 ## R 
 
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
-
-## ReScript 
-
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Reason 
 
@@ -2970,6 +2966,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
+- [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully customizable and scalable delivery management system that supports multiple business models and service verticals. It allows you to launch and manage your own ordering and logistics
 - [Expensify/react-native-wallet](https://github.com/Expensify/react-native-wallet) - 
 - [toss/granite](https://github.com/toss/granite) - Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
