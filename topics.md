@@ -2021,6 +2021,7 @@
 
 ## elixir 
 
+- [BeamLabEU/phoenix_kit](https://github.com/BeamLabEU/phoenix_kit) - PhoenixKit - The Elixir Phoenix Boilerplate Starter Kit for writing your SaaS, social networks, ERP systems, marketplaces, internal tools, AI-powered apps, community platforms, and more.
 - [elixir-volt/volt](https://github.com/elixir-volt/volt) - Elixir-native frontend build tool — dev server, HMR, and production builds for JavaScript, TypeScript, Vue SFCs, and CSS. No Node.js required.
 - [balance-platform/pillar](https://github.com/balance-platform/pillar) - Elixir library client for work with ClickHouse
 - [elixir-tools/elixir-tools.nvim](https://github.com/elixir-tools/elixir-tools.nvim) - Neovim plugin for Elixir
@@ -3865,6 +3866,7 @@
 
 ## llm 
 
+- [ctrlb-hq/ctrlb-decompose](https://github.com/ctrlb-hq/ctrlb-decompose) - LLM-ready reasoning surface over logs
 - [dilolabs/nosia](https://github.com/dilolabs/nosia) - Self-hosted AI RAG + MCP Platform
 - [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - OpenMemory Chrome Extension: Long-term memory for ChatGPT, Claude, Perplexity, Grok etc
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
@@ -4174,6 +4176,7 @@
 ## monitoring 
 
 - [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - A tiny self-hosted metrics dashboard for small servers. Spring Boot Actuator monitoring with SQLite, simple charts, and no Prometheus/Grafana stack required.
+- [ctrlb-hq/ctrlb-decompose](https://github.com/ctrlb-hq/ctrlb-decompose) - LLM-ready reasoning surface over logs
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [crocofied/CoreObs](https://github.com/crocofied/CoreObs) - Dashboard to manage your entire server infrastructure
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -4616,7 +4619,7 @@
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source notes that live where you choose: your device, your server, or ours.
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source, local-first workspace for notes, projects, and meetings. Your data stays yours.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [avo-hq/avo](https://github.com/avo-hq/avo) - The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -4697,7 +4700,6 @@
 - [PSP-Arkfive/ARK-5](https://github.com/PSP-Arkfive/ARK-5) - Next Generation Custom Firmware for PSP and Vita's ePSP
 - [abrensch/brouter](https://github.com/abrensch/brouter) - configurable OSM offline router with elevation awareness, Java + Android
 - [franktisellano/datatype](https://github.com/franktisellano/datatype) - Datatype is a variable font that turns text into charts.
-- [ctrlb-hq/ctrlb-decompose](https://github.com/ctrlb-hq/ctrlb-decompose) - LLM-ready reasoning surface over logs
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [Yyeger/Continuum](https://github.com/Yyeger/Continuum) - OTP-native durable execution engine for Elixir.
 - [AARomanov1985/Audio-Cassette-Simulation](https://github.com/AARomanov1985/Audio-Cassette-Simulation) - This project simulates cassette tape audio profiles using ffmpeg
@@ -5961,7 +5963,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source notes that live where you choose: your device, your server, or ours.
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source, local-first workspace for notes, projects, and meetings. Your data stays yours.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -7617,7 +7619,7 @@
 - [elixir-webrtc/ex_webrtc](https://github.com/elixir-webrtc/ex_webrtc) - An Elixir implementation of the W3C WebRTC API
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [clitic/vsd](https://github.com/clitic/vsd) - A command-line utility and library for downloading streams from DASH .mpd manifests and HLS .m3u8 playlists.
-- [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
+- [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into stunning visuals.
 - [amietn/vcsi](https://github.com/amietn/vcsi) - Create video contact sheets, thumbnails
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
