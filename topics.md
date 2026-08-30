@@ -1923,7 +1923,6 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [markhilton/larakube](https://github.com/markhilton/larakube) - Laravel app deployment for auto scaled Kubernetes cluster
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [hardware/mailserver](https://github.com/hardware/mailserver) - :warning: UNMAINTAINED - Simple and full-featured mail server using Docker
 - [mozilla/treeherder](https://github.com/mozilla/treeherder) - A system for managing CI data for Mozilla projects
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
@@ -3623,7 +3622,6 @@
 - [cookeem/kubeadm-ha](https://github.com/cookeem/kubeadm-ha) - 通过kubeadm安装kubernetes高可用集群，使用docker/containerd容器运行时，适用v1.24.x以上版本
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [luxas/kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [voyagermesh/voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure L7/L4 (HAProxy) Ingress Controller for Kubernetes
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
@@ -5658,6 +5656,7 @@
 - [3d0c/gmf](https://github.com/3d0c/gmf) - Go Media Framework
 - [Shougo/echodoc.vim](https://github.com/Shougo/echodoc.vim) - Print documents in echo area.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
