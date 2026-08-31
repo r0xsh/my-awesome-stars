@@ -109,6 +109,7 @@
 
 ## C 
 
+- [pspdev/psp-cfw-sdk](https://github.com/pspdev/psp-cfw-sdk) - 
 - [uofw/uofw](https://github.com/uofw/uofw) - The unofficial Official FirmWare, a complete latest PSP firmware reverse engineering project
 - [pspdev/pspsdk](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development.
 - [bucanero/apollo-psp](https://github.com/bucanero/apollo-psp) - Apollo Save Tool (PSP)
@@ -1197,6 +1198,7 @@
 
 ## Java 
 
+- [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name "Reitti" comes from Finnish, meaning "ro
 - [abrensch/brouter](https://github.com/abrensch/brouter) - configurable OSM offline router with elevation awareness, Java + Android
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [MaxToyberman/react-native-ssl-pinning](https://github.com/MaxToyberman/react-native-ssl-pinning) - React Native ssl pinning and cookies handling based on okhttp3 on (Android). and AFNetworking on (iOS)
