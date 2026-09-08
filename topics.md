@@ -335,6 +335,7 @@
 
 ## agent 
 
+- [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
@@ -1039,6 +1040,7 @@
 
 ## cli 
 
+- [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -1673,6 +1675,7 @@
 
 ## developer-tools 
 
+- [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [getArbor-dev/arbor](https://github.com/getArbor-dev/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -1862,7 +1865,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -2273,6 +2276,7 @@
 
 ## framework 
 
+- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [ice/framework](https://github.com/ice/framework) - Source code of Ice framework
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [Nick-Abbott/Mosaic](https://github.com/Nick-Abbott/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
@@ -3313,7 +3317,6 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [pixel-point/fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [puffinsoft/jscanify](https://github.com/puffinsoft/jscanify) - The Javascript document scanning library.
 - [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images/animations
@@ -4112,6 +4115,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [dilolabs/nosia](https://github.com/dilolabs/nosia) - Self-hosted AI RAG + MCP Platform
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [markuman/sms](https://github.com/markuman/sms) - simple mbtiles server
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) - lunar.dev: Agent native MCP Gateway for governance and security
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -4485,6 +4489,8 @@
 
 ## nodejs 
 
+- [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
+- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
@@ -4498,7 +4504,6 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [puffinsoft/jscanify](https://github.com/puffinsoft/jscanify) - The Javascript document scanning library.
 - [totaljs/flow](https://github.com/totaljs/flow) - Visual Programming Interface
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
@@ -4898,7 +4903,6 @@
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [membraneframework/ex_m3u8](https://github.com/membraneframework/ex_m3u8) - Elixir package for serializing and deserializing M3U8 manifests.
 - [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public) - Document, sample code and other materials for SQLFlow
-- [markuman/sms](https://github.com/markuman/sms) - simple mbtiles server
 - [evanrolfe/trayce_gui](https://github.com/evanrolfe/trayce_gui) - 
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [evanrolfe/trayce_agent](https://github.com/evanrolfe/trayce_agent) - 
@@ -6052,7 +6056,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
 ## prompt-engineering 
@@ -6377,7 +6381,6 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [voximplant/react-native-foreground-service](https://github.com/voximplant/react-native-foreground-service) - React native module to start foreground service on android
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -6979,7 +6982,7 @@
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
@@ -7468,6 +7471,7 @@
 
 ## typescript 
 
+- [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [elixir-volt/astral](https://github.com/elixir-volt/astral) - Volt-powered static site generator for Elixir applications.
 - [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
