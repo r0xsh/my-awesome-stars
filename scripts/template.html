@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Star Atlas · r0xsh</title>
+<style>
+  :root { --bg:#ffffff; --card:#ffffff; --border:#000000; --fg:#000000; --muted:#333333; --accent:#0000cc; }
+  * { box-sizing:border-box; border-radius:0 !important; }
+  body { margin:0; font-family:Helvetica,Arial,sans-serif; background:var(--bg); color:var(--fg); }
+  header { position:sticky; top:0; z-index:10; background:var(--bg); border-bottom:2px solid var(--border); padding:14px 20px; }
+  header h1 { margin:0 0 10px; font-size:1.3rem; }
+  header h1 small { color:var(--muted); font-weight:normal; }
+  .controls { display:flex; flex-wrap:wrap; gap:10px; align-items:center; }
+  .controls input[type=search], .controls select, .controls button { background:var(--bg); color:var(--fg); border:1px solid var(--border); padding:8px 10px; font-size:.9rem; }
+  .controls button { cursor:pointer; }
+  .controls button:hover { background:var(--fg); color:var(--bg); }
+  .controls input[type=search] { flex:1 1 220px; }
+  #count { color:var(--muted); font-size:.85rem; margin-left:auto; }
+  #tagCloud { display:flex; flex-wrap:wrap; gap:6px; padding:10px 20px 0; }
+  #tagCloud button { background:var(--bg); border:1px solid var(--border); color:var(--fg); padding:3px 10px; font-size:.75rem; cursor:pointer; }
+  #tagCloud button.active { background:var(--fg); border-color:var(--fg); color:var(--bg); }
+  main { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:16px; padding:20px; }
+  .card { background:var(--card); border:1px solid var(--border); overflow:hidden; display:flex; flex-direction:column; }
+  .card a.imglink { display:block; position:relative; aspect-ratio:1200/630; border-bottom:1px solid var(--border); background:var(--bg); text-decoration:none; overflow:hidden; }
+  .card .imgph { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; padding:8px; font-size:.8rem; font-weight:700; color:var(--fg); text-align:center; word-break:break-all; }
+  .card img.og { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block; background:var(--bg); opacity:0; }
+  .card img.og.loaded { opacity:1; }
+  .card .body { padding:12px 14px 14px; display:flex; flex-direction:column; gap:6px; flex:1; }
+  .card .owner { margin:0; font-size:.72rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); }
+  .card h2 { margin:0; font-size:1.15rem; line-height:1.25; }
+  .card h2 a { color:var(--fg); text-decoration:none; }
+  .card h2 a:hover { text-decoration:underline; }
+  .card p.desc { margin:2px 0 6px; color:var(--muted); font-size:.85rem; flex:1; }
+  .card hr.sep { border:0; border-top:1px solid var(--border); margin:2px 0 0; }
+  .meta { display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:.75rem; color:var(--muted); }
+  .meta > span { display:inline-flex; align-items:center; line-height:1; }
+  .meta .pill { border:1px solid var(--border); padding:5px 8px 4px; }
+  .meta .lang { color:var(--bg); background:var(--fg); border-color:var(--fg); font-weight:700; }
+  .meta .right { margin-left:auto; }
+  .tags { display:flex; flex-wrap:wrap; gap:4px; }
+  .tags span { display:inline-flex; align-items:center; line-height:1; background:var(--bg); border:1px solid var(--border); padding:4px 6px 3px; font-size:.72rem; color:var(--fg); cursor:pointer; }
+  .tags span:hover { background:var(--fg); color:var(--bg); }
+  .empty { grid-column:1/-1; text-align:center; color:var(--muted); padding:60px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Star Atlas <small>curated GitHub stars by r0xsh</small> <small id="total"></small></h1>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Filter by name or description…">
+    <select id="lang"><option value="">All languages</option></select>
+    <select id="sort">
+      <option value="starred">Recently starred</option>
+      <option value="stars">Most stars</option>
+      <option value="updated">Recently updated</option>
+      <option value="name">Name (A–Z)</option>
+    </select>
+    <button id="reset" type="button">Reset</button>
+    <span id="count"></span>
+  </div>
+</header>
+<div id="tagCloud" title="Filter by tag (topic)"></div>
+<main id="grid"></main>
+
+<script id="stars-data" type="application/json">__STARS_JSON__</script>
+<script>
+const STARS = JSON.parse(document.getElementById('stars-data').textContent || '[]');
+const $ = id => document.getElementById(id);
+const grid = $('grid'), q = $('q'), langSel = $('lang'), sortSel = $('sort'), cloud = $('tagCloud');
+let activeTags = new Set();
+
+// Populate language dropdown
+[...new Set(STARS.map(s => s.language).filter(Boolean))].sort((a,b)=>a.localeCompare(b))
+  .forEach(l => { const o = document.createElement('option'); o.value = l; o.textContent = l; langSel.appendChild(o); });
+
+// Populate tag cloud (top 60 by frequency)
+const freq = {};
+STARS.forEach(s => (s.topics||[]).forEach(t => freq[t] = (freq[t]||0)+1));
+Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,60).forEach(([t,n]) => {
+  const b = document.createElement('button');
+  b.textContent = `${t} (${n})`; b.dataset.tag = t;
+  b.onclick = () => { activeTags.has(t) ? activeTags.delete(t) : activeTags.add(t); b.classList.toggle('active'); render(); };
+  cloud.appendChild(b);
+});
+$('total').textContent = `(${STARS.length} repos)`;
+
+function fmtDate(iso){ if(!iso) return ''; const d = new Date(iso); return isNaN(d) ? '' : d.toLocaleDateString(); }
+
+function filtered(){
+  const needle = q.value.trim().toLowerCase();
+  const lang = langSel.value;
+  let out = STARS.filter(s => {
+    if (lang && s.language !== lang) return false;
+    if (activeTags.size && ![...(activeTags)].every(t => (s.topics||[]).includes(t))) return false;
+    if (needle && !(s.full_name.toLowerCase().includes(needle) || (s.description||'').toLowerCase().includes(needle))) return false;
+    return true;
+  });
+  const by = sortSel.value;
+  out.sort((a,b) => {
+    if (by === 'stars') return (b.stargazers||0)-(a.stargazers||0);
+    if (by === 'name') return a.full_name.localeCompare(b.full_name);
+    if (by === 'updated') return (b.repo_updated_at||'').localeCompare(a.repo_updated_at||'');
+    return (b.starred_at||'').localeCompare(a.starred_at||''); // recently starred
+  });
+  return out;
+}
+
+function card(s){
+  const tags = (s.topics||[]).slice(0,8).map(t =>
+    `<span data-tag="${t.replace(/"/g,'&quot;')}" title="filter by ${t.replace(/"/g,'&quot;')}">${t.replace(/</g,'&lt;')}</span>`).join('');
+  return `<article class="card">
+    <a class="imglink" href="${s.url}" target="_blank" rel="noopener"><span class="imgph">${s.full_name}</span><img class="og" loading="lazy" src="${s.image}" alt="${s.full_name} preview"
+      onload="this.classList.add('loaded')" onerror="this.remove()"></a>
+    <div class="body">
+      <p class="owner">${s.owner.replace(/</g,'&lt;')}</p>
+      <h2><a href="${s.url}" target="_blank" rel="noopener">${s.name.replace(/</g,'&lt;')}</a></h2>
+      <p class="desc">${(s.description||'').replace(/</g,'&lt;').slice(0,220)}</p>
+      <hr class="sep">
+      <div class="meta">
+        <span class="pill lang">${(s.language||'').replace(/</g,'&lt;')}</span>
+        <span class="right" title="stargazers">stars: ${Number(s.stargazers||0).toLocaleString()}</span>
+        ${s.starred_at ? `<span title="you starred this on ${s.starred_at}">starred: ${fmtDate(s.starred_at)}</span>` : ''}
+      </div>
+      <div class="tags">${tags}</div>
+    </div>
+  </article>`;
+}
+
+function render(){
+  const list = filtered();
+  $('count').textContent = `${list.length} / ${STARS.length} shown`;
+  grid.innerHTML = list.length ? list.map(card).join('') :
+    `<div class="empty">No repos match. Try clearing filters.</div>`;
+  grid.querySelectorAll('.tags span').forEach(el => el.onclick = () => {
+    const t = el.dataset.tag;
+    const btn = cloud.querySelector(`button[data-tag="${CSS.escape(t)}"]`);
+    if (activeTags.has(t)) { activeTags.delete(t); btn && btn.classList.remove('active'); }
+    else { activeTags.add(t); btn && btn.classList.add('active'); }
+    render();
+  });
+}
+
+[q, langSel, sortSel].forEach(el => el.addEventListener('input', render));
+$('reset').onclick = () => { q.value=''; langSel.value=''; sortSel.value='starred'; activeTags.clear();
+  cloud.querySelectorAll('button.active').forEach(b=>b.classList.remove('active')); render(); };
+render();
+</script>
+</body>
+</html>

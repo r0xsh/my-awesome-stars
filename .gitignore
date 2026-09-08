@@ -1,0 +1,3 @@
+# Build output (generated locally / in CI, deployed to the Pages repo)
+dist/
+__pycache__/
