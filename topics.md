@@ -1041,7 +1041,7 @@
 ## cli 
 
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -2441,7 +2441,7 @@
 ## git 
 
 - [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) - Neovim plugin to navigate commit-level context from a single line.
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [karlis-vagalis/doxxer](https://github.com/karlis-vagalis/doxxer) - CLI tool for dynamic SemVer versioning using Git and tags
 - [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalistic wiki powered by python, markdown and git.
@@ -2500,7 +2500,7 @@
 - [paddinglabs/margin](https://github.com/paddinglabs/margin) - Margin's Monorepo, available under AGPLv3
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [Tsuzat/Nota](https://github.com/Tsuzat/Nota) - A Fast, Modern, Feature Rich and Lightweight Note taking desktop application made with native AI integration
@@ -2607,7 +2607,7 @@
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [Tsuzat/Nota](https://github.com/Tsuzat/Nota) - A Fast, Modern, Feature Rich and Lightweight Note taking desktop application made with native AI integration
@@ -4308,7 +4308,7 @@
 - [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) - Neovim plugin to navigate commit-level context from a single line.
 - [silentium-theme/silentium.nvim](https://github.com/silentium-theme/silentium.nvim) - Pragmatic, logical and monochrome theme for Neovim.
 - [kungfusheep/mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - monochrome neovim themes
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
@@ -7328,7 +7328,7 @@
 ## terminal 
 
 - [coder/boo](https://github.com/coder/boo) - A GNU screen style terminal multiplexer built on libghostty.
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [saysjonathan/dwm.tmux](https://github.com/saysjonathan/dwm.tmux) - dwm-inspired tiling pane management for tmux
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
@@ -7430,7 +7430,7 @@
 
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
 - [webstonehq/tuxedo](https://github.com/webstonehq/tuxedo) - A fast, keyboard-driven terminal UI for todo.txt.
-- [chojs23/ec](https://github.com/chojs23/ec) - Easy terminal-native 3-way git mergetool vim-like workflow
+- [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
