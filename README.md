@@ -48,7 +48,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mathematica](#mathematica)
 - [Meson](#meson)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
@@ -83,6 +82,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [Wolfram Language](#wolfram-language)
 - [Zig](#zig)
 - [hoon](#hoon)
 
@@ -622,6 +622,7 @@
 - [dashbitco/schemecto](https://github.com/dashbitco/schemecto) - Schemaless Ecto changesets with support for nesting and JSON Schemas
 - [bartblast/hologram](https://github.com/bartblast/hologram) - Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript
 - [expert-lsp/expert](https://github.com/expert-lsp/expert) - Official Elixir Language Server Protocol implementation
+- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [elixir-dbvisor/sql](https://github.com/elixir-dbvisor/sql) - SQL provides state-of-the-art, high-performance SQL integration for Elixir, built to handle extreme concurrency with unmatched expressiveness and ergonomic query composition. Write safe, composable, p
 - [AlexR2D2/duckdbex](https://github.com/AlexR2D2/duckdbex) - The Library embeds C++ DuckDB database into you Elixir application.
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
@@ -651,7 +652,7 @@
 - [naymspace/backpex](https://github.com/naymspace/backpex) - Backpex is a highly customizable administration panel for Phoenix LiveView applications.
 - [membraneframework/ex_m3u8](https://github.com/membraneframework/ex_m3u8) - Elixir package for serializing and deserializing M3U8 manifests.
 - [elixir-error-tracker/error-tracker](https://github.com/elixir-error-tracker/error-tracker) - 🐛 An Elixir-based built-in error reporting and tracking solution
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [lexical-lsp/lexical](https://github.com/lexical-lsp/lexical) - Lexical is a next-generation elixir language server
 - [tylerbarker/tw_screen_size](https://github.com/tylerbarker/tw_screen_size) - A tiny LiveView widget showing the current screen dimensions and Tailwind breakpoint 🖼️
 - [adopt-liveview/adopt-liveview](https://github.com/adopt-liveview/adopt-liveview) - Learn how to use Phoenix LiveView with no prior Elixir or Phoenix knowledge
@@ -723,7 +724,6 @@
 
 ## Erlang 
 
-- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [Dr-Nekoma/lyceum](https://github.com/Dr-Nekoma/lyceum) - An MMO game written in Erlang + PostgreSQL (+ Omnigres) + Zig (+ Raylib), powered by a Nix-based devenv
 - [ferd/blog3r](https://github.com/ferd/blog3r) - A small static blog engine written as an Erlang compiler plugin
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
@@ -1670,10 +1670,6 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
-## Mathematica 
-
-- [apple/VideoFlashingReduction](https://github.com/apple/VideoFlashingReduction) - 
-
 ## Meson 
 
 - [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
@@ -1834,7 +1830,6 @@
 
 ## PHP 
 
-- [symfony/reprise](https://github.com/symfony/reprise) - Integrate Vite and Rsbuild with Symfony, a reprise of Webpack Encore Bundle.
 - [Payum/Payum](https://github.com/Payum/Payum) - PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
 - [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Event tracking, threat detection, and risk scoring for any product.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
@@ -1977,7 +1972,7 @@
 - [arman-bd/httpmorph](https://github.com/arman-bd/httpmorph) - httpmorph is a drop-in replacement for Python's requests library that uses a custom C implementation with BoringSSL instead of Python's standard HTTP stack.
 - [ashfn/raptor](https://github.com/ashfn/raptor) - A project that uses several transport APIs to provide live route generation for public transport to get from A to B.
 - [pyocd/pyOCD](https://github.com/pyocd/pyOCD) - Open source Python library for programming and debugging Arm Cortex-M microcontrollers
-- [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
+- [apple-aiml-research/ml-fastvlm](https://github.com/apple-aiml-research/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
@@ -2942,6 +2937,7 @@
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [symfony/reprise](https://github.com/symfony/reprise) - Integrate Vite and Rsbuild with Symfony, a reprise of Webpack Encore Bundle.
 - [kuatsu/react-native-boost](https://github.com/kuatsu/react-native-boost) - 🚀 Boost your React Native app's performance with a single line of code
 - [Intuned/selector-forge](https://github.com/Intuned/selector-forge) - Browser extension to create reliable selectors (CSS and Xpath) using AI
 - [0xchasercat/mochi](https://github.com/0xchasercat/mochi) - The library for faithful browser automation. High-fidelity fingerprinting for Bun, engineered for consistency and transparency.
@@ -3044,7 +3040,7 @@
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
 - [rhysd/monolith-of-web](https://github.com/rhysd/monolith-of-web) - A chrome extension to make a single static HTML file of the web page using a WebAssembly port of monolith CLI
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [kristiandupont/react-geiger](https://github.com/kristiandupont/react-geiger) - Audiolize React performance
@@ -3297,6 +3293,10 @@
 ## WebAssembly 
 
 - [torch2424/wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️
+
+## Wolfram Language 
+
+- [apple-aiml-research/VideoFlashingReduction](https://github.com/apple-aiml-research/VideoFlashingReduction) - 
 
 ## Zig 
 
