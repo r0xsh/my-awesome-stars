@@ -80,6 +80,7 @@
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Wolfram Language](#wolfram-language)
@@ -701,7 +702,7 @@
 - [ueberauth/ueberauth](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications
 - [Perhap/perhap](https://github.com/Perhap/perhap) - Perhap is an purely functional event store and service framework inspired by domain driven design and reactive architectures.
 - [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
-- [ArangoDB-Community/arangox](https://github.com/ArangoDB-Community/arangox) - ArangoDB 3.11 driver for Elixir with connection pooling, support for VelocyStream, active failover, transactions and streamed cursors.
+- [ArangoDB-Community/arangox](https://github.com/ArangoDB-Community/arangox) - Elixir driver for ArangoDB 3.12 on DBConnection: HTTP via Mint, pooling, AQL, stream transactions, cursors, and a resource API over ArangoDB's HTTP surface. VelocyStream and active failover remain for
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
 - [ueberauth/guardian](https://github.com/ueberauth/guardian) - Elixir Authentication
@@ -3283,8 +3284,13 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [thiagoalessio/rainbow_levels.vim](https://github.com/thiagoalessio/rainbow_levels.vim) - A different approach to code highlighting.
 
+## Visual Basic .NET 
+
+- [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
+
 ## Vue 
 
+- [vinayakkulkarni/nxui](https://github.com/vinayakkulkarni/nxui) - Beautiful animated components for Vue. Built with Tailwind CSS and motion-v.
 - [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
 - [Acreom/app](https://github.com/Acreom/app) - 2nd brain for software engineers. A local-first knowledge base for your daily context and projects.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
