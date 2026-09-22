@@ -441,7 +441,7 @@
 ## ai-agents 
 
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
-- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless sandbox and virtual resource runtime. Run any workload in a real container, including an agent's tool-call or LLM-generated code.
+- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless container runtime and sandbox, built on virtual resources. Run workloads in a real container, including an agent's tool-call or LLM-generated code.
 - [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, M
@@ -501,7 +501,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
@@ -825,7 +825,7 @@
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -1349,6 +1349,7 @@
 
 ## cryptography 
 
+- [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed envelopes of letters and passwords that open for your family after you go quiet. iOS, no backend, MPL-2.0.
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [josephernest/nfreezer](https://github.com/josephernest/nfreezer) - nFreezer is an encrypted-at-rest backup tool.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1837,8 +1838,9 @@
 
 ## docker 
 
+- [maxcomperatore/rubrol](https://github.com/maxcomperatore/rubrol) - Sub-millisecond dynamic PDF/A document engine powered by Typst. Replaces Headless Chrome, Puppeteer & Gotenberg with 96% less memory. Native HTTP sidecar.
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
-- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless sandbox and virtual resource runtime. Run any workload in a real container, including an agent's tool-call or LLM-generated code.
+- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless container runtime and sandbox, built on virtual resources. Run workloads in a real container, including an agent's tool-call or LLM-generated code.
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -1870,7 +1872,7 @@
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [andrew-ld/docker-stats](https://github.com/andrew-ld/docker-stats) - 
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -2637,7 +2639,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -3192,6 +3194,7 @@
 
 ## ios 
 
+- [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed envelopes of letters and passwords that open for your family after you go quiet. iOS, no backend, MPL-2.0.
 - [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
@@ -3756,7 +3759,7 @@
 
 - [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
 - [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.
-- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless sandbox and virtual resource runtime. Run any workload in a real container, including an agent's tool-call or LLM-generated code.
+- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless container runtime and sandbox, built on virtual resources. Run workloads in a real container, including an agent's tool-call or LLM-generated code.
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
@@ -4212,7 +4215,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
@@ -4720,7 +4723,6 @@
 ## others 
 
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
-- [jasonepage/Seal](https://github.com/jasonepage/Seal) - 
 - [honeycombio/opentelemetry-collector-symbolicator](https://github.com/honeycombio/opentelemetry-collector-symbolicator) - 
 - [Qbix/webserver](https://github.com/Qbix/webserver) - Pure-PHP Web Server. No NGinX or PHP-FPM needed. Handle over 100x more traffic instead!
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - 
@@ -4865,7 +4867,7 @@
 - [nadavmatalon/TinyWireS](https://github.com/nadavmatalon/TinyWireS) - ATtiny I2C Slave Library
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) - RFC browser for nvim written in Lua
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Event tracking, threat detection, and risk scoring inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Detect cyberfraud, account takeovers, and business logic abuse inside your product.
 - [yoavsbg/css-flexbox-playground](https://github.com/yoavsbg/css-flexbox-playground) - CSS Flexbox Playground - Experiment with different flex properties to understand how they affect layout. Adjust the controls below to see changes in real-time and copy the generated CSS code.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
@@ -5995,6 +5997,7 @@
 
 ## privacy 
 
+- [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed envelopes of letters and passwords that open for your family after you go quiet. iOS, no backend, MPL-2.0.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is availab
@@ -6599,9 +6602,10 @@
 
 ## rust 
 
+- [maxcomperatore/rubrol](https://github.com/maxcomperatore/rubrol) - Sub-millisecond dynamic PDF/A document engine powered by Typst. Replaces Headless Chrome, Puppeteer & Gotenberg with 96% less memory. Native HTTP sidecar.
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
 - [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.
-- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless sandbox and virtual resource runtime. Run any workload in a real container, including an agent's tool-call or LLM-generated code.
+- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless container runtime and sandbox, built on virtual resources. Run workloads in a real container, including an agent's tool-call or LLM-generated code.
 - [overdrivenpotato/rust-psp](https://github.com/overdrivenpotato/rust-psp) - Rust on PSP. Panic and allocation support. Access PSP system libraries.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
@@ -7019,7 +7023,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
@@ -7277,7 +7281,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -7288,6 +7292,7 @@
 
 ## swift 
 
+- [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed envelopes of letters and passwords that open for your family after you go quiet. iOS, no backend, MPL-2.0.
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -7559,7 +7564,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - The agent framework where every run is durable, replayable, and resumable by default.
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
@@ -7758,7 +7763,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
