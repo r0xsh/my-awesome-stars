@@ -615,6 +615,7 @@
 
 ## Elixir 
 
+- [deepfates/imp](https://github.com/deepfates/imp) - declarative self-improving language-model programs for Elixir 😇
 - [jam06452/amur](https://github.com/jam06452/amur) - OAuth 2.0 and OAuth 1.0 authentication for Elixir Plug and Phoenix applications, with PKCE, state protection, and 24 providers.
 - [elixir-volt/astral](https://github.com/elixir-volt/astral) - Volt-powered static site generator for Elixir applications.
 - [BeamLabEU/phoenix_kit](https://github.com/BeamLabEU/phoenix_kit) - PhoenixKit - The Elixir Phoenix Boilerplate Starter Kit for writing your SaaS, social networks, ERP systems, marketplaces, internal tools, AI-powered apps, community platforms, and more.
@@ -823,7 +824,7 @@
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [KopiasCsaba/open_sound_control_bridge](https://github.com/KopiasCsaba/open_sound_control_bridge) - An advanced automation framework for audio mixer consoles, OBS, PTZ cameras and more based on the Open Sound Control protocol.
@@ -2953,6 +2954,7 @@
 
 ## TypeScript 
 
+- [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [yuzicapp/yuzic](https://github.com/yuzicapp/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
@@ -3049,7 +3051,7 @@
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
