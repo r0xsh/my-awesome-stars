@@ -783,6 +783,7 @@
 
 ## Go 
 
+- [wireops/wireops](https://github.com/wireops/wireops) - GitOps controller for docker compose: watch Git, auto-deploy across hosts, no Kubernetes required.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [kgarner7/navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) - A Navidrome plugin to fetch daily/weekly playlists from ListenBrainz
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
@@ -792,7 +793,7 @@
 - [honeycombio/opentelemetry-collector-symbolicator](https://github.com/honeycombio/opentelemetry-collector-symbolicator) - 
 - [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Self-hosted Expo OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and logs fr
 - [Dillonsmart/docket](https://github.com/Dillonsmart/docket) - Per-commit evidence records for agent-written code. Captures what the agent tried, what verified it, and what nobody reviewed
-- [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - Lightweight self-hosted application monitoring for small servers. Spring Boot, Quarkus, SQLite history, simple charts. No Prometheus/Grafana stack required.
+- [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - Lightweight self-hosted application monitoring for small servers. Spring Boot, Micronaut, Quarkus, SQLite-backed history, simple charts. No Prometheus/Grafana stack required.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) - Kubernetes operator for Netbird
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -836,7 +837,7 @@
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [KopiasCsaba/open_sound_control_bridge](https://github.com/KopiasCsaba/open_sound_control_bridge) - An advanced automation framework for audio mixer consoles, OBS, PTZ cameras and more based on the Open Sound Control protocol.
@@ -1310,6 +1311,7 @@
 
 ## JavaScript 
 
+- [DavidHurtadoAI/just-simple-slides](https://github.com/DavidHurtadoAI/just-simple-slides) - A minimalist visual Markdown slide editor for Obsidian. Your content, your theme, ordinary Markdown.
 - [letsseal/letsseal](https://github.com/letsseal/letsseal) - The open standard for proving any file is real, unaltered and sealed
 - [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension) - firefox extension to get instant dictionary definitions and translations for any text on any website
 - [ertdfgcvb/play.core](https://github.com/ertdfgcvb/play.core) - ASCII Playground
@@ -2361,7 +2363,7 @@
 - [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.
 - [rayfish/manymux](https://github.com/rayfish/manymux) - Persistent terminal sessions across SSH hosts. Disconnect, switch machines, and pick up where you left off.
 - [rayfish/rayfish](https://github.com/rayfish/rayfish) - Peer-to-peer mesh VPN over iroh. Connect computers, phones, and servers without an account or control server.
-- [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 90 MB of RAM.
+- [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 80 MB of RAM.
 - [getkern/kern](https://github.com/getkern/kern) - Rootless container runtime with no daemon. Runs agent tool calls and LLM-generated code in kernel-enforced containers.
 - [omarfakih1/zcomplete](https://github.com/omarfakih1/zcomplete) - Mistype a command and zcomplete runs the one you meant, worked out from the commands you usually run. zsh, bash and fish.
 - [overdrivenpotato/rust-psp](https://github.com/overdrivenpotato/rust-psp) - Rust on PSP. Panic and allocation support. Access PSP system libraries.
@@ -2963,7 +2965,7 @@
 
 ## Swift 
 
-- [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed envelopes of letters and passwords that open for your family after you go quiet. iOS, no backend.
+- [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed letters and passwords that open for your family after you go quiet. Give a key to a loved one or friend and have them open it on the website. iOS, no backend.
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [candlefinance/haptics](https://github.com/candlefinance/haptics) - Haptics for React Native with support for custom patterns and ahap files.
@@ -2984,6 +2986,7 @@
 
 ## TypeScript 
 
+- [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [moritzwilksch/diffle](https://github.com/moritzwilksch/diffle) - A keyboard-first diff viewer with LSP support and GitHub integration.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [nationaldesignstudio/rampart](https://github.com/nationaldesignstudio/rampart) - 
@@ -3299,7 +3302,6 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
@@ -3346,7 +3348,7 @@
 
 ## Vue 
 
-- [vinayakkulkarni/nxui](https://github.com/vinayakkulkarni/nxui) - Beautiful animated components for Vue. Built with Tailwind CSS and motion-v.
+- [vinayakkulkarni/nxui](https://github.com/vinayakkulkarni/nxui) - 364 animated, copy-paste UI components for Vue 3 and Nuxt: text animations, WebGL backgrounds, dashboards, charts and all 30 Paper Shaders. Install with the shadcn-vue CLI.
 - [bjesus/teatime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
 - [Acreom/app](https://github.com/Acreom/app) - 2nd brain for software engineers. A local-first knowledge base for your daily context and projects.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -3357,6 +3359,7 @@
 - [raikm/nevo](https://github.com/raikm/nevo) - The dashboard should be a solution to overview important information and control tasks quickly.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [darosh/oax](https://github.com/darosh/oax) - OpenApi Specification Explorer
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 
 ## WebAssembly 
