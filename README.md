@@ -111,6 +111,7 @@
 
 ## C 
 
+- [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [pspdev/psp-cfw-sdk](https://github.com/pspdev/psp-cfw-sdk) - 
 - [uofw/uofw](https://github.com/uofw/uofw) - The unofficial Official FirmWare, a complete latest PSP firmware reverse engineering project
@@ -289,7 +290,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
@@ -328,7 +329,6 @@
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a
 - [lowleveldesign/process-governor](https://github.com/lowleveldesign/process-governor) - This application allows you to put various limits on Windows processes.
-- [Disa-im/DisaOpenSource](https://github.com/Disa-im/DisaOpenSource) - A platform for Disa's unified messenger
 - [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - KurrentDB is a database that's engineered for modern software applications and event-driven architectures. Its event-native design simplifies data modeling and preserves data integrity while the integ
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [mellinoe/veldrid-raytracer](https://github.com/mellinoe/veldrid-raytracer) - A C# ray tracer, capable of running on both the CPU and GPU.
@@ -696,7 +696,6 @@
 - [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) - :watch: Cron-like job scheduler for Elixir
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
-- [E-xyza/zigler](https://github.com/E-xyza/zigler) - zig nifs in elixir
 - [ljgago/kino_aoc](https://github.com/ljgago/kino_aoc) - A helper for Advent of Code (a smart cell) for Elixir Livebook
 - [cocoa-xu/evision](https://github.com/cocoa-xu/evision) - Evision: An OpenCV-Erlang/Elixir binding
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -781,7 +780,6 @@
 
 ## Go 
 
-- [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus
 - [wireops/wireops](https://github.com/wireops/wireops) - GitOps controller for docker compose: watch Git, auto-deploy across hosts, no Kubernetes required.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
@@ -888,7 +886,7 @@
 - [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [eriklupander/tradfri-go](https://github.com/eriklupander/tradfri-go) - Go client for talking to the Ikea trådfri gateway
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
@@ -1132,7 +1130,7 @@
 - [Smile-SA/argoos](https://github.com/Smile-SA/argoos) - Argoos Kubernetes auto deployment
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [kelseyhightower/compose2kube](https://github.com/kelseyhightower/compose2kube) - Convert docker-compose service files to Kubernetes objects.
-- [vcaesar/riot](https://github.com/vcaesar/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
+- [vcaesar/riot](https://github.com/vcaesar/riot) - Go Open Source, Distributed, Simple and efficient text/vector Search Engine
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gomatcha/matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
@@ -1312,6 +1310,7 @@
 ## JavaScript 
 
 - [DavidHurtadoAI/just-simple-slides](https://github.com/DavidHurtadoAI/just-simple-slides) - A minimalist visual Markdown slide editor for Obsidian. Your content, your theme, ordinary Markdown.
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [letsseal/letsseal](https://github.com/letsseal/letsseal) - The open standard for proving any file is real, unaltered and sealed
 - [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension) - firefox extension to get instant dictionary definitions and translations for any text on any website
 - [ertdfgcvb/play.core](https://github.com/ertdfgcvb/play.core) - ASCII Playground
@@ -1532,13 +1531,13 @@
 
 ## Kotlin 
 
+- [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [mardous/BoomingMusic](https://github.com/mardous/BoomingMusic) - Clean, fast, and Material-driven Android music player with powerful features.
 - [GrapheneOS/Messaging](https://github.com/GrapheneOS/Messaging) - Messaging app
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
 - [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
-- [Expensify/react-native-wallet](https://github.com/Expensify/react-native-wallet) - 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [wirequery/wirequery](https://github.com/wirequery/wirequery) - WireQuery is the first full-stack session replay and API call exploration tool. Using WireQuery, you get a holistic overview of how an issue came into existence.
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
@@ -1743,6 +1742,7 @@
 
 ## Others 
 
+- [video-context/awesome-video-understanding](https://github.com/video-context/awesome-video-understanding) - A curated list of video understanding APIs, open models, tools, MCP servers, datasets, and papers.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [steviebez/Nvim-Config-Guide](https://github.com/steviebez/Nvim-Config-Guide) - Modular Neovim configuration reference detailing structure, plugin lazy-loading strategies, keymap definitions, and custom Autocommands (hooks). Note: Generated by Claude
@@ -1986,7 +1986,8 @@
 
 ## Python 
 
-- [AmadeusITGroup/Edison](https://github.com/AmadeusITGroup/Edison) - Edison is a EDIFACT parser for Python, will real syntax trees
+- [MCG-NJU/VideoJev](https://github.com/MCG-NJU/VideoJev) - VideoJev: System One Model for Video Understanding and Interaction
+- [AmadeusITGroup/Edison](https://github.com/AmadeusITGroup/Edison) - Edison is an EDIFACT parser in Python, will real syntax trees
 - [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) - A compact monospace neo-grotesque font designed for developers (and adventurers).
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 - [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
@@ -2032,7 +2033,7 @@
 - [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230
 - [nextmv-io/nextplot](https://github.com/nextmv-io/nextplot) - Tools for plotting routes and clusters from JSON
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
-- [ALD-Lab/SURD](https://github.com/ALD-Lab/SURD) - 
+- [ALD-Lab/SURD](https://github.com/ALD-Lab/SURD) - Synergistic-Unique-Redundant Decomposition of causality from time series (Nature Communications, 2024)
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [Veinar/dracan](https://github.com/Veinar/dracan) - Dracan is a lightweight middleware for Kubernetes that enhances filtering and validation capabilities. It ensures that only valid requests reach your applications, featuring HTTP method filtering, JSO
 - [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
@@ -2113,7 +2114,7 @@
 - [lettersoup/Sofia-Sans](https://github.com/lettersoup/Sofia-Sans) - 
 - [pyrustic/jesth](https://github.com/pyrustic/jesth) - Human-readable versatile data format
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
-- [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - a load testing tool extended from locust
+- [alteryx/locust-grasshopper](https://github.com/alteryx/locust-grasshopper) - Build Python performance test suites with Locust and pytest
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
@@ -2372,7 +2373,7 @@
 - [omarfakih1/zcomplete](https://github.com/omarfakih1/zcomplete) - Mistype a command and zcomplete runs the one you meant, worked out from the commands you usually run. zsh, bash and fish.
 - [overdrivenpotato/rust-psp](https://github.com/overdrivenpotato/rust-psp) - Rust on PSP. Panic and allocation support. Access PSP system libraries.
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
 - [ctrlb-hq/ctrlb-decompose](https://github.com/ctrlb-hq/ctrlb-decompose) - LLM-ready reasoning surface over logs
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
@@ -2990,6 +2991,7 @@
 
 ## TypeScript 
 
+- [lonthq/overtone-captions](https://github.com/lonthq/overtone-captions) - Reliable transcription, with captions cut for every screen shape from one file. An open caption format, a video.js plugin with style packs, and a CLI that recuts, burns in and exports word-timed capti
 - [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [moritzwilksch/diffle](https://github.com/moritzwilksch/diffle) - A keyboard-first diff viewer with LSP support and GitHub integration.
 - [margelo/nitro](https://github.com/margelo/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
@@ -3008,7 +3010,6 @@
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [symfony/reprise](https://github.com/symfony/reprise) - Integrate Vite and Rsbuild with Symfony, a reprise of Webpack Encore Bundle.
 - [kuatsu/react-native-boost](https://github.com/kuatsu/react-native-boost) - ⚡️ The React Native performance compiler.
@@ -3031,12 +3032,13 @@
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis, Files and Docker Volume
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [enatega/food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully customizable and scalable delivery management system that supports multiple business models and service verticals. It allows you to launch and manage your own ordering and logistics
+- [Expensify/react-native-wallet](https://github.com/Expensify/react-native-wallet) - 
 - [toss/granite](https://github.com/toss/granite) - Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
@@ -3205,7 +3207,7 @@
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
+- [openshiporg/openship](https://github.com/openshiporg/openship) - Open source order router connecting sales channels to fulfillment, built on Next.js and Keystone.js
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
@@ -3383,6 +3385,7 @@
 - [nDimensional/andromeda](https://github.com/nDimensional/andromeda) - High-performance graph layout engine
 - [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
+- [E-xyza/zigler](https://github.com/E-xyza/zigler) - zig nifs in elixir
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [isaachier/gbemu](https://github.com/isaachier/gbemu) - Zig Game Boy emulator
