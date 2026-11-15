@@ -173,6 +173,7 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -195,7 +196,9 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
+- [minecraft](#minecraft)
 - [mobile](#mobile)
 - [monero](#monero)
 - [mongodb](#mongodb)
@@ -234,6 +237,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [physics](#physics)
 - [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -323,6 +327,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -344,11 +349,12 @@
 
 ## agent 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead) - Hardware as fast as software.
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -378,13 +384,14 @@
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - The agent framework where every run is durable, replayable, and resumable by default.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [google-deepmind/acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents
 
 ## ai 
@@ -458,8 +465,8 @@
 
 ## ai-agent 
 
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
-- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, f
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
@@ -467,6 +474,7 @@
 
 ## ai-agents 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) - Open-Source Generative UI Framework
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
@@ -552,6 +560,7 @@
 
 ## android 
 
+- [126punith/react-native-pdf-jsi](https://github.com/126punith/react-native-pdf-jsi) - 🚀 React Native PDF Enhanced – JSI‑Powered Performance  The only React Native PDF viewer built with JSI. Render, zoom, search, and compress up to 80x faster—plus analytics, export (PNG/JPEG), and const
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 - [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
@@ -640,6 +649,7 @@
 
 ## angular 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
@@ -652,6 +662,7 @@
 
 ## animation 
 
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [ddoemonn/interior](https://github.com/ddoemonn/interior) - micro-interactions for react, built for the half-second after a click
 - [vinayakkulkarni/nxui](https://github.com/vinayakkulkarni/nxui) - 364 animated, copy-paste UI components for Vue 3 and Nuxt: text animations, WebGL backgrounds, dashboards, charts and all 30 Paper Shaders. Install with the shadcn-vue CLI.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
@@ -676,7 +687,7 @@
 
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
-- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
+- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin library for composing backend responses from reusable work, with concurrent execution, shared dependencies, and batching. Powered by a dynamic DAG scheduler.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -881,7 +892,7 @@
 
 - [lamellixlabs/vAuth](https://github.com/lamellixlabs/vAuth) - Minimalistic FIDO2 authenticator for Linux built to have convenience of Windows Hello
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
+- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin library for composing backend responses from reusable work, with concurrent execution, shared dependencies, and batching. Powered by a dynamic DAG scheduler.
 - [convex/convex-backend](https://github.com/convex/convex-backend) - The open-source reactive database for app developers
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1093,9 +1104,10 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code without reading the repo, then keep large codebases off the complexity wall
 - [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [phasehq/console](https://github.com/phasehq/console) - Secrets management for teams and AI agents.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 
@@ -1249,7 +1261,7 @@
 
 - [moritzwilksch/diffle](https://github.com/moritzwilksch/diffle) - A keyboard-first diff viewer with LSP support and GitHub integration.
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code without reading the repo, then keep large codebases off the complexity wall
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 ## coding 
@@ -1289,6 +1301,7 @@
 
 ## compiler 
 
+- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [aether-lang-dev/aether](https://github.com/aether-lang-dev/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
@@ -1363,6 +1376,7 @@
 
 ## cpp 
 
+- [morishuz/adaptive-frame-extractor](https://github.com/morishuz/adaptive-frame-extractor) - Adaptive video frame extraction for SfM, Gaussian Splatting, and photogrammetry.
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [margelo/nitro](https://github.com/margelo/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -1495,7 +1509,7 @@
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [solnic/drops](https://github.com/solnic/drops) - 🛠️ Tools for working with data effectively - data contracts using types, schemas, domain validation rules, type-safe casting, and more.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -1520,7 +1534,7 @@
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [aksnzhy/xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int
@@ -1547,7 +1561,7 @@
 - [dataspren-analytics/datastudio](https://github.com/dataspren-analytics/datastudio) - A local Python/SQL notebook in the browser for exploring, transforming and visualizing data using WebAssembly.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
@@ -1579,7 +1593,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -1683,7 +1697,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Confidence and Byt5 - based geotagging model predicting coordinates from text alone.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [iceychris/LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
@@ -1789,7 +1802,7 @@
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -2071,6 +2084,7 @@
 
 ## dotnet 
 
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [b-editor/beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 - [Difegue/Stylophone](https://github.com/Difegue/Stylophone) - A pretty cool™️ MPD client in .NET. Based on MpcNET.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
@@ -2082,10 +2096,12 @@
 
 ## downloader 
 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [clitic/vsd](https://github.com/clitic/vsd) - A command-line utility and library for downloading streams from DASH .mpd manifests and HLS .m3u8 playlists.
 
 ## dsh-plugin 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## education 
@@ -2099,6 +2115,7 @@
 
 ## electron 
 
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 - [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord & scale explorers, real-time chord detection. From MIDI to mastery.
 - [victoralvesf/aonsoku](https://github.com/victoralvesf/aonsoku) - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
 - [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
@@ -2181,7 +2198,7 @@
 - [peek-travel/cocktail](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) - :watch: Cron-like job scheduler for Elixir
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [ljgago/kino_aoc](https://github.com/ljgago/kino_aoc) - A helper for Advent of Code (a smart cell) for Elixir Livebook
 - [mirego/accent](https://github.com/mirego/accent) - The first developer-oriented translation tool. True asynchronous flow between translators and your team.
@@ -2289,6 +2306,7 @@
 
 ## express 
 
+- [amiantos/lurker](https://github.com/amiantos/lurker) - Lurker is a delightful self-hosted IRC bouncer and client with a retro aesthetic and modern conveniences.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
@@ -2351,6 +2369,7 @@
 
 ## flutter 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is an innovative not-desktop environment for Linux made with modern technologies like Flutter and Rust.
@@ -2390,7 +2409,7 @@
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [ice/framework](https://github.com/ice/framework) - Source code of Ice framework
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
+- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin library for composing backend responses from reusable work, with concurrent execution, shared dependencies, and batching. Powered by a dynamic DAG scheduler.
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - A JavaScript rendering engine inspired by Flutter. Build any visualization — charts, diagrams, editors — with composable widgets and Canvas/SVG.
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -2499,6 +2518,7 @@
 
 ## game-engine 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [stride3d/stride](https://github.com/stride3d/stride) - Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
@@ -2512,6 +2532,7 @@
 
 ## gamedev 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [stride3d/stride](https://github.com/stride3d/stride) - Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
@@ -2556,6 +2577,7 @@
 
 ## git 
 
+- [awake-client/awake](https://github.com/awake-client/awake) - An alternative to Bruno, Insomnia or Postman with better git handling for seamless team collaboration
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) - Neovim plugin to navigate commit-level context from a single line.
 - [chojs23/ec](https://github.com/chojs23/ec) - Terminal-native 3-way git mergetool and diff viewer
@@ -2717,6 +2739,7 @@
 
 ## golang 
 
+- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [sophotechlabs/spinoza](https://github.com/sophotechlabs/spinoza) - The Kubernetes BFG.
 - [mercuretechnologies/xprem](https://github.com/mercuretechnologies/xprem) - Self-hosted Expo OTA Updates alternative to EAS Update, on the official Expo Updates protocol. Multi-app dashboard, progressive rollouts, instant rollbacks, and per-update crashes, metrics and logs fr
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
@@ -2903,6 +2926,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
@@ -2945,6 +2969,7 @@
 
 ## hacktoberfest 
 
+- [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
@@ -2993,7 +3018,6 @@
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [tarlepp/symfony-flex-backend](https://github.com/tarlepp/symfony-flex-backend) - Symfony Flex REST API template project
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [maplibre/maputnik](https://github.com/maplibre/maputnik) - An open source visual editor for the 'MapLibre Style Specification'
@@ -3302,6 +3326,7 @@
 
 ## ios 
 
+- [126punith/react-native-pdf-jsi](https://github.com/126punith/react-native-pdf-jsi) - 🚀 React Native PDF Enhanced – JSI‑Powered Performance  The only React Native PDF viewer built with JSI. Render, zoom, search, and compress up to 80x faster—plus analytics, export (PNG/JPEG), and const
 - [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed letters and passwords that open for your family after you go quiet. Give a key to a loved one and have them open the envelope.
 - [flectar/mail](https://github.com/flectar/mail) - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and about 20 MB of private memory at idle.
@@ -3420,6 +3445,7 @@
 
 ## javascript 
 
+- [awake-client/awake](https://github.com/awake-client/awake) - An alternative to Bruno, Insomnia or Postman with better git handling for seamless team collaboration
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) - Open-Source Generative UI Framework
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
@@ -3576,6 +3602,7 @@
 
 ## jetpack-compose 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
@@ -3637,11 +3664,20 @@
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 
+## knowledge-graph 
+
+- [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RD
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
+- [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+
 ## kotlin 
 
 - [margelo/nitro](https://github.com/margelo/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 - [mardous/BoomingMusic](https://github.com/mardous/BoomingMusic) - Clean, fast, and Material-driven Android music player with powerful features.
-- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin framework for writing cleaner backend APIs through intelligent data composition
+- [BuildMosaic/Mosaic](https://github.com/BuildMosaic/Mosaic) - A Kotlin library for composing backend responses from reusable work, with concurrent execution, shared dependencies, and batching. Powered by a dynamic DAG scheduler.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
@@ -3660,6 +3696,8 @@
 
 ## kubernetes 
 
+- [paimonsoror/telltaledns](https://github.com/paimonsoror/telltaledns) - A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes.
+- [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [sophotechlabs/spinoza](https://github.com/sophotechlabs/spinoza) - The Kubernetes BFG.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) - Kubernetes operator for Netbird
@@ -3787,6 +3825,7 @@
 
 ## language 
 
+- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [aether-lang-dev/aether](https://github.com/aether-lang-dev/aether) - An actor-based systems language that compiles to readable C. Native, no VM, no garbage collector.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -3815,6 +3854,7 @@
 
 ## laravel 
 
+- [Inventoros/Inventoros](https://github.com/Inventoros/Inventoros) - Open source PHP based Inventory / WMS management for the rest of us
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
@@ -3883,6 +3923,9 @@
 
 ## linux 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 - [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord & scale explorers, real-time chord detection. From MIDI to mastery.
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
@@ -4021,6 +4064,7 @@
 
 ## llm 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) - Open-Source Generative UI Framework
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Sub-50mb agentic, voice and vision intelligence for consumer devices.
@@ -4129,7 +4173,7 @@
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Confidence and Byt5 - based geotagging model predicting coordinates from text alone.
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [clarkerubber/irwin](https://github.com/clarkerubber/irwin) - irwin - the protector of lichess from all chess players villainous
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
@@ -4161,6 +4205,8 @@
 
 ## macos 
 
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [Psysonic/psysonic](https://github.com/Psysonic/psysonic) - Native desktop music player for Navidrome and other Subsonic servers: a fast local library, smart playlists, lyrics, scrobbling, themes and Orbit for listening together with friends. No telemetry, 16 
@@ -4275,13 +4321,17 @@
 
 ## mcp 
 
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [paimonsoror/telltaledns](https://github.com/paimonsoror/telltaledns) - A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes.
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [video-context/awesome-video-understanding](https://github.com/video-context/awesome-video-understanding) - A curated list of video understanding APIs, open models, tools, MCP servers, datasets, and papers.
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
-- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, f
 - [Anandb71/arbor](https://github.com/Anandb71/arbor) - Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [dilolabs/nosia](https://github.com/dilolabs/nosia) - Self-hosted AI RAG + MCP Platform
@@ -4290,7 +4340,19 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) - lunar.dev: Agent native MCP Gateway for governance and security
+- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
+
+## mcp-server 
+
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code without reading the repo, then keep large codebases off the complexity wall
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
+- [markuman/sms](https://github.com/markuman/sms) - simple mbtiles server
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
+- [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) - lunar.dev: Agent native MCP Gateway for governance and security
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 
 ## microservices 
@@ -4313,8 +4375,13 @@
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [kraken-php/framework](https://github.com/kraken-php/framework) - Asynchronous & Fault-tolerant PHP Framework for Distributed Applications.
 
+## minecraft 
+
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+
 ## mobile 
 
+- [126punith/react-native-pdf-jsi](https://github.com/126punith/react-native-pdf-jsi) - 🚀 React Native PDF Enhanced – JSI‑Powered Performance  The only React Native PDF viewer built with JSI. Render, zoom, search, and compress up to 80x faster—plus analytics, export (PNG/JPEG), and const
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
@@ -4322,6 +4389,7 @@
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [SyncProxy/sync-client](https://github.com/SyncProxy/sync-client) - SyncProxy javascript client with support for all major embedded databases (IndexedDB, SQLite, WebSQL, LokiJS...)
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -4420,7 +4488,7 @@
 ## mysql 
 
 - [webstonehq/seaquel](https://github.com/webstonehq/seaquel) - A modern, open-source database client for desktop and web.
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
@@ -4569,6 +4637,7 @@
 
 ## nestjs 
 
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -4794,10 +4863,12 @@
 
 ## open-source 
 
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+- [awake-client/awake](https://github.com/awake-client/awake) - An alternative to Bruno, Insomnia or Postman with better git handling for seamless team collaboration
 - [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) - Open-Source Generative UI Framework
 - [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
-- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, f
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [Zuhaitz-dev/zenc-lang](https://github.com/Zuhaitz-dev/zenc-lang) - Write like a high-level language, run like C.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -4890,6 +4961,12 @@
 
 ## others 
 
+- [fishcu/oly_fw_analysis](https://github.com/fishcu/oly_fw_analysis) - Analysis of Olympus and OM System camera firmwares, different models
+- [edraj/sauron](https://github.com/edraj/sauron) - Crash Reporting and Application Performance Monitoring Platform
+- [kaiT2en/KaiT2en-Fedora](https://github.com/kaiT2en/KaiT2en-Fedora) - Bringing cutting edge T2 Mac support to stock Fedora using DKMS modules
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
+- [motixo/orbit](https://github.com/motixo/orbit) - Native file shelf for COSMIC
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [xnixy/guesthouse](https://github.com/xnixy/guesthouse) - GPU virtual machines on Linux
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System
 - [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 
@@ -4970,6 +5047,7 @@
 - [if-not-nil/lunar](https://github.com/if-not-nil/lunar) - a collection of user space utilities i've written over time
 - [dashbitco/schemecto](https://github.com/dashbitco/schemecto) - Schemaless Ecto changesets with support for nesting and JSON Schemas
 - [quantonganh/helix-wezterm](https://github.com/quantonganh/helix-wezterm) - Turning Helix into an IDE with the help of WezTerm and CLI tools
+- [ertdfgcvb/play.core](https://github.com/ertdfgcvb/play.core) - ASCII Playground
 - [elitracy/blackbag.nvim](https://github.com/elitracy/blackbag.nvim) - 
 - [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [rio/dotfiles](https://github.com/rio/dotfiles) - 
@@ -5441,7 +5519,6 @@
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [boblemaire/IoTaWatt](https://github.com/boblemaire/IoTaWatt) - IoTaWatt Open WiFi Electric Energy Monitor
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
-- [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [bishoph/sopare](https://github.com/bishoph/sopare) - Real time sound pattern recognition in Python for Raspberry/Banana Pi.
@@ -6082,6 +6159,10 @@
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [kraken-php/framework](https://github.com/kraken-php/framework) - Asynchronous & Fault-tolerant PHP Framework for Distributed Applications.
 
+## physics 
+
+- [heldercorreia/speedcrunch](https://github.com/heldercorreia/speedcrunch) - Official home for the SpeedCrunch scientific calculator
+
 ## portfolio 
 
 - [aashvikt/aashvikt.github.io](https://github.com/aashvikt/aashvikt.github.io) - my website
@@ -6089,8 +6170,9 @@
 
 ## postgresql 
 
+- [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [webstonehq/seaquel](https://github.com/webstonehq/seaquel) - A modern, open-source database client for desktop and web.
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -6174,6 +6256,8 @@
 
 ## privacy 
 
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) - Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 - [jasonepage/Seal](https://github.com/jasonepage/Seal) - Sealed letters and passwords that open for your family after you go quiet. Give a key to a loved one and have them open the envelope.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -6264,7 +6348,7 @@
 ## project-management 
 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, f
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
@@ -6377,7 +6461,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [gympohnpimol/Last-Mile-Logistics](https://github.com/gympohnpimol/Last-Mile-Logistics) - 
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
@@ -6468,7 +6552,6 @@
 - [alan-turing-institute/CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files. It provides a drop-in replacement for the builtin CSV module with improved dialect detection, and comes with a handy command line applicatio
 - [m3047/trualias](https://github.com/m3047/trualias) - Mentally computable verification codes for email aliases implemented as a postfix tcp table; uses asyncio.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
@@ -6500,6 +6583,7 @@
 
 ## qt 
 
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -6559,6 +6643,7 @@
 
 ## react 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [margelo/nitro](https://github.com/margelo/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ddoemonn/interior](https://github.com/ddoemonn/interior) - micro-interactions for react, built for the half-second after a click
@@ -6665,6 +6750,7 @@
 
 ## react-native 
 
+- [126punith/react-native-pdf-jsi](https://github.com/126punith/react-native-pdf-jsi) - 🚀 React Native PDF Enhanced – JSI‑Powered Performance  The only React Native PDF viewer built with JSI. Render, zoom, search, and compress up to 80x faster—plus analytics, export (PNG/JPEG), and const
 - [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [margelo/nitro](https://github.com/margelo/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 - [yuzicapp/yuzic](https://github.com/yuzicapp/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
@@ -6735,6 +6821,7 @@
 
 ## rest-api 
 
+- [awake-client/awake](https://github.com/awake-client/awake) - An alternative to Bruno, Insomnia or Postman with better git handling for seamless team collaboration
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
@@ -6801,18 +6888,21 @@
 
 ## rust 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [paimonsoror/telltaledns](https://github.com/paimonsoror/telltaledns) - A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes.
+- [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [elixir-crab/gpui](https://github.com/elixir-crab/gpui) - Declarative native desktop UI for Elixir/OTP — GPUI windows, HEEx-style views, native controls, testing, and remote displays
 - [nordstjernen-web/southstar-browser](https://github.com/nordstjernen-web/southstar-browser) - Southstar browser. A open source web browser with dual GPL 3+ or NSL license, made in Rust, written from scratch in 2026.
 - [opengeos/RustGIS](https://github.com/opengeos/RustGIS) - A fast, free and open-source GIS in pure Rust.
 - [pivotlake/pivot](https://github.com/pivotlake/pivot) - Pivot is a high-performance real time analytics database on open data formats.
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Polochon-street/bliss-rs](https://github.com/Polochon-street/bliss-rs) - A song analysis library for making playlists
-- [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written from scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [RustyNova016/musicbrainz_rs](https://github.com/RustyNova016/musicbrainz_rs) - A wrapper around the musicbrainz API
@@ -7113,6 +7203,8 @@
 
 ## security 
 
+- [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
+- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [lamellixlabs/vAuth](https://github.com/lamellixlabs/vAuth) - Minimalistic FIDO2 authenticator for Linux built to have convenience of Windows Hello
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -7201,6 +7293,10 @@
 
 ## self-hosted 
 
+- [paimonsoror/telltaledns](https://github.com/paimonsoror/telltaledns) - A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes.
+- [Inventoros/Inventoros](https://github.com/Inventoros/Inventoros) - Open source PHP based Inventory / WMS management for the rest of us
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
+- [amiantos/lurker](https://github.com/amiantos/lurker) - Lurker is a delightful self-hosted IRC bouncer and client with a retro aesthetic and modern conveniences.
 - [irashack/molebridge](https://github.com/irashack/molebridge) - A self-hosted NetBird exit node that sends your peers' internet traffic out through Mullvad, PIA or NordVPN, or through gluetun for four more providers, with routing that fails closed.
 - [wireops/wireops](https://github.com/wireops/wireops) - GitOps controller for docker compose: watch Git, auto-deploy across hosts, no Kubernetes required.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
@@ -7211,7 +7307,7 @@
 - [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - Lightweight self-hosted application monitoring for small servers. Spring Boot, Micronaut, Quarkus, SQLite-backed history, simple charts. No Prometheus/Grafana stack required.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, f
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [plutonhq/pluton](https://github.com/plutonhq/pluton) - A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage.
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
@@ -7379,7 +7475,7 @@
 - [pivotlake/pivot](https://github.com/pivotlake/pivot) - Pivot is a high-performance real time analytics database on open data formats.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [webstonehq/seaquel](https://github.com/webstonehq/seaquel) - A modern, open-source database client for desktop and web.
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
@@ -7449,7 +7545,7 @@
 ## sqlite 
 
 - [webstonehq/seaquel](https://github.com/webstonehq/seaquel) - A modern, open-source database client for desktop and web.
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.
 - [PVRLabs/statlite](https://github.com/PVRLabs/statlite) - Lightweight self-hosted application monitoring for small servers. Spring Boot, Micronaut, Quarkus, SQLite-backed history, simple charts. No Prometheus/Grafana stack required.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
@@ -7547,6 +7643,7 @@
 
 ## swiftui 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 
 ## symfony 
@@ -7765,7 +7862,8 @@
 
 ## typescript 
 
-- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
+- [126punith/react-native-pdf-jsi](https://github.com/126punith/react-native-pdf-jsi) - 🚀 React Native PDF Enhanced – JSI‑Powered Performance  The only React Native PDF viewer built with JSI. Render, zoom, search, and compress up to 80x faster—plus analytics, export (PNG/JPEG), and const
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) - Open-Source Generative UI Framework
 - [Psysonic/psysonic](https://github.com/Psysonic/psysonic) - Native desktop music player for Navidrome and other Subsonic servers: a fast local library, smart playlists, lyrics, scrobbling, themes and Orbit for listening together with friends. No telemetry, 16 
@@ -8043,6 +8141,7 @@
 
 ## vue 
 
+- [amiantos/lurker](https://github.com/amiantos/lurker) - Lurker is a delightful self-hosted IRC bouncer and client with a retro aesthetic and modern conveniences.
 - [vinayakkulkarni/nxui](https://github.com/vinayakkulkarni/nxui) - 364 animated, copy-paste UI components for Vue 3 and Nuxt: text animations, WebGL backgrounds, dashboards, charts and all 30 Paper Shaders. Install with the shadcn-vue CLI.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 - [elixir-volt/volt](https://github.com/elixir-volt/volt) - Elixir-native frontend build tool — dev server, HMR, and production builds for JavaScript, TypeScript, Vue SFCs, and CSS. No Node.js required.
@@ -8083,6 +8182,7 @@
 
 ## vuejs 
 
+- [Inventoros/Inventoros](https://github.com/Inventoros/Inventoros) - Open source PHP based Inventory / WMS management for the rest of us
 - [vinayakkulkarni/nxui](https://github.com/vinayakkulkarni/nxui) - 364 animated, copy-paste UI components for Vue 3 and Nuxt: text animations, WebGL backgrounds, dashboards, charts and all 30 Paper Shaders. Install with the shadcn-vue CLI.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [multi-coop/datami](https://github.com/multi-coop/datami) - Datami's mirror repo (source on Gitlab)
@@ -8180,8 +8280,15 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 
+## whatsapp 
+
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+
 ## windows 
 
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
 - [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord & scale explorers, real-time chord detection. From MIDI to mastery.
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
