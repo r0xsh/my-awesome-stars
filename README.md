@@ -12,6 +12,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [C3](#c3)
 - [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -550,6 +551,10 @@
 - [LineageOS/android_device_huawei_kiwi](https://github.com/LineageOS/android_device_huawei_kiwi) - 
 - [manjaro/mhwd](https://github.com/manjaro/mhwd) - This repo has been archived. Our code is now hosted at
 
+## C3 
+
+- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
+
 ## CMake 
 
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
@@ -788,7 +793,7 @@
 
 ## Go 
 
-- [awake-client/awake](https://github.com/awake-client/awake) - An alternative to Bruno, Insomnia or Postman with better git handling for seamless team collaboration
+- [awake-client/awake](https://github.com/awake-client/awake) - An alternative to Bruno, Insomnia or Postman with better git handling for seamless team collaboration. No account, no telemetry, no paid plan.
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
@@ -810,7 +815,7 @@
 - [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator) - Kubernetes operator for Netbird
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [kopecmaciej/vi-sql](https://github.com/kopecmaciej/vi-sql) - Terminal UI for SQL databases
-- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board. Self-hosted, f
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [Sambigeara/pollen](https://github.com/Sambigeara/pollen) - Distributed WASM runtime. Workloads place themselves over a zero-trust mesh. One static binary.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
@@ -2006,6 +2011,7 @@
 
 ## Python 
 
+- [fishcu/oly_fw_analysis](https://github.com/fishcu/oly_fw_analysis) - Analysis of Olympus and OM System camera firmwares, different models
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [MCG-NJU/VideoJev](https://github.com/MCG-NJU/VideoJev) - VideoJev: System One Model for Video Understanding and Interaction
 - [AmadeusITGroup/Edison](https://github.com/AmadeusITGroup/Edison) - Edison is an EDIFACT parser in Python, will real syntax trees
@@ -2375,6 +2381,10 @@
 
 ## Rust 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [paimonsoror/telltaledns](https://github.com/paimonsoror/telltaledns) - A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes.
+- [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
+- [edraj/sauron](https://github.com/edraj/sauron) - Crash Reporting and Application Performance Monitoring Platform
 - [kaiT2en/KaiT2en-Fedora](https://github.com/kaiT2en/KaiT2en-Fedora) - Bringing cutting edge T2 Mac support to stock Fedora using DKMS modules
 - [motixo/orbit](https://github.com/motixo/orbit) - Native file shelf for COSMIC
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
